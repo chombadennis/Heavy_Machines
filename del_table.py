@@ -12,5 +12,5 @@ def delete_table(db_name, table_name):
     print(f"Table '{table_name}' has been deleted successfully.")
 
 # Usage
-delete_table("equipment_data.db", "hitachi_equipment_specs")
+delete_table("equipment_data.db", "cat_equipment")
 
