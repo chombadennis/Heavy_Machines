@@ -1,16 +1,17 @@
 import sqlite3
 
-def delete_table(db_name, table_name):
-    """Deletes the specified table from the SQLite database."""
-    conn = sqlite3.connect(db_name)
-    cursor = conn.cursor()
-    
-    cursor.execute(f"DROP TABLE IF EXISTS {table_name};")
-    conn.commit()
-    conn.close()
-    
-    print(f"Table '{table_name}' has been deleted successfully.")
+# Connect to the SQLite database
+db_path = "equipment_data.db"
+conn = sqlite3.connect(db_path)
+cursor = conn.cursor()
 
-# Usage
-delete_table("equipment_data.db", "cat_equipment")
+# Drop the table if it exists
+table_name = "cat_skid_steer_loaders_&_compact_track_loaders_specs"
+cursor.execute(f"DROP TABLE IF EXISTS `{table_name}`")
 
+# Commit changes and close connection
+conn.commit()
+conn.close()
+
+print(f"Table '{table_name}' has been deleted successfully.")
+ 
