@@ -1,0 +1,96 @@
+id,model_name,product_family,product_category,Target Payload (100%),LRC Bare Chassis Weight without Hoist,Rated Gross Machine Weight (33.00R51 tires),Tractor ROPS,Nominal Rated Payload,Engine Model,Rated Gross Machine Weight,Nominal Payload Class (100%),Gross Power - SAE J1995:2014,Nominal Water Tank Capacity,Water Tank Capacity,Nominal Rated Payload (33.00R51 Tires),Top Speed - Loaded,Gross Power - SAE J1995
+1,777 (07) Water Truck,Off-Highway Trucks,Water Trucks,,,,,,Cat® C32B,,,1025 hp,,"up to 75 700 L (20,000 gal)",,,
+2,785,Off-Highway Trucks,Mining Trucks,,,550000 lb,,,,,,,,,153 ton (US),,1600 hp
+3,789,Off-Highway Trucks,Mining Trucks,,,,,213 ton (US),,715000 lb,,2100 hp,,,,,
+4,793,Off-Highway Trucks,Mining Trucks,,,,,265 ton (US),,890668 lb,,2650 hp,,,,,
+5,793F,Off-Highway Trucks,Mining Trucks,,,,,256 ton (US),,851000 lb,,,,,,,2650 hp
+6,794 AC,Off-Highway Trucks,Mining Trucks,,,,,327 ton (US),,1150000 lb,,,,,,,3500 hp
+7,796 AC,Off-Highway Trucks,Mining Trucks,,,,,360 ton (US),,1270000 lb,,,,,,,3500 hp
+8,797F,Off-Highway Trucks,Mining Trucks,,,,,400 ton (US),,1375000 lb,,,,,,,4000 hp
+9,798 AC,Off-Highway Trucks,Mining Trucks,,,,,410 ton (US),,1375000 lb,,,,,,,3500 hp
+10,770 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C15,,42.1 ton (US),,,,,45.8 mile/h,
+11,772 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C18,,51.6 ton (US),,,,,49.2 mile/h,
+12,773 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C27,,61.7 ton (US),,,,,42 mile/h,
+13,775 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C27,,70.5 ton (US),,,,,41.6 mile/h,
+14,777 (07),Off-Highway Trucks,Off-Highway Trucks,101.1 ton (US),,,,,Cat® C32B,,,,,,,40.9 mile/h,
+15,770 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,54357 lb,,77430 lb,,,,,,9000 gal (US),,,,
+16,772 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,58414 lb,,77430 lb,,,,,,11000 gal (US),,,,
+17,775 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,75118 lb,,85288 lb,,,,,,15000 gal (US),,,,
+18,777 (07) Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,111505 lb,,133082 lb,,,,,,20000 gal (US),,,,
+19,785 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,184582 lb,,231485 lb,,,,,,30000 gal (US),,,,
+20,777 (07) Water Truck,Off-Highway Trucks,Water Trucks,,,,,,Cat® C32B,,,1025 hp,,"up to 75 700 L (20,000 gal)",,,
+21,785,Off-Highway Trucks,Mining Trucks,,,550000 lb,,,,,,,,,153 ton (US),,1600 hp
+22,789,Off-Highway Trucks,Mining Trucks,,,,,213 ton (US),,715000 lb,,2100 hp,,,,,
+23,793,Off-Highway Trucks,Mining Trucks,,,,,265 ton (US),,890668 lb,,2650 hp,,,,,
+24,793F,Off-Highway Trucks,Mining Trucks,,,,,256 ton (US),,851000 lb,,,,,,,2650 hp
+25,794 AC,Off-Highway Trucks,Mining Trucks,,,,,327 ton (US),,1150000 lb,,,,,,,3500 hp
+26,796 AC,Off-Highway Trucks,Mining Trucks,,,,,360 ton (US),,1270000 lb,,,,,,,3500 hp
+27,797F,Off-Highway Trucks,Mining Trucks,,,,,400 ton (US),,1375000 lb,,,,,,,4000 hp
+28,798 AC,Off-Highway Trucks,Mining Trucks,,,,,410 ton (US),,1375000 lb,,,,,,,3500 hp
+29,770 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C15,,42.1 ton (US),,,,,45.8 mile/h,
+30,772 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C18,,51.6 ton (US),,,,,49.2 mile/h,
+31,773 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C27,,61.7 ton (US),,,,,42 mile/h,
+32,775 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C27,,70.5 ton (US),,,,,41.6 mile/h,
+33,777 (07),Off-Highway Trucks,Off-Highway Trucks,101.1 ton (US),,,,,Cat® C32B,,,,,,,40.9 mile/h,
+34,770 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,54357 lb,,77430 lb,,,,,,9000 gal (US),,,,
+35,772 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,58414 lb,,77430 lb,,,,,,11000 gal (US),,,,
+36,775 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,75118 lb,,85288 lb,,,,,,15000 gal (US),,,,
+37,777 (07) Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,111505 lb,,133082 lb,,,,,,20000 gal (US),,,,
+38,785 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,184582 lb,,231485 lb,,,,,,30000 gal (US),,,,
+39,777 (07) Water Truck,Off-Highway Trucks,Water Trucks,,,,,,Cat® C32B,,,1025 hp,,"up to 75 700 L (20,000 gal)",,,
+40,785,Off-Highway Trucks,Mining Trucks,,,550000 lb,,,,,,,,,153 ton (US),,1600 hp
+41,789,Off-Highway Trucks,Mining Trucks,,,,,213 ton (US),,715000 lb,,2100 hp,,,,,
+42,793,Off-Highway Trucks,Mining Trucks,,,,,265 ton (US),,890668 lb,,2650 hp,,,,,
+43,793F,Off-Highway Trucks,Mining Trucks,,,,,256 ton (US),,851000 lb,,,,,,,2650 hp
+44,794 AC,Off-Highway Trucks,Mining Trucks,,,,,327 ton (US),,1150000 lb,,,,,,,3500 hp
+45,796 AC,Off-Highway Trucks,Mining Trucks,,,,,360 ton (US),,1270000 lb,,,,,,,3500 hp
+46,797F,Off-Highway Trucks,Mining Trucks,,,,,400 ton (US),,1375000 lb,,,,,,,4000 hp
+47,798 AC,Off-Highway Trucks,Mining Trucks,,,,,410 ton (US),,1375000 lb,,,,,,,3500 hp
+48,770 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C15,,42.1 ton (US),,,,,45.8 mile/h,
+49,772 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C18,,51.6 ton (US),,,,,49.2 mile/h,
+50,773 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C27,,61.7 ton (US),,,,,42 mile/h,
+51,775 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C27,,70.5 ton (US),,,,,41.6 mile/h,
+52,777 (07),Off-Highway Trucks,Off-Highway Trucks,101.1 ton (US),,,,,Cat® C32B,,,,,,,40.9 mile/h,
+53,770 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,54357 lb,,77430 lb,,,,,,9000 gal (US),,,,
+54,772 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,58414 lb,,77430 lb,,,,,,11000 gal (US),,,,
+55,775 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,75118 lb,,85288 lb,,,,,,15000 gal (US),,,,
+56,777 (07) Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,111505 lb,,133082 lb,,,,,,20000 gal (US),,,,
+57,785 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,184582 lb,,231485 lb,,,,,,30000 gal (US),,,,
+58,777 (07) Water Truck,Off-Highway Trucks,Water Trucks,,,,,,Cat® C32B,,,1025 hp,,"up to 75 700 L (20,000 gal)",,,
+59,785,Off-Highway Trucks,Mining Trucks,,,550000 lb,,,,,,,,,153 ton (US),,1600 hp
+60,789,Off-Highway Trucks,Mining Trucks,,,,,213 ton (US),,715000 lb,,2100 hp,,,,,
+61,793,Off-Highway Trucks,Mining Trucks,,,,,265 ton (US),,890668 lb,,2650 hp,,,,,
+62,793F,Off-Highway Trucks,Mining Trucks,,,,,256 ton (US),,851000 lb,,,,,,,2650 hp
+63,794 AC,Off-Highway Trucks,Mining Trucks,,,,,327 ton (US),,1150000 lb,,,,,,,3500 hp
+64,796 AC,Off-Highway Trucks,Mining Trucks,,,,,360 ton (US),,1270000 lb,,,,,,,3500 hp
+65,797F,Off-Highway Trucks,Mining Trucks,,,,,400 ton (US),,1375000 lb,,,,,,,4000 hp
+66,798 AC,Off-Highway Trucks,Mining Trucks,,,,,410 ton (US),,1375000 lb,,,,,,,3500 hp
+67,770 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C15,,42.1 ton (US),,,,,45.8 mile/h,
+68,772 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C18,,51.6 ton (US),,,,,49.2 mile/h,
+69,773 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C27,,61.7 ton (US),,,,,42 mile/h,
+70,775 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C27,,70.5 ton (US),,,,,41.6 mile/h,
+71,777 (07),Off-Highway Trucks,Off-Highway Trucks,101.1 ton (US),,,,,Cat® C32B,,,,,,,40.9 mile/h,
+72,770 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,54357 lb,,77430 lb,,,,,,9000 gal (US),,,,
+73,772 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,58414 lb,,77430 lb,,,,,,11000 gal (US),,,,
+74,775 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,75118 lb,,85288 lb,,,,,,15000 gal (US),,,,
+75,777 (07) Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,111505 lb,,133082 lb,,,,,,20000 gal (US),,,,
+76,785 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,184582 lb,,231485 lb,,,,,,30000 gal (US),,,,
+77,777 (07) Water Truck,Off-Highway Trucks,Water Trucks,,,,,,Cat® C32B,,,1025 hp,,"up to 75 700 L (20,000 gal)",,,
+78,785,Off-Highway Trucks,Mining Trucks,,,550000 lb,,,,,,,,,153 ton (US),,1600 hp
+79,789,Off-Highway Trucks,Mining Trucks,,,,,213 ton (US),,715000 lb,,2100 hp,,,,,
+80,793,Off-Highway Trucks,Mining Trucks,,,,,265 ton (US),,890668 lb,,2650 hp,,,,,
+81,793F,Off-Highway Trucks,Mining Trucks,,,,,256 ton (US),,851000 lb,,,,,,,2650 hp
+82,794 AC,Off-Highway Trucks,Mining Trucks,,,,,327 ton (US),,1150000 lb,,,,,,,3500 hp
+83,796 AC,Off-Highway Trucks,Mining Trucks,,,,,360 ton (US),,1270000 lb,,,,,,,3500 hp
+84,797F,Off-Highway Trucks,Mining Trucks,,,,,400 ton (US),,1375000 lb,,,,,,,4000 hp
+85,798 AC,Off-Highway Trucks,Mining Trucks,,,,,410 ton (US),,1375000 lb,,,,,,,3500 hp
+86,770 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C15,,42.1 ton (US),,,,,45.8 mile/h,
+87,772 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C18,,51.6 ton (US),,,,,49.2 mile/h,
+88,773 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C27,,61.7 ton (US),,,,,42 mile/h,
+89,775 (07),Off-Highway Trucks,Off-Highway Trucks,,,,,,Cat® C27,,70.5 ton (US),,,,,41.6 mile/h,
+90,777 (07),Off-Highway Trucks,Off-Highway Trucks,101.1 ton (US),,,,,Cat® C32B,,,,,,,40.9 mile/h,
+91,770 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,54357 lb,,77430 lb,,,,,,9000 gal (US),,,,
+92,772 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,58414 lb,,77430 lb,,,,,,11000 gal (US),,,,
+93,775 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,75118 lb,,85288 lb,,,,,,15000 gal (US),,,,
+94,777 (07) Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,111505 lb,,133082 lb,,,,,,20000 gal (US),,,,
+95,785 Bare Chassis,Off-Highway Trucks,Off-Highway Trucks Bare Chassis,,184582 lb,,231485 lb,,,,,,30000 gal (US),,,,

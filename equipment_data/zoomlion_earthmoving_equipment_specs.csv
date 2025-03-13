@@ -1,0 +1,37 @@
+id,Equipment Type,Model,Operating Weight,Rated Power,Standard Capacity
+1,Large Excavator,ZE385G Pro,38000kg,214kw,1.6-2.2 m³
+2,Large Excavator,ZE385G ACE,38000kg,212kw,1.6-2.2m³
+3,Medium Excavator,ZE135GF,,,
+4,Large Excavator,ZE750GK,,,
+5,Medium Excavator,ZE215GLC,22000kg,129kw,1.0m³
+6,Large Excavator,ZE335G ACE,33500kg,212kw,1.9m³
+7,Medium Excavator,ZE225GN,23000kg,134kw,1.1 m³
+8,Medium Excavator,ZE225G,22500kg,134kw,1.2m³
+9,Mini Excavator,ZE35GU Canopy,3690kg,18.2kw,0.1m³
+10,Mini Excavator,ZE26GU Canopy,2650kg,15.4kw,0.08m³
+11,Large Excavator,ZE1250G,116000kg,567kw,8m³
+12,Large Excavator,ZE550G,53500kg,340kw,3.2m³
+13,Large Excavator,ZE500G,51000kg,277kw,2.65m³
+14,Large Excavator,ZE385G,38000kg,214kw,2.0m³
+15,Medium Excavator,ZE215G PRO,22000kg,134kw,1.1m³
+16,Medium Excavator,ZE150WG,14600kg,104kw,0.6m³
+17,Skid Steer Loader,ZS085V,2920kg,36.7kw,0.4m³
+18,Skid Steer Loader,ZS030R,1293kg,18.2kw,0.18m³
+19,Mining Excavators,ZE1250G Mining Excavator,,,
+20,Mining Excavators,ZE950G Mining Excavator,,,
+21,Mining Excavators,ZE750G Mining Excavator,,,
+22,Bulldozer,ZD220S-3,26050kg,175-187kw,6.4m³
+23,Medium Excavator,ZE135G,14000kg,86kw,0.55m³
+24,Mini Excavator,ZE18GU,1800kg,11.8kw,0.04m³
+25,Mini Excavator,ZE26GU,2750kg,15.6kw,0.08m³
+26,Medium Excavator,ZE210GLC,22700-23600kg,129kw,0.85-1.2m³
+27,Mini Excavator,ZE35GU,3790kg,18.5kw,0.11m³
+28,Medium Excavator,ZE215G,21500kg,112kw,1.0m³
+29,Small Excavator,ZE60G,5950kg,36.2kw,0.23m³
+30,Medium Excavator,ZE215G ACE,21680kg,128.5kw,1.0m³
+31,Small Excavator,ZE75G,7500kg,46.3kw,0.3m³
+32,Medium Excavator,ZE245G,24000kg,133kw,1.3m³
+33,Large Excavator,ZE335G,33100kg,190.5kw,1.6m³
+34,Large Excavator,ZE375G,36050kg,241kw,1.7m³
+35,Large Excavator,ZE960G,73000kg,391kw,5.1m³
+36,Large Excavator,ZE750G,74t,,

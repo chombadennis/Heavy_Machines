@@ -1,0 +1,241 @@
+id,model_name,product_family,product_category,11 Wheel Compaction Width with Bias Tire,Standard Compaction Width,Gross Power,Gross Power - SAE J1995:2014,Operating Weight - 9 Wheel Base Machine,Static Linear Load,Operating Weight,Standard Operating Weight with ROPS,Net Power - SAE J1349:2011,Compaction Width,Operating Weight - Maximum Ballast,Operating Weight - With ROPS/FOPS Canopy,Operating Weight - 9 Wheel with Maximum Ballast (1),Net Power (ISO 9249:2007),Engine Power (1),Standard - Operating Weight,Gross Power (SAE J1995:2014),Net Power (SAE J1349:2011),Net Power - ISO 9249:2007,Operating Weight - Standard Machine Empty,Operating Weight - 11 Wheel Base Machine,Operating Weight - 11 Wheel with Maximum Ballast,Operating Weight - With Cab
+1,816,Compactors,Landfill Compactors,,,,284 hp,,,,,249 hp,,,,,,,,,,249 hp,,,,
+2,826,Compactors,Landfill Compactors,,,,435 hp,,,,,405 hp,,,,,,,,,,405 hp,,,,
+3,836,Compactors,Landfill Compactors,,,,562 hp,,,,,496 hp,,,,,,,,,,502 hp,,,,
+4,CW34,Compactors,Pneumatic Rollers,,,,,,,,,,82 in,59525 lb,,,,,,,,,22050 lb,,,
+5,CW16 9-Wheel,Compactors,Pneumatic Rollers,,,,,11464 lb,,,,,68 in,,,33069 lb,,,,,,,,,,
+6,CW16 11-Wheel,Compactors,Pneumatic Rollers,84 in,,,,,,,,,,,,,,,,,,,,11685 lb,32849 lb,
+7,815,Compactors,Soil Compactors,,,,,,,,,,,,,,249 hp,,,284 hp,249 hp,,,,,
+8,825,Compactors,Soil Compactors,,,,,,,,,,,,,,405 hp,,,435 hp,405 hp,,,,,
+9,CB1.7,Compactors,Tandem Vibratory Rollers,,35 in,,,,,3538 lb,,,,,,,,24.7 hp,,,,,,,,
+10,CB1.8,Compactors,Tandem Vibratory Rollers,,39 in,,,,,3825 lb,,,,,,,,24.7 hp,,,,,,,,
+11,CB2.5,Compactors,Tandem Vibratory Rollers,,,,,,,,5546 lb,,39.4 in,,,,,48.2 hp,,,,,,,,
+12,CB2.5 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5546 lb,,39.4 in,,,,,24.7 hp,,,,,,,,
+13,CB2.7,Compactors,Tandem Vibratory Rollers,,,,,,,,5936 lb,,47.2 in,,,,,48.2 hp,,,,,,,,
+14,CB2.7 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5936 lb,,47.2 in,,,,,24.7 hp,,,,,,,,
+15,CC2.7,Compactors,Tandem Vibratory Rollers,,,48.2 hp,,,,,5718 lb,,47.2 in,,,,,,,,,,,,,
+16,CC2.7 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5718 lb,,51.7 in,,,,,24.7 hp,,,,,,,,
+17,CB2.9,Compactors,Tandem Vibratory Rollers,,,,,,,,6415 lb,,51.2 in,,,,,48.2 hp,,,,,,,,
+18,CB4.0,Compactors,Tandem Vibratory Rollers,,,,,,,,7971 lb,,51.2 in,,,,,36 kW,,,,,,,,
+19,CB4.4,Compactors,Tandem Vibratory Rollers,,,,,,,,8362 lb,,55.1 in,,,,,48.2 hp,,,,,,,,
+20,CC4.0,Compactors,Tandem Vibratory Rollers,,,,,,,,7889 lb,,51.2 in,,,,,48.2 hp,,,,,,,,
+21,CB7,Compactors,Tandem Vibratory Rollers,,59 in,,,,,,19015 lb,,,,,,,,,,,,,,,19588 lb
+22,CB8,Compactors,Tandem Vibratory Rollers,,67 in,,,,,,20006 lb,,,,,,,,,,,,,,,20580 lb
+23,CB10,Compactors,Tandem Vibratory Rollers,,67 in,,,,,,21642 lb,,,,,,,,,,,,,,,22255 lb
+24,CB13,Compactors,Tandem Vibratory Rollers,,79 in,,,,189 lb/in,,,,,,,,,,27557 lb,,,,,,,
+25,CB15,Compactors,Tandem Vibratory Rollers,,84 in,,,,186 lb/in,,,,,,,,,,28958 lb,,,,,,,
+26,CB16,Compactors,Tandem Vibratory Rollers,,84 in,,,,204 lb/in,,,,,,,,,,31941 lb,,,,,,,
+27,CP5,Compactors,Vibratory Soil Compactors,,,74.6 hp,,,,,,,50 in,,10307 lb,,,,,,,,,,,
+28,CS5,Compactors,Vibratory Soil Compactors,,,74.6 hp,,,,,,,50 in,,9800 lb,,,,,,,,,,,
+29,CP7,Compactors,Vibratory Soil Compactors,,,99.8 hp,,,,,,,66 in,,,,,,,,,,,,,16990 lb
+30,CS7,Compactors,Vibratory Soil Compactors,,,99.8 hp,,,,,,,66 in,,,,,,,,,,,,,16276 lb
+31,CS10 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,23136 lb
+32,CS11 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,24775 lb
+33,CP11 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,25109 lb
+34,CS11,Compactors,Vibratory Soil Compactors,,,132.8 hp,,,,,,,84 in,,,,,,,,,,,,,23823 lb
+35,CP11,Compactors,Vibratory Soil Compactors,,,132.8 hp,,,,,,,84 in,,,,,,,,,,,,,25095 lb
+36,CP12,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,26266 lb
+37,CS12,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,25353 lb
+38,CP13 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,27869 lb
+39,CS13 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,27900 lb
+40,CP14,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,32203 lb
+41,CS14,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,31405 lb
+42,CS16,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,35589 lb
+43,CP16,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,36390 lb
+44,CS19,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,41641 lb
+45,CP44B,Compactors,Vibratory Soil Compactors,,,100.6 hp,,,,,,,66 in,,,,,,,,,,,,,16471 lb
+46,CS44B,Compactors,Vibratory Soil Compactors,,,100.6 hp,,,,,,,66 in,,,,,,,,,,,,,15895 lb
+47,CS12 GC,Compactors,Vibratory Soil Compactors,,,120.7 hp,,,,,,,84 in,,,,,,,,,,,,,27900 lb
+48,CP56B,Compactors,Vibratory Soil Compactors,,,157 hp,,,,,,,84 in,,,,,,,,,,,,,25707 lb
+49,816,Compactors,Landfill Compactors,,,,284 hp,,,,,249 hp,,,,,,,,,,249 hp,,,,
+50,826,Compactors,Landfill Compactors,,,,435 hp,,,,,405 hp,,,,,,,,,,405 hp,,,,
+51,836,Compactors,Landfill Compactors,,,,562 hp,,,,,496 hp,,,,,,,,,,502 hp,,,,
+52,CW34,Compactors,Pneumatic Rollers,,,,,,,,,,82 in,59525 lb,,,,,,,,,22050 lb,,,
+53,CW16 9-Wheel,Compactors,Pneumatic Rollers,,,,,11464 lb,,,,,68 in,,,33069 lb,,,,,,,,,,
+54,CW16 11-Wheel,Compactors,Pneumatic Rollers,84 in,,,,,,,,,,,,,,,,,,,,11685 lb,32849 lb,
+55,815,Compactors,Soil Compactors,,,,,,,,,,,,,,249 hp,,,284 hp,249 hp,,,,,
+56,825,Compactors,Soil Compactors,,,,,,,,,,,,,,405 hp,,,435 hp,405 hp,,,,,
+57,CB1.7,Compactors,Tandem Vibratory Rollers,,35 in,,,,,3538 lb,,,,,,,,24.7 hp,,,,,,,,
+58,CB1.8,Compactors,Tandem Vibratory Rollers,,39 in,,,,,3825 lb,,,,,,,,24.7 hp,,,,,,,,
+59,CB2.5,Compactors,Tandem Vibratory Rollers,,,,,,,,5546 lb,,39.4 in,,,,,48.2 hp,,,,,,,,
+60,CB2.5 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5546 lb,,39.4 in,,,,,24.7 hp,,,,,,,,
+61,CB2.7,Compactors,Tandem Vibratory Rollers,,,,,,,,5936 lb,,47.2 in,,,,,48.2 hp,,,,,,,,
+62,CB2.7 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5936 lb,,47.2 in,,,,,24.7 hp,,,,,,,,
+63,CC2.7,Compactors,Tandem Vibratory Rollers,,,48.2 hp,,,,,5718 lb,,47.2 in,,,,,,,,,,,,,
+64,CC2.7 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5718 lb,,51.7 in,,,,,24.7 hp,,,,,,,,
+65,CB2.9,Compactors,Tandem Vibratory Rollers,,,,,,,,6415 lb,,51.2 in,,,,,48.2 hp,,,,,,,,
+66,CB4.0,Compactors,Tandem Vibratory Rollers,,,,,,,,7971 lb,,51.2 in,,,,,36 kW,,,,,,,,
+67,CB4.4,Compactors,Tandem Vibratory Rollers,,,,,,,,8362 lb,,55.1 in,,,,,48.2 hp,,,,,,,,
+68,CC4.0,Compactors,Tandem Vibratory Rollers,,,,,,,,7889 lb,,51.2 in,,,,,48.2 hp,,,,,,,,
+69,CB7,Compactors,Tandem Vibratory Rollers,,59 in,,,,,,19015 lb,,,,,,,,,,,,,,,19588 lb
+70,CB8,Compactors,Tandem Vibratory Rollers,,67 in,,,,,,20006 lb,,,,,,,,,,,,,,,20580 lb
+71,CB10,Compactors,Tandem Vibratory Rollers,,67 in,,,,,,21642 lb,,,,,,,,,,,,,,,22255 lb
+72,CB13,Compactors,Tandem Vibratory Rollers,,79 in,,,,189 lb/in,,,,,,,,,,27557 lb,,,,,,,
+73,CB15,Compactors,Tandem Vibratory Rollers,,84 in,,,,186 lb/in,,,,,,,,,,28958 lb,,,,,,,
+74,CB16,Compactors,Tandem Vibratory Rollers,,84 in,,,,204 lb/in,,,,,,,,,,31941 lb,,,,,,,
+75,CP5,Compactors,Vibratory Soil Compactors,,,74.6 hp,,,,,,,50 in,,10307 lb,,,,,,,,,,,
+76,CS5,Compactors,Vibratory Soil Compactors,,,74.6 hp,,,,,,,50 in,,9800 lb,,,,,,,,,,,
+77,CP7,Compactors,Vibratory Soil Compactors,,,99.8 hp,,,,,,,66 in,,,,,,,,,,,,,16990 lb
+78,CS7,Compactors,Vibratory Soil Compactors,,,99.8 hp,,,,,,,66 in,,,,,,,,,,,,,16276 lb
+79,CS10 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,23136 lb
+80,CS11 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,24775 lb
+81,CP11 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,25109 lb
+82,CS11,Compactors,Vibratory Soil Compactors,,,132.8 hp,,,,,,,84 in,,,,,,,,,,,,,23823 lb
+83,CP11,Compactors,Vibratory Soil Compactors,,,132.8 hp,,,,,,,84 in,,,,,,,,,,,,,25095 lb
+84,CP12,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,26266 lb
+85,CS12,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,25353 lb
+86,CP13 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,27869 lb
+87,CS13 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,27900 lb
+88,CP14,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,32203 lb
+89,CS14,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,31405 lb
+90,CS16,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,35589 lb
+91,CP16,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,36390 lb
+92,CS19,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,41641 lb
+93,CP44B,Compactors,Vibratory Soil Compactors,,,100.6 hp,,,,,,,66 in,,,,,,,,,,,,,16471 lb
+94,CS44B,Compactors,Vibratory Soil Compactors,,,100.6 hp,,,,,,,66 in,,,,,,,,,,,,,15895 lb
+95,CS12 GC,Compactors,Vibratory Soil Compactors,,,120.7 hp,,,,,,,84 in,,,,,,,,,,,,,27900 lb
+96,CP56B,Compactors,Vibratory Soil Compactors,,,157 hp,,,,,,,84 in,,,,,,,,,,,,,25707 lb
+97,816,Compactors,Landfill Compactors,,,,284 hp,,,,,249 hp,,,,,,,,,,249 hp,,,,
+98,826,Compactors,Landfill Compactors,,,,435 hp,,,,,405 hp,,,,,,,,,,405 hp,,,,
+99,836,Compactors,Landfill Compactors,,,,562 hp,,,,,496 hp,,,,,,,,,,502 hp,,,,
+100,CW34,Compactors,Pneumatic Rollers,,,,,,,,,,82 in,59525 lb,,,,,,,,,22050 lb,,,
+101,CW16 9-Wheel,Compactors,Pneumatic Rollers,,,,,11464 lb,,,,,68 in,,,33069 lb,,,,,,,,,,
+102,CW16 11-Wheel,Compactors,Pneumatic Rollers,84 in,,,,,,,,,,,,,,,,,,,,11685 lb,32849 lb,
+103,815,Compactors,Soil Compactors,,,,,,,,,,,,,,249 hp,,,284 hp,249 hp,,,,,
+104,825,Compactors,Soil Compactors,,,,,,,,,,,,,,405 hp,,,435 hp,405 hp,,,,,
+105,CB1.7,Compactors,Tandem Vibratory Rollers,,35 in,,,,,3538 lb,,,,,,,,24.7 hp,,,,,,,,
+106,CB1.8,Compactors,Tandem Vibratory Rollers,,39 in,,,,,3825 lb,,,,,,,,24.7 hp,,,,,,,,
+107,CB2.5,Compactors,Tandem Vibratory Rollers,,,,,,,,5546 lb,,39.4 in,,,,,48.2 hp,,,,,,,,
+108,CB2.5 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5546 lb,,39.4 in,,,,,24.7 hp,,,,,,,,
+109,CB2.7,Compactors,Tandem Vibratory Rollers,,,,,,,,5936 lb,,47.2 in,,,,,48.2 hp,,,,,,,,
+110,CB2.7 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5936 lb,,47.2 in,,,,,24.7 hp,,,,,,,,
+111,CC2.7,Compactors,Tandem Vibratory Rollers,,,48.2 hp,,,,,5718 lb,,47.2 in,,,,,,,,,,,,,
+112,CC2.7 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5718 lb,,51.7 in,,,,,24.7 hp,,,,,,,,
+113,CB2.9,Compactors,Tandem Vibratory Rollers,,,,,,,,6415 lb,,51.2 in,,,,,48.2 hp,,,,,,,,
+114,CB4.0,Compactors,Tandem Vibratory Rollers,,,,,,,,7971 lb,,51.2 in,,,,,36 kW,,,,,,,,
+115,CB4.4,Compactors,Tandem Vibratory Rollers,,,,,,,,8362 lb,,55.1 in,,,,,48.2 hp,,,,,,,,
+116,CC4.0,Compactors,Tandem Vibratory Rollers,,,,,,,,7889 lb,,51.2 in,,,,,48.2 hp,,,,,,,,
+117,CB7,Compactors,Tandem Vibratory Rollers,,59 in,,,,,,19015 lb,,,,,,,,,,,,,,,19588 lb
+118,CB8,Compactors,Tandem Vibratory Rollers,,67 in,,,,,,20006 lb,,,,,,,,,,,,,,,20580 lb
+119,CB10,Compactors,Tandem Vibratory Rollers,,67 in,,,,,,21642 lb,,,,,,,,,,,,,,,22255 lb
+120,CB13,Compactors,Tandem Vibratory Rollers,,79 in,,,,189 lb/in,,,,,,,,,,27557 lb,,,,,,,
+121,CB15,Compactors,Tandem Vibratory Rollers,,84 in,,,,186 lb/in,,,,,,,,,,28958 lb,,,,,,,
+122,CB16,Compactors,Tandem Vibratory Rollers,,84 in,,,,204 lb/in,,,,,,,,,,31941 lb,,,,,,,
+123,CP5,Compactors,Vibratory Soil Compactors,,,74.6 hp,,,,,,,50 in,,10307 lb,,,,,,,,,,,
+124,CS5,Compactors,Vibratory Soil Compactors,,,74.6 hp,,,,,,,50 in,,9800 lb,,,,,,,,,,,
+125,CP7,Compactors,Vibratory Soil Compactors,,,99.8 hp,,,,,,,66 in,,,,,,,,,,,,,16990 lb
+126,CS7,Compactors,Vibratory Soil Compactors,,,99.8 hp,,,,,,,66 in,,,,,,,,,,,,,16276 lb
+127,CS10 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,23136 lb
+128,CS11 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,24775 lb
+129,CP11 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,25109 lb
+130,CS11,Compactors,Vibratory Soil Compactors,,,132.8 hp,,,,,,,84 in,,,,,,,,,,,,,23823 lb
+131,CP11,Compactors,Vibratory Soil Compactors,,,132.8 hp,,,,,,,84 in,,,,,,,,,,,,,25095 lb
+132,CP12,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,26266 lb
+133,CS12,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,25353 lb
+134,CP13 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,27869 lb
+135,CS13 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,27900 lb
+136,CP14,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,32203 lb
+137,CS14,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,31405 lb
+138,CS16,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,35589 lb
+139,CP16,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,36390 lb
+140,CS19,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,41641 lb
+141,CP44B,Compactors,Vibratory Soil Compactors,,,100.6 hp,,,,,,,66 in,,,,,,,,,,,,,16471 lb
+142,CS44B,Compactors,Vibratory Soil Compactors,,,100.6 hp,,,,,,,66 in,,,,,,,,,,,,,15895 lb
+143,CS12 GC,Compactors,Vibratory Soil Compactors,,,120.7 hp,,,,,,,84 in,,,,,,,,,,,,,27900 lb
+144,CP56B,Compactors,Vibratory Soil Compactors,,,157 hp,,,,,,,84 in,,,,,,,,,,,,,25707 lb
+145,816,Compactors,Landfill Compactors,,,,284 hp,,,,,249 hp,,,,,,,,,,249 hp,,,,
+146,826,Compactors,Landfill Compactors,,,,435 hp,,,,,405 hp,,,,,,,,,,405 hp,,,,
+147,836,Compactors,Landfill Compactors,,,,562 hp,,,,,496 hp,,,,,,,,,,502 hp,,,,
+148,CW34,Compactors,Pneumatic Rollers,,,,,,,,,,82 in,59525 lb,,,,,,,,,22050 lb,,,
+149,CW16 9-Wheel,Compactors,Pneumatic Rollers,,,,,11464 lb,,,,,68 in,,,33069 lb,,,,,,,,,,
+150,CW16 11-Wheel,Compactors,Pneumatic Rollers,84 in,,,,,,,,,,,,,,,,,,,,11685 lb,32849 lb,
+151,815,Compactors,Soil Compactors,,,,,,,,,,,,,,249 hp,,,284 hp,249 hp,,,,,
+152,825,Compactors,Soil Compactors,,,,,,,,,,,,,,405 hp,,,435 hp,405 hp,,,,,
+153,CB1.7,Compactors,Tandem Vibratory Rollers,,35 in,,,,,3538 lb,,,,,,,,24.7 hp,,,,,,,,
+154,CB1.8,Compactors,Tandem Vibratory Rollers,,39 in,,,,,3825 lb,,,,,,,,24.7 hp,,,,,,,,
+155,CB2.5,Compactors,Tandem Vibratory Rollers,,,,,,,,5546 lb,,39.4 in,,,,,48.2 hp,,,,,,,,
+156,CB2.5 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5546 lb,,39.4 in,,,,,24.7 hp,,,,,,,,
+157,CB2.7,Compactors,Tandem Vibratory Rollers,,,,,,,,5936 lb,,47.2 in,,,,,48.2 hp,,,,,,,,
+158,CB2.7 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5936 lb,,47.2 in,,,,,24.7 hp,,,,,,,,
+159,CC2.7,Compactors,Tandem Vibratory Rollers,,,48.2 hp,,,,,5718 lb,,47.2 in,,,,,,,,,,,,,
+160,CC2.7 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5718 lb,,51.7 in,,,,,24.7 hp,,,,,,,,
+161,CB2.9,Compactors,Tandem Vibratory Rollers,,,,,,,,6415 lb,,51.2 in,,,,,48.2 hp,,,,,,,,
+162,CB4.0,Compactors,Tandem Vibratory Rollers,,,,,,,,7971 lb,,51.2 in,,,,,36 kW,,,,,,,,
+163,CB4.4,Compactors,Tandem Vibratory Rollers,,,,,,,,8362 lb,,55.1 in,,,,,48.2 hp,,,,,,,,
+164,CC4.0,Compactors,Tandem Vibratory Rollers,,,,,,,,7889 lb,,51.2 in,,,,,48.2 hp,,,,,,,,
+165,CB7,Compactors,Tandem Vibratory Rollers,,59 in,,,,,,19015 lb,,,,,,,,,,,,,,,19588 lb
+166,CB8,Compactors,Tandem Vibratory Rollers,,67 in,,,,,,20006 lb,,,,,,,,,,,,,,,20580 lb
+167,CB10,Compactors,Tandem Vibratory Rollers,,67 in,,,,,,21642 lb,,,,,,,,,,,,,,,22255 lb
+168,CB13,Compactors,Tandem Vibratory Rollers,,79 in,,,,189 lb/in,,,,,,,,,,27557 lb,,,,,,,
+169,CB15,Compactors,Tandem Vibratory Rollers,,84 in,,,,186 lb/in,,,,,,,,,,28958 lb,,,,,,,
+170,CB16,Compactors,Tandem Vibratory Rollers,,84 in,,,,204 lb/in,,,,,,,,,,31941 lb,,,,,,,
+171,CP5,Compactors,Vibratory Soil Compactors,,,74.6 hp,,,,,,,50 in,,10307 lb,,,,,,,,,,,
+172,CS5,Compactors,Vibratory Soil Compactors,,,74.6 hp,,,,,,,50 in,,9800 lb,,,,,,,,,,,
+173,CP7,Compactors,Vibratory Soil Compactors,,,99.8 hp,,,,,,,66 in,,,,,,,,,,,,,16990 lb
+174,CS7,Compactors,Vibratory Soil Compactors,,,99.8 hp,,,,,,,66 in,,,,,,,,,,,,,16276 lb
+175,CS10 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,23136 lb
+176,CS11 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,24775 lb
+177,CP11 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,25109 lb
+178,CS11,Compactors,Vibratory Soil Compactors,,,132.8 hp,,,,,,,84 in,,,,,,,,,,,,,23823 lb
+179,CP11,Compactors,Vibratory Soil Compactors,,,132.8 hp,,,,,,,84 in,,,,,,,,,,,,,25095 lb
+180,CP12,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,26266 lb
+181,CS12,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,25353 lb
+182,CP13 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,27869 lb
+183,CS13 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,27900 lb
+184,CP14,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,32203 lb
+185,CS14,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,31405 lb
+186,CS16,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,35589 lb
+187,CP16,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,36390 lb
+188,CS19,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,41641 lb
+189,CP44B,Compactors,Vibratory Soil Compactors,,,100.6 hp,,,,,,,66 in,,,,,,,,,,,,,16471 lb
+190,CS44B,Compactors,Vibratory Soil Compactors,,,100.6 hp,,,,,,,66 in,,,,,,,,,,,,,15895 lb
+191,CS12 GC,Compactors,Vibratory Soil Compactors,,,120.7 hp,,,,,,,84 in,,,,,,,,,,,,,27900 lb
+192,CP56B,Compactors,Vibratory Soil Compactors,,,157 hp,,,,,,,84 in,,,,,,,,,,,,,25707 lb
+193,816,Compactors,Landfill Compactors,,,,284 hp,,,,,249 hp,,,,,,,,,,249 hp,,,,
+194,826,Compactors,Landfill Compactors,,,,435 hp,,,,,405 hp,,,,,,,,,,405 hp,,,,
+195,836,Compactors,Landfill Compactors,,,,562 hp,,,,,496 hp,,,,,,,,,,502 hp,,,,
+196,CW34,Compactors,Pneumatic Rollers,,,,,,,,,,82 in,59525 lb,,,,,,,,,22050 lb,,,
+197,CW16 9-Wheel,Compactors,Pneumatic Rollers,,,,,11464 lb,,,,,68 in,,,33069 lb,,,,,,,,,,
+198,CW16 11-Wheel,Compactors,Pneumatic Rollers,84 in,,,,,,,,,,,,,,,,,,,,11685 lb,32849 lb,
+199,815,Compactors,Soil Compactors,,,,,,,,,,,,,,249 hp,,,284 hp,249 hp,,,,,
+200,825,Compactors,Soil Compactors,,,,,,,,,,,,,,405 hp,,,435 hp,405 hp,,,,,
+201,CB1.7,Compactors,Tandem Vibratory Rollers,,35 in,,,,,3538 lb,,,,,,,,24.7 hp,,,,,,,,
+202,CB1.8,Compactors,Tandem Vibratory Rollers,,39 in,,,,,3825 lb,,,,,,,,24.7 hp,,,,,,,,
+203,CB2.5,Compactors,Tandem Vibratory Rollers,,,,,,,,5546 lb,,39.4 in,,,,,48.2 hp,,,,,,,,
+204,CB2.5 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5546 lb,,39.4 in,,,,,24.7 hp,,,,,,,,
+205,CB2.7,Compactors,Tandem Vibratory Rollers,,,,,,,,5936 lb,,47.2 in,,,,,48.2 hp,,,,,,,,
+206,CB2.7 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5936 lb,,47.2 in,,,,,24.7 hp,,,,,,,,
+207,CC2.7,Compactors,Tandem Vibratory Rollers,,,48.2 hp,,,,,5718 lb,,47.2 in,,,,,,,,,,,,,
+208,CC2.7 GC,Compactors,Tandem Vibratory Rollers,,,,,,,,5718 lb,,51.7 in,,,,,24.7 hp,,,,,,,,
+209,CB2.9,Compactors,Tandem Vibratory Rollers,,,,,,,,6415 lb,,51.2 in,,,,,48.2 hp,,,,,,,,
+210,CB4.0,Compactors,Tandem Vibratory Rollers,,,,,,,,7971 lb,,51.2 in,,,,,36 kW,,,,,,,,
+211,CB4.4,Compactors,Tandem Vibratory Rollers,,,,,,,,8362 lb,,55.1 in,,,,,48.2 hp,,,,,,,,
+212,CC4.0,Compactors,Tandem Vibratory Rollers,,,,,,,,7889 lb,,51.2 in,,,,,48.2 hp,,,,,,,,
+213,CB7,Compactors,Tandem Vibratory Rollers,,59 in,,,,,,19015 lb,,,,,,,,,,,,,,,19588 lb
+214,CB8,Compactors,Tandem Vibratory Rollers,,67 in,,,,,,20006 lb,,,,,,,,,,,,,,,20580 lb
+215,CB10,Compactors,Tandem Vibratory Rollers,,67 in,,,,,,21642 lb,,,,,,,,,,,,,,,22255 lb
+216,CB13,Compactors,Tandem Vibratory Rollers,,79 in,,,,189 lb/in,,,,,,,,,,27557 lb,,,,,,,
+217,CB15,Compactors,Tandem Vibratory Rollers,,84 in,,,,186 lb/in,,,,,,,,,,28958 lb,,,,,,,
+218,CB16,Compactors,Tandem Vibratory Rollers,,84 in,,,,204 lb/in,,,,,,,,,,31941 lb,,,,,,,
+219,CP5,Compactors,Vibratory Soil Compactors,,,74.6 hp,,,,,,,50 in,,10307 lb,,,,,,,,,,,
+220,CS5,Compactors,Vibratory Soil Compactors,,,74.6 hp,,,,,,,50 in,,9800 lb,,,,,,,,,,,
+221,CP7,Compactors,Vibratory Soil Compactors,,,99.8 hp,,,,,,,66 in,,,,,,,,,,,,,16990 lb
+222,CS7,Compactors,Vibratory Soil Compactors,,,99.8 hp,,,,,,,66 in,,,,,,,,,,,,,16276 lb
+223,CS10 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,23136 lb
+224,CS11 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,24775 lb
+225,CP11 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,25109 lb
+226,CS11,Compactors,Vibratory Soil Compactors,,,132.8 hp,,,,,,,84 in,,,,,,,,,,,,,23823 lb
+227,CP11,Compactors,Vibratory Soil Compactors,,,132.8 hp,,,,,,,84 in,,,,,,,,,,,,,25095 lb
+228,CP12,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,26266 lb
+229,CS12,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,25353 lb
+230,CP13 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,27869 lb
+231,CS13 GC (Tier 4F / EU Stage V),Compactors,Vibratory Soil Compactors,,,122.9 hp,,,,,,,84 in,,,,,,,,,,,,,27900 lb
+232,CP14,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,32203 lb
+233,CS14,Compactors,Vibratory Soil Compactors,,,159 hp,,,,,,,84 in,,,,,,,,,,,,,31405 lb
+234,CS16,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,35589 lb
+235,CP16,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,36390 lb
+236,CS19,Compactors,Vibratory Soil Compactors,,,175.7 hp,,,,,,,84 in,,,,,,,,,,,,,41641 lb
+237,CP44B,Compactors,Vibratory Soil Compactors,,,100.6 hp,,,,,,,66 in,,,,,,,,,,,,,16471 lb
+238,CS44B,Compactors,Vibratory Soil Compactors,,,100.6 hp,,,,,,,66 in,,,,,,,,,,,,,15895 lb
+239,CS12 GC,Compactors,Vibratory Soil Compactors,,,120.7 hp,,,,,,,84 in,,,,,,,,,,,,,27900 lb
+240,CP56B,Compactors,Vibratory Soil Compactors,,,157 hp,,,,,,,84 in,,,,,,,,,,,,,25707 lb

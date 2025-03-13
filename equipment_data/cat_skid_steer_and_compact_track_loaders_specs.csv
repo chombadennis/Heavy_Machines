@@ -1,0 +1,70 @@
+id,model_name,product_family,product_category,Gross Power - SAE J1995:2014,Operating Weight,Gross Power - SAE J1995,Rated Operating Capacities - 35% Tipping Load,Rated Operating Capacity
+1,239D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,7434 lb,67.1 hp,1530 lb,
+2,249D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,7831 lb,67.1 hp,1740 lb,
+3,259D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,8987 lb,74.3 hp,2010 lb,
+4,255,Skid Steer and Compact Track Loaders,Compact Track Loaders,,9578 lb,74.3 hp,2499 lb,
+5,265,Skid Steer and Compact Track Loaders,Compact Track Loaders,,10492 lb,74 hp,2823 lb,
+6,275,Skid Steer and Compact Track Loaders,Compact Track Loaders,,12401 lb,111 hp,4156 lb,
+7,275 XE,Skid Steer and Compact Track Loaders,Compact Track Loaders,,12705 lb,122 hp,4205 lb,
+8,279D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,10095 lb,74.3 hp,2220 lb,
+9,289D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,10688 lb,74.3 hp,2890 lb,
+10,299D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,11464 lb,98 hp,3480 lb,
+11,299D3 XE,Skid Steer and Compact Track Loaders,Compact Track Loaders,,11756 lb,110 hp,3560 lb,
+12,299D3 XE Land Management,Skid Steer and Compact Track Loaders,Compact Track Loaders,,12764 lb,110 hp,4340 lb,
+13,226D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,67.1 hp,5849 lb,,,1550 lb
+14,232D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,67.1 hp,6514 lb,,,1900 lb
+15,236D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74.3 hp,6567 lb,,,1800 lb
+16,242D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74.3 hp,7138 lb,,,2200 lb
+17,246D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74.3 hp,7478 lb,,,2200 lb
+18,262D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74.3 hp,8296 lb,,,2700 lb
+19,272D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,98 hp,9133 lb,,,3450 lb
+20,272D3 XE,Skid Steer and Compact Track Loaders,Skid Steer Loaders,110 hp,9573 lb,,,3700 lb
+21,250,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74 hp,7829 lb,,,2689 lb
+22,260,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74 hp,8523 lb,,,3160 lb
+23,270,Skid Steer and Compact Track Loaders,Skid Steer Loaders,100 hp,10441 lb,,,3557 lb
+24,239D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,7434 lb,67.1 hp,1530 lb,
+25,249D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,7831 lb,67.1 hp,1740 lb,
+26,259D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,8987 lb,74.3 hp,2010 lb,
+27,255,Skid Steer and Compact Track Loaders,Compact Track Loaders,,9578 lb,74.3 hp,2499 lb,
+28,265,Skid Steer and Compact Track Loaders,Compact Track Loaders,,10492 lb,74 hp,2823 lb,
+29,275,Skid Steer and Compact Track Loaders,Compact Track Loaders,,12401 lb,111 hp,4156 lb,
+30,275 XE,Skid Steer and Compact Track Loaders,Compact Track Loaders,,12705 lb,122 hp,4205 lb,
+31,279D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,10095 lb,74.3 hp,2220 lb,
+32,289D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,10688 lb,74.3 hp,2890 lb,
+33,299D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,11464 lb,98 hp,3480 lb,
+34,299D3 XE,Skid Steer and Compact Track Loaders,Compact Track Loaders,,11756 lb,110 hp,3560 lb,
+35,299D3 XE Land Management,Skid Steer and Compact Track Loaders,Compact Track Loaders,,12764 lb,110 hp,4340 lb,
+36,226D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,67.1 hp,5849 lb,,,1550 lb
+37,232D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,67.1 hp,6514 lb,,,1900 lb
+38,236D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74.3 hp,6567 lb,,,1800 lb
+39,242D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74.3 hp,7138 lb,,,2200 lb
+40,246D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74.3 hp,7478 lb,,,2200 lb
+41,262D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74.3 hp,8296 lb,,,2700 lb
+42,272D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,98 hp,9133 lb,,,3450 lb
+43,272D3 XE,Skid Steer and Compact Track Loaders,Skid Steer Loaders,110 hp,9573 lb,,,3700 lb
+44,250,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74 hp,7829 lb,,,2689 lb
+45,260,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74 hp,8523 lb,,,3160 lb
+46,270,Skid Steer and Compact Track Loaders,Skid Steer Loaders,100 hp,10441 lb,,,3557 lb
+47,239D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,7434 lb,67.1 hp,1530 lb,
+48,249D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,7831 lb,67.1 hp,1740 lb,
+49,259D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,8987 lb,74.3 hp,2010 lb,
+50,255,Skid Steer and Compact Track Loaders,Compact Track Loaders,,9578 lb,74.3 hp,2499 lb,
+51,265,Skid Steer and Compact Track Loaders,Compact Track Loaders,,10492 lb,74 hp,2823 lb,
+52,275,Skid Steer and Compact Track Loaders,Compact Track Loaders,,12401 lb,111 hp,4156 lb,
+53,275 XE,Skid Steer and Compact Track Loaders,Compact Track Loaders,,12705 lb,122 hp,4205 lb,
+54,279D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,10095 lb,74.3 hp,2220 lb,
+55,289D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,10688 lb,74.3 hp,2890 lb,
+56,299D3,Skid Steer and Compact Track Loaders,Compact Track Loaders,,11464 lb,98 hp,3480 lb,
+57,299D3 XE,Skid Steer and Compact Track Loaders,Compact Track Loaders,,11756 lb,110 hp,3560 lb,
+58,299D3 XE Land Management,Skid Steer and Compact Track Loaders,Compact Track Loaders,,12764 lb,110 hp,4340 lb,
+59,226D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,67.1 hp,5849 lb,,,1550 lb
+60,232D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,67.1 hp,6514 lb,,,1900 lb
+61,236D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74.3 hp,6567 lb,,,1800 lb
+62,242D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74.3 hp,7138 lb,,,2200 lb
+63,246D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74.3 hp,7478 lb,,,2200 lb
+64,262D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74.3 hp,8296 lb,,,2700 lb
+65,272D3,Skid Steer and Compact Track Loaders,Skid Steer Loaders,98 hp,9133 lb,,,3450 lb
+66,272D3 XE,Skid Steer and Compact Track Loaders,Skid Steer Loaders,110 hp,9573 lb,,,3700 lb
+67,250,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74 hp,7829 lb,,,2689 lb
+68,260,Skid Steer and Compact Track Loaders,Skid Steer Loaders,74 hp,8523 lb,,,3160 lb
+69,270,Skid Steer and Compact Track Loaders,Skid Steer Loaders,100 hp,10441 lb,,,3557 lb

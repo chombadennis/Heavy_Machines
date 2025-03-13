@@ -1,0 +1,261 @@
+id,model_name,product_family,product_category,Maximum Weight at Stick Nose,Maximum Pin Height at Stick Nose,Maximum Digging Depth,Net Power,Maximum Travel Speed,Operating Weight Maximum,Forward/Reverse - 2nd Gear,Operating Weight,Dig Depth,Engine Power - ISO 14396:2002,Net Power - ISO 9249
+1,300.9D,Excavators,Mini Excavators,,,,13 hp,,,,2061 lb,68 in,,
+2,300.9D VPS &amp; HPU300,Excavators,Mini Excavators,,,,13 hp,,,,2399 lb,68 in,,
+3,301.5,Excavators,Mini Excavators,,,,21 hp,,,,3913 lb,100 in,,
+4,301.7 CR,Excavators,Mini Excavators,,,,21 hp,,,,4222 lb,100 in,,
+5,301.8,Excavators,Mini Excavators,,,,21 hp,,,,4473 lb,101.2 in,,
+6,302 CR,Excavators,Mini Excavators,,,,21 hp,,,,4987 lb,101.2 in,,
+7,302.7 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,6725 lb,106.7 in,,
+8,303 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,7817 lb,116.1 in,,
+9,303.5 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,9239 lb,122.4 in,,
+10,304,Excavators,Mini Excavators,,,,45 hp,,,,9867 lb,138.2 in,,
+11,305 CR - Tier 4 / Stage V,Excavators,Mini Excavators,,,,45 hp,,,,12688 lb,144.5 in,,
+12,306 CR,Excavators,Mini Excavators,,,,55.9 hp,,,,15766 lb,162 in,,
+13,307.5 - Tier 4 / Stage V,Excavators,Mini Excavators,,,,54.8 hp,,,,17905 lb,182.8 in,,
+14,308 CR,Excavators,Mini Excavators,,,,69.5 hp,,,,18493 lb,182.8 in,,
+15,308 CR VAB,Excavators,Mini Excavators,,,,69.5 hp,,,,20385 lb,150.2 in,,
+16,309 CR,Excavators,Mini Excavators,,,,69.5 hp,,,,21091 lb,182.8 in,,
+17,309 CR VAB (Long Undercarriage),Excavators,Mini Excavators,,,,69.5 hp,,,,21477 lb,150.2 in,,
+18,310 - Tier 4 / Stage V,Excavators,Mini Excavators,,,,69.5 hp,,,,23002 lb,205.2 in,,
+19,313 GC - Tier 4 / Stage V,Excavators,Small Excavators,,,19.8 ft,,,,,30400 lb,,,73 hp
+20,313,Excavators,Small Excavators,,,19.2 ft,,,,,30400 lb,,,108 hp
+21,315 GC,Excavators,Small Excavators,,,19.7 ft,,,,,34000 lb,,,98 hp
+22,315,Excavators,Small Excavators,,,19.7 ft,,,,,34000 lb,,,108 hp
+23,317 GC,Excavators,Small Excavators,,,21 ft,,,,,38000 lb,,,119 hp
+24,317,Excavators,Small Excavators,,,21 ft,,,,,40200 lb,,,133 hp
+25,320 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,49800 lb,,,172 hp
+26,320 GC - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,48500 lb,,,146 hp
+27,323 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.1 ft,,,,,55100 lb,,,172 hp
+28,325 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,62800 lb,,,172 hp
+29,326 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.4 ft,,,,,56400 lb,,,201 hp
+30,330 - Tier 4 / Stage V,Excavators,Medium Excavators,,,23.9 ft,,,,,69200 lb,,,273 hp
+31,330 GC - Tier 4 / Stage V,Excavators,Medium Excavators,,,23.8 ft,,,,,68100 lb,,,201 hp
+32,335 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.9 ft,,,,,77000 lb,,,273 hp
+33,336 -Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,81100 lb,,,300 hp
+34,340 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.9 ft,,,,,83100 lb,,,346 hp
+35,350 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,105100 lb,,,413 hp
+36,352 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,107800 lb,,,443 hp
+37,374 - Tier 4 / Stage V,Excavators,Large Excavators,,,28.1 ft,,,,,162900 lb,,,484 hp
+38,395 - Tier 4 / Stage V,Excavators,Large Excavators,,,31.9 ft,,,,,207400 lb,,,542 hp
+39,330 UHD Hydraulic Excavator,Excavators,Demolition Excavators,7300 lb,66.8 ft,,,,,,101400 lb,,,
+40,340 Straight Boom,Excavators,Demolition Excavators,9170 lb,39.4 ft,,,,,,87800 lb,,,
+41,340 UHD,Excavators,Demolition Excavators,8160 lb,72.2 ft,,,,,,122600 lb,,,
+42,352 Straight Boom,Excavators,Demolition Excavators,12456 lb,42.2 ft,,,,,,121000 lb,,,
+43,352 UHD,Excavators,Demolition Excavators,8157 lb,90.8 ft,,,,,,142200 lb,,,
+44,340 Long Reach,Excavators,Long Reach Excavation,,,42.8 ft,,,,,96500 lb,,,346 hp
+45,352 Long Reach,Excavators,Long Reach Excavation,,,42.8 ft,,,,,128100 lb,,,443 hp
+46,M314,Excavators,Wheel Excavators,,,,,23 mile/h,39683 lb,,,,134 hp,
+47,M315,Excavators,Wheel Excavators,,,,,21.7 mile/h,39680 lb,,,,148 hp,
+48,M316,Excavators,Wheel Excavators,,,,,21.7 mile/h,36400 lb,,,,148 hp,
+49,M318,Excavators,Wheel Excavators,,,,,21.7 mile/h,43980 lb,,,,174 hp,
+50,M319,Excavators,Wheel Excavators,,,,,21.7 mile/h,46407 lb,,,,174 hp,
+51,M320,Excavators,Wheel Excavators,,,,,21.7 mile/h,46740 lb,,,,174 hp,
+52,M322,Excavators,Wheel Excavators,,,,,,52911 lb,18.6 mile/h,,,174 hp,
+53,300.9D,Excavators,Mini Excavators,,,,13 hp,,,,2061 lb,68 in,,
+54,300.9D VPS &amp; HPU300,Excavators,Mini Excavators,,,,13 hp,,,,2399 lb,68 in,,
+55,301.5,Excavators,Mini Excavators,,,,21 hp,,,,3913 lb,100 in,,
+56,301.7 CR,Excavators,Mini Excavators,,,,21 hp,,,,4222 lb,100 in,,
+57,301.8,Excavators,Mini Excavators,,,,21 hp,,,,4473 lb,101.2 in,,
+58,302 CR,Excavators,Mini Excavators,,,,21 hp,,,,4987 lb,101.2 in,,
+59,302.7 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,6725 lb,106.7 in,,
+60,303 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,7817 lb,116.1 in,,
+61,303.5 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,9239 lb,122.4 in,,
+62,304,Excavators,Mini Excavators,,,,45 hp,,,,9867 lb,138.2 in,,
+63,305 CR - Tier 4 / Stage V,Excavators,Mini Excavators,,,,45 hp,,,,12688 lb,144.5 in,,
+64,306 CR,Excavators,Mini Excavators,,,,55.9 hp,,,,15766 lb,162 in,,
+65,307.5 - Tier 4 / Stage V,Excavators,Mini Excavators,,,,54.8 hp,,,,17905 lb,182.8 in,,
+66,308 CR,Excavators,Mini Excavators,,,,69.5 hp,,,,18493 lb,182.8 in,,
+67,308 CR VAB,Excavators,Mini Excavators,,,,69.5 hp,,,,20385 lb,150.2 in,,
+68,309 CR,Excavators,Mini Excavators,,,,69.5 hp,,,,21091 lb,182.8 in,,
+69,309 CR VAB (Long Undercarriage),Excavators,Mini Excavators,,,,69.5 hp,,,,21477 lb,150.2 in,,
+70,310 - Tier 4 / Stage V,Excavators,Mini Excavators,,,,69.5 hp,,,,23002 lb,205.2 in,,
+71,313 GC - Tier 4 / Stage V,Excavators,Small Excavators,,,19.8 ft,,,,,30400 lb,,,73 hp
+72,313,Excavators,Small Excavators,,,19.2 ft,,,,,30400 lb,,,108 hp
+73,315 GC,Excavators,Small Excavators,,,19.7 ft,,,,,34000 lb,,,98 hp
+74,315,Excavators,Small Excavators,,,19.7 ft,,,,,34000 lb,,,108 hp
+75,317 GC,Excavators,Small Excavators,,,21 ft,,,,,38000 lb,,,119 hp
+76,317,Excavators,Small Excavators,,,21 ft,,,,,40200 lb,,,133 hp
+77,320 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,49800 lb,,,172 hp
+78,320 GC - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,48500 lb,,,146 hp
+79,323 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.1 ft,,,,,55100 lb,,,172 hp
+80,325 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,62800 lb,,,172 hp
+81,326 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.4 ft,,,,,56400 lb,,,201 hp
+82,330 - Tier 4 / Stage V,Excavators,Medium Excavators,,,23.9 ft,,,,,69200 lb,,,273 hp
+83,330 GC - Tier 4 / Stage V,Excavators,Medium Excavators,,,23.8 ft,,,,,68100 lb,,,201 hp
+84,335 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.9 ft,,,,,77000 lb,,,273 hp
+85,336 -Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,81100 lb,,,300 hp
+86,340 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.9 ft,,,,,83100 lb,,,346 hp
+87,350 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,105100 lb,,,413 hp
+88,352 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,107800 lb,,,443 hp
+89,374 - Tier 4 / Stage V,Excavators,Large Excavators,,,28.1 ft,,,,,162900 lb,,,484 hp
+90,395 - Tier 4 / Stage V,Excavators,Large Excavators,,,31.9 ft,,,,,207400 lb,,,542 hp
+91,330 UHD Hydraulic Excavator,Excavators,Demolition Excavators,7300 lb,66.8 ft,,,,,,101400 lb,,,
+92,340 Straight Boom,Excavators,Demolition Excavators,9170 lb,39.4 ft,,,,,,87800 lb,,,
+93,340 UHD,Excavators,Demolition Excavators,8160 lb,72.2 ft,,,,,,122600 lb,,,
+94,352 Straight Boom,Excavators,Demolition Excavators,12456 lb,42.2 ft,,,,,,121000 lb,,,
+95,352 UHD,Excavators,Demolition Excavators,8157 lb,90.8 ft,,,,,,142200 lb,,,
+96,340 Long Reach,Excavators,Long Reach Excavation,,,42.8 ft,,,,,96500 lb,,,346 hp
+97,352 Long Reach,Excavators,Long Reach Excavation,,,42.8 ft,,,,,128100 lb,,,443 hp
+98,M314,Excavators,Wheel Excavators,,,,,23 mile/h,39683 lb,,,,134 hp,
+99,M315,Excavators,Wheel Excavators,,,,,21.7 mile/h,39680 lb,,,,148 hp,
+100,M316,Excavators,Wheel Excavators,,,,,21.7 mile/h,36400 lb,,,,148 hp,
+101,M318,Excavators,Wheel Excavators,,,,,21.7 mile/h,43980 lb,,,,174 hp,
+102,M319,Excavators,Wheel Excavators,,,,,21.7 mile/h,46407 lb,,,,174 hp,
+103,M320,Excavators,Wheel Excavators,,,,,21.7 mile/h,46740 lb,,,,174 hp,
+104,M322,Excavators,Wheel Excavators,,,,,,52911 lb,18.6 mile/h,,,174 hp,
+105,300.9D,Excavators,Mini Excavators,,,,13 hp,,,,2061 lb,68 in,,
+106,300.9D VPS &amp; HPU300,Excavators,Mini Excavators,,,,13 hp,,,,2399 lb,68 in,,
+107,301.5,Excavators,Mini Excavators,,,,21 hp,,,,3913 lb,100 in,,
+108,301.7 CR,Excavators,Mini Excavators,,,,21 hp,,,,4222 lb,100 in,,
+109,301.8,Excavators,Mini Excavators,,,,21 hp,,,,4473 lb,101.2 in,,
+110,302 CR,Excavators,Mini Excavators,,,,21 hp,,,,4987 lb,101.2 in,,
+111,302.7 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,6725 lb,106.7 in,,
+112,303 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,7817 lb,116.1 in,,
+113,303.5 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,9239 lb,122.4 in,,
+114,304,Excavators,Mini Excavators,,,,45 hp,,,,9867 lb,138.2 in,,
+115,305 CR - Tier 4 / Stage V,Excavators,Mini Excavators,,,,45 hp,,,,12688 lb,144.5 in,,
+116,306 CR,Excavators,Mini Excavators,,,,55.9 hp,,,,15766 lb,162 in,,
+117,307.5 - Tier 4 / Stage V,Excavators,Mini Excavators,,,,54.8 hp,,,,17905 lb,182.8 in,,
+118,308 CR,Excavators,Mini Excavators,,,,69.5 hp,,,,18493 lb,182.8 in,,
+119,308 CR VAB,Excavators,Mini Excavators,,,,69.5 hp,,,,20385 lb,150.2 in,,
+120,309 CR,Excavators,Mini Excavators,,,,69.5 hp,,,,21091 lb,182.8 in,,
+121,309 CR VAB (Long Undercarriage),Excavators,Mini Excavators,,,,69.5 hp,,,,21477 lb,150.2 in,,
+122,310 - Tier 4 / Stage V,Excavators,Mini Excavators,,,,69.5 hp,,,,23002 lb,205.2 in,,
+123,313 GC - Tier 4 / Stage V,Excavators,Small Excavators,,,19.8 ft,,,,,30400 lb,,,73 hp
+124,313,Excavators,Small Excavators,,,19.2 ft,,,,,30400 lb,,,108 hp
+125,315 GC,Excavators,Small Excavators,,,19.7 ft,,,,,34000 lb,,,98 hp
+126,315,Excavators,Small Excavators,,,19.7 ft,,,,,34000 lb,,,108 hp
+127,317 GC,Excavators,Small Excavators,,,21 ft,,,,,38000 lb,,,119 hp
+128,317,Excavators,Small Excavators,,,21 ft,,,,,40200 lb,,,133 hp
+129,320 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,49800 lb,,,172 hp
+130,320 GC - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,48500 lb,,,146 hp
+131,323 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.1 ft,,,,,55100 lb,,,172 hp
+132,325 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,62800 lb,,,172 hp
+133,326 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.4 ft,,,,,56400 lb,,,201 hp
+134,330 - Tier 4 / Stage V,Excavators,Medium Excavators,,,23.9 ft,,,,,69200 lb,,,273 hp
+135,330 GC - Tier 4 / Stage V,Excavators,Medium Excavators,,,23.8 ft,,,,,68100 lb,,,201 hp
+136,335 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.9 ft,,,,,77000 lb,,,273 hp
+137,336 -Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,81100 lb,,,300 hp
+138,340 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.9 ft,,,,,83100 lb,,,346 hp
+139,350 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,105100 lb,,,413 hp
+140,352 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,107800 lb,,,443 hp
+141,374 - Tier 4 / Stage V,Excavators,Large Excavators,,,28.1 ft,,,,,162900 lb,,,484 hp
+142,395 - Tier 4 / Stage V,Excavators,Large Excavators,,,31.9 ft,,,,,207400 lb,,,542 hp
+143,330 UHD Hydraulic Excavator,Excavators,Demolition Excavators,7300 lb,66.8 ft,,,,,,101400 lb,,,
+144,340 Straight Boom,Excavators,Demolition Excavators,9170 lb,39.4 ft,,,,,,87800 lb,,,
+145,340 UHD,Excavators,Demolition Excavators,8160 lb,72.2 ft,,,,,,122600 lb,,,
+146,352 Straight Boom,Excavators,Demolition Excavators,12456 lb,42.2 ft,,,,,,121000 lb,,,
+147,352 UHD,Excavators,Demolition Excavators,8157 lb,90.8 ft,,,,,,142200 lb,,,
+148,340 Long Reach,Excavators,Long Reach Excavation,,,42.8 ft,,,,,96500 lb,,,346 hp
+149,352 Long Reach,Excavators,Long Reach Excavation,,,42.8 ft,,,,,128100 lb,,,443 hp
+150,M314,Excavators,Wheel Excavators,,,,,23 mile/h,39683 lb,,,,134 hp,
+151,M315,Excavators,Wheel Excavators,,,,,21.7 mile/h,39680 lb,,,,148 hp,
+152,M316,Excavators,Wheel Excavators,,,,,21.7 mile/h,36400 lb,,,,148 hp,
+153,M318,Excavators,Wheel Excavators,,,,,21.7 mile/h,43980 lb,,,,174 hp,
+154,M319,Excavators,Wheel Excavators,,,,,21.7 mile/h,46407 lb,,,,174 hp,
+155,M320,Excavators,Wheel Excavators,,,,,21.7 mile/h,46740 lb,,,,174 hp,
+156,M322,Excavators,Wheel Excavators,,,,,,52911 lb,18.6 mile/h,,,174 hp,
+157,300.9D,Excavators,Mini Excavators,,,,13 hp,,,,2061 lb,68 in,,
+158,300.9D VPS &amp; HPU300,Excavators,Mini Excavators,,,,13 hp,,,,2399 lb,68 in,,
+159,301.5,Excavators,Mini Excavators,,,,21 hp,,,,3913 lb,100 in,,
+160,301.7 CR,Excavators,Mini Excavators,,,,21 hp,,,,4222 lb,100 in,,
+161,301.8,Excavators,Mini Excavators,,,,21 hp,,,,4473 lb,101.2 in,,
+162,302 CR,Excavators,Mini Excavators,,,,21 hp,,,,4987 lb,101.2 in,,
+163,302.7 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,6725 lb,106.7 in,,
+164,303 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,7817 lb,116.1 in,,
+165,303.5 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,9239 lb,122.4 in,,
+166,304,Excavators,Mini Excavators,,,,45 hp,,,,9867 lb,138.2 in,,
+167,305 CR - Tier 4 / Stage V,Excavators,Mini Excavators,,,,45 hp,,,,12688 lb,144.5 in,,
+168,306 CR,Excavators,Mini Excavators,,,,55.9 hp,,,,15766 lb,162 in,,
+169,307.5 - Tier 4 / Stage V,Excavators,Mini Excavators,,,,54.8 hp,,,,17905 lb,182.8 in,,
+170,308 CR,Excavators,Mini Excavators,,,,69.5 hp,,,,18493 lb,182.8 in,,
+171,308 CR VAB,Excavators,Mini Excavators,,,,69.5 hp,,,,20385 lb,150.2 in,,
+172,309 CR,Excavators,Mini Excavators,,,,69.5 hp,,,,21091 lb,182.8 in,,
+173,309 CR VAB (Long Undercarriage),Excavators,Mini Excavators,,,,69.5 hp,,,,21477 lb,150.2 in,,
+174,310 - Tier 4 / Stage V,Excavators,Mini Excavators,,,,69.5 hp,,,,23002 lb,205.2 in,,
+175,313 GC - Tier 4 / Stage V,Excavators,Small Excavators,,,19.8 ft,,,,,30400 lb,,,73 hp
+176,313,Excavators,Small Excavators,,,19.2 ft,,,,,30400 lb,,,108 hp
+177,315 GC,Excavators,Small Excavators,,,19.7 ft,,,,,34000 lb,,,98 hp
+178,315,Excavators,Small Excavators,,,19.7 ft,,,,,34000 lb,,,108 hp
+179,317 GC,Excavators,Small Excavators,,,21 ft,,,,,38000 lb,,,119 hp
+180,317,Excavators,Small Excavators,,,21 ft,,,,,40200 lb,,,133 hp
+181,320 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,49800 lb,,,172 hp
+182,320 GC - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,48500 lb,,,146 hp
+183,323 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.1 ft,,,,,55100 lb,,,172 hp
+184,325 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,62800 lb,,,172 hp
+185,326 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.4 ft,,,,,56400 lb,,,201 hp
+186,330 - Tier 4 / Stage V,Excavators,Medium Excavators,,,23.9 ft,,,,,69200 lb,,,273 hp
+187,330 GC - Tier 4 / Stage V,Excavators,Medium Excavators,,,23.8 ft,,,,,68100 lb,,,201 hp
+188,335 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.9 ft,,,,,77000 lb,,,273 hp
+189,336 -Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,81100 lb,,,300 hp
+190,340 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.9 ft,,,,,83100 lb,,,346 hp
+191,350 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,105100 lb,,,413 hp
+192,352 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,107800 lb,,,443 hp
+193,374 - Tier 4 / Stage V,Excavators,Large Excavators,,,28.1 ft,,,,,162900 lb,,,484 hp
+194,395 - Tier 4 / Stage V,Excavators,Large Excavators,,,31.9 ft,,,,,207400 lb,,,542 hp
+195,330 UHD Hydraulic Excavator,Excavators,Demolition Excavators,7300 lb,66.8 ft,,,,,,101400 lb,,,
+196,340 Straight Boom,Excavators,Demolition Excavators,9170 lb,39.4 ft,,,,,,87800 lb,,,
+197,340 UHD,Excavators,Demolition Excavators,8160 lb,72.2 ft,,,,,,122600 lb,,,
+198,352 Straight Boom,Excavators,Demolition Excavators,12456 lb,42.2 ft,,,,,,121000 lb,,,
+199,352 UHD,Excavators,Demolition Excavators,8157 lb,90.8 ft,,,,,,142200 lb,,,
+200,340 Long Reach,Excavators,Long Reach Excavation,,,42.8 ft,,,,,96500 lb,,,346 hp
+201,352 Long Reach,Excavators,Long Reach Excavation,,,42.8 ft,,,,,128100 lb,,,443 hp
+202,M314,Excavators,Wheel Excavators,,,,,23 mile/h,39683 lb,,,,134 hp,
+203,M315,Excavators,Wheel Excavators,,,,,21.7 mile/h,39680 lb,,,,148 hp,
+204,M316,Excavators,Wheel Excavators,,,,,21.7 mile/h,36400 lb,,,,148 hp,
+205,M318,Excavators,Wheel Excavators,,,,,21.7 mile/h,43980 lb,,,,174 hp,
+206,M319,Excavators,Wheel Excavators,,,,,21.7 mile/h,46407 lb,,,,174 hp,
+207,M320,Excavators,Wheel Excavators,,,,,21.7 mile/h,46740 lb,,,,174 hp,
+208,M322,Excavators,Wheel Excavators,,,,,,52911 lb,18.6 mile/h,,,174 hp,
+209,300.9D,Excavators,Mini Excavators,,,,13 hp,,,,2061 lb,68 in,,
+210,300.9D VPS &amp; HPU300,Excavators,Mini Excavators,,,,13 hp,,,,2399 lb,68 in,,
+211,301.5,Excavators,Mini Excavators,,,,21 hp,,,,3913 lb,100 in,,
+212,301.7 CR,Excavators,Mini Excavators,,,,21 hp,,,,4222 lb,100 in,,
+213,301.8,Excavators,Mini Excavators,,,,21 hp,,,,4473 lb,101.2 in,,
+214,302 CR,Excavators,Mini Excavators,,,,21 hp,,,,4987 lb,101.2 in,,
+215,302.7 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,6725 lb,106.7 in,,
+216,303 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,7817 lb,116.1 in,,
+217,303.5 CR,Excavators,Mini Excavators,,,,23.6 hp,,,,9239 lb,122.4 in,,
+218,304,Excavators,Mini Excavators,,,,45 hp,,,,9867 lb,138.2 in,,
+219,305 CR - Tier 4 / Stage V,Excavators,Mini Excavators,,,,45 hp,,,,12688 lb,144.5 in,,
+220,306 CR,Excavators,Mini Excavators,,,,55.9 hp,,,,15766 lb,162 in,,
+221,307.5 - Tier 4 / Stage V,Excavators,Mini Excavators,,,,54.8 hp,,,,17905 lb,182.8 in,,
+222,308 CR,Excavators,Mini Excavators,,,,69.5 hp,,,,18493 lb,182.8 in,,
+223,308 CR VAB,Excavators,Mini Excavators,,,,69.5 hp,,,,20385 lb,150.2 in,,
+224,309 CR,Excavators,Mini Excavators,,,,69.5 hp,,,,21091 lb,182.8 in,,
+225,309 CR VAB (Long Undercarriage),Excavators,Mini Excavators,,,,69.5 hp,,,,21477 lb,150.2 in,,
+226,310 - Tier 4 / Stage V,Excavators,Mini Excavators,,,,69.5 hp,,,,23002 lb,205.2 in,,
+227,313 GC - Tier 4 / Stage V,Excavators,Small Excavators,,,19.8 ft,,,,,30400 lb,,,73 hp
+228,313,Excavators,Small Excavators,,,19.2 ft,,,,,30400 lb,,,108 hp
+229,315 GC,Excavators,Small Excavators,,,19.7 ft,,,,,34000 lb,,,98 hp
+230,315,Excavators,Small Excavators,,,19.7 ft,,,,,34000 lb,,,108 hp
+231,317 GC,Excavators,Small Excavators,,,21 ft,,,,,38000 lb,,,119 hp
+232,317,Excavators,Small Excavators,,,21 ft,,,,,40200 lb,,,133 hp
+233,320 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,49800 lb,,,172 hp
+234,320 GC - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,48500 lb,,,146 hp
+235,323 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.1 ft,,,,,55100 lb,,,172 hp
+236,325 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22 ft,,,,,62800 lb,,,172 hp
+237,326 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.4 ft,,,,,56400 lb,,,201 hp
+238,330 - Tier 4 / Stage V,Excavators,Medium Excavators,,,23.9 ft,,,,,69200 lb,,,273 hp
+239,330 GC - Tier 4 / Stage V,Excavators,Medium Excavators,,,23.8 ft,,,,,68100 lb,,,201 hp
+240,335 - Tier 4 / Stage V,Excavators,Medium Excavators,,,22.9 ft,,,,,77000 lb,,,273 hp
+241,336 -Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,81100 lb,,,300 hp
+242,340 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.9 ft,,,,,83100 lb,,,346 hp
+243,350 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,105100 lb,,,413 hp
+244,352 - Tier 4 / Stage V,Excavators,Large Excavators,,,26.11 ft,,,,,107800 lb,,,443 hp
+245,374 - Tier 4 / Stage V,Excavators,Large Excavators,,,28.1 ft,,,,,162900 lb,,,484 hp
+246,395 - Tier 4 / Stage V,Excavators,Large Excavators,,,31.9 ft,,,,,207400 lb,,,542 hp
+247,330 UHD Hydraulic Excavator,Excavators,Demolition Excavators,7300 lb,66.8 ft,,,,,,101400 lb,,,
+248,340 Straight Boom,Excavators,Demolition Excavators,9170 lb,39.4 ft,,,,,,87800 lb,,,
+249,340 UHD,Excavators,Demolition Excavators,8160 lb,72.2 ft,,,,,,122600 lb,,,
+250,352 Straight Boom,Excavators,Demolition Excavators,12456 lb,42.2 ft,,,,,,121000 lb,,,
+251,352 UHD,Excavators,Demolition Excavators,8157 lb,90.8 ft,,,,,,142200 lb,,,
+252,340 Long Reach,Excavators,Long Reach Excavation,,,42.8 ft,,,,,96500 lb,,,346 hp
+253,352 Long Reach,Excavators,Long Reach Excavation,,,42.8 ft,,,,,128100 lb,,,443 hp
+254,M314,Excavators,Wheel Excavators,,,,,23 mile/h,39683 lb,,,,134 hp,
+255,M315,Excavators,Wheel Excavators,,,,,21.7 mile/h,39680 lb,,,,148 hp,
+256,M316,Excavators,Wheel Excavators,,,,,21.7 mile/h,36400 lb,,,,148 hp,
+257,M318,Excavators,Wheel Excavators,,,,,21.7 mile/h,43980 lb,,,,174 hp,
+258,M319,Excavators,Wheel Excavators,,,,,21.7 mile/h,46407 lb,,,,174 hp,
+259,M320,Excavators,Wheel Excavators,,,,,21.7 mile/h,46740 lb,,,,174 hp,
+260,M322,Excavators,Wheel Excavators,,,,,,52911 lb,18.6 mile/h,,,174 hp,

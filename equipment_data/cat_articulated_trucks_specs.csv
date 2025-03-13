@@ -1,0 +1,85 @@
+id,model_name,product_family,product_category,Heaped (SAE 2:1),Standard Wheel Base,Rated Payload,Engine Model
+1,725 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,30.4 ton (US),Cat® C9.3
+2,730 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,38.9 ton (US),Cat® C13
+3,735 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,43.1 ton (US),Cat® C13
+4,740 GC Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,162.4 in,49.2 ton (US),Cat® C15
+5,745 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,180.7 in,55 ton (US),Cat® C18
+6,725,Articulated Trucks,Three Axle Articulated Trucks,19.6 yd³,,26.5 ton (US),Cat C9.3
+7,730,Articulated Trucks,Three Axle Articulated Trucks,23 yd³,,31 ton (US),Cat® C13
+8,730 EJ,Articulated Trucks,Three Axle Articulated Trucks,22.1 yd³,,30 ton (US),Cat® C13
+9,735,Articulated Trucks,Three Axle Articulated Trucks,26.2 yd³,,35.3 ton (US),Cat® C13
+10,740 EJ,Articulated Trucks,Three Axle Articulated Trucks,30.1 yd³,,42 ton (US),Cat® C18
+11,740 GC,Articulated Trucks,Three Axle Articulated Trucks,29.7 yd³,,40 ton (US),Cat® C15
+12,745,Articulated Trucks,Three Axle Articulated Trucks,33.4 yd³,,45.2 t,Cat C18
+13,725 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,30.4 ton (US),Cat® C9.3
+14,730 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,38.9 ton (US),Cat® C13
+15,735 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,43.1 ton (US),Cat® C13
+16,740 GC Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,162.4 in,49.2 ton (US),Cat® C15
+17,745 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,180.7 in,55 ton (US),Cat® C18
+18,725,Articulated Trucks,Three Axle Articulated Trucks,19.6 yd³,,26.5 ton (US),Cat C9.3
+19,730,Articulated Trucks,Three Axle Articulated Trucks,23 yd³,,31 ton (US),Cat® C13
+20,730 EJ,Articulated Trucks,Three Axle Articulated Trucks,22.1 yd³,,30 ton (US),Cat® C13
+21,735,Articulated Trucks,Three Axle Articulated Trucks,26.2 yd³,,35.3 ton (US),Cat® C13
+22,740 EJ,Articulated Trucks,Three Axle Articulated Trucks,30.1 yd³,,42 ton (US),Cat® C18
+23,740 GC,Articulated Trucks,Three Axle Articulated Trucks,29.7 yd³,,40 ton (US),Cat® C15
+24,745,Articulated Trucks,Three Axle Articulated Trucks,33.4 yd³,,45.2 t,Cat C18
+25,725 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,30.4 ton (US),Cat® C9.3
+26,730 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,38.9 ton (US),Cat® C13
+27,735 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,43.1 ton (US),Cat® C13
+28,740 GC Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,162.4 in,49.2 ton (US),Cat® C15
+29,745 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,180.7 in,55 ton (US),Cat® C18
+30,725,Articulated Trucks,Three Axle Articulated Trucks,19.6 yd³,,26.5 ton (US),Cat C9.3
+31,730,Articulated Trucks,Three Axle Articulated Trucks,23 yd³,,31 ton (US),Cat® C13
+32,730 EJ,Articulated Trucks,Three Axle Articulated Trucks,22.1 yd³,,30 ton (US),Cat® C13
+33,735,Articulated Trucks,Three Axle Articulated Trucks,26.2 yd³,,35.3 ton (US),Cat® C13
+34,740 EJ,Articulated Trucks,Three Axle Articulated Trucks,30.1 yd³,,42 ton (US),Cat® C18
+35,740 GC,Articulated Trucks,Three Axle Articulated Trucks,29.7 yd³,,40 ton (US),Cat® C15
+36,745,Articulated Trucks,Three Axle Articulated Trucks,33.4 yd³,,45.2 t,Cat C18
+37,725 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,30.4 ton (US),Cat® C9.3
+38,730 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,38.9 ton (US),Cat® C13
+39,735 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,43.1 ton (US),Cat® C13
+40,740 GC Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,162.4 in,49.2 ton (US),Cat® C15
+41,745 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,180.7 in,55 ton (US),Cat® C18
+42,725,Articulated Trucks,Three Axle Articulated Trucks,19.6 yd³,,26.5 ton (US),Cat C9.3
+43,730,Articulated Trucks,Three Axle Articulated Trucks,23 yd³,,31 ton (US),Cat® C13
+44,730 EJ,Articulated Trucks,Three Axle Articulated Trucks,22.1 yd³,,30 ton (US),Cat® C13
+45,735,Articulated Trucks,Three Axle Articulated Trucks,26.2 yd³,,35.3 ton (US),Cat® C13
+46,740 EJ,Articulated Trucks,Three Axle Articulated Trucks,30.1 yd³,,42 ton (US),Cat® C18
+47,740 GC,Articulated Trucks,Three Axle Articulated Trucks,29.7 yd³,,40 ton (US),Cat® C15
+48,745,Articulated Trucks,Three Axle Articulated Trucks,33.4 yd³,,45.2 t,Cat C18
+49,725 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,30.4 ton (US),Cat® C9.3
+50,730 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,38.9 ton (US),Cat® C13
+51,735 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,43.1 ton (US),Cat® C13
+52,740 GC Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,162.4 in,49.2 ton (US),Cat® C15
+53,745 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,180.7 in,55 ton (US),Cat® C18
+54,725,Articulated Trucks,Three Axle Articulated Trucks,19.6 yd³,,26.5 ton (US),Cat C9.3
+55,730,Articulated Trucks,Three Axle Articulated Trucks,23 yd³,,31 ton (US),Cat® C13
+56,730 EJ,Articulated Trucks,Three Axle Articulated Trucks,22.1 yd³,,30 ton (US),Cat® C13
+57,735,Articulated Trucks,Three Axle Articulated Trucks,26.2 yd³,,35.3 ton (US),Cat® C13
+58,740 EJ,Articulated Trucks,Three Axle Articulated Trucks,30.1 yd³,,42 ton (US),Cat® C18
+59,740 GC,Articulated Trucks,Three Axle Articulated Trucks,29.7 yd³,,40 ton (US),Cat® C15
+60,745,Articulated Trucks,Three Axle Articulated Trucks,33.4 yd³,,45.2 t,Cat C18
+61,725 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,30.4 ton (US),Cat® C9.3
+62,730 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,38.9 ton (US),Cat® C13
+63,735 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,43.1 ton (US),Cat® C13
+64,740 GC Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,162.4 in,49.2 ton (US),Cat® C15
+65,745 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,180.7 in,55 ton (US),Cat® C18
+66,725,Articulated Trucks,Three Axle Articulated Trucks,19.6 yd³,,26.5 ton (US),Cat C9.3
+67,730,Articulated Trucks,Three Axle Articulated Trucks,23 yd³,,31 ton (US),Cat® C13
+68,730 EJ,Articulated Trucks,Three Axle Articulated Trucks,22.1 yd³,,30 ton (US),Cat® C13
+69,735,Articulated Trucks,Three Axle Articulated Trucks,26.2 yd³,,35.3 ton (US),Cat® C13
+70,740 EJ,Articulated Trucks,Three Axle Articulated Trucks,30.1 yd³,,42 ton (US),Cat® C18
+71,740 GC,Articulated Trucks,Three Axle Articulated Trucks,29.7 yd³,,40 ton (US),Cat® C15
+72,745,Articulated Trucks,Three Axle Articulated Trucks,33.4 yd³,,45.2 t,Cat C18
+73,725 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,30.4 ton (US),Cat® C9.3
+74,730 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,38.9 ton (US),Cat® C13
+75,735 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,156.7 in,43.1 ton (US),Cat® C13
+76,740 GC Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,162.4 in,49.2 ton (US),Cat® C15
+77,745 Bare Chassis,Articulated Trucks,Articulated Truck Bare Chassis,,180.7 in,55 ton (US),Cat® C18
+78,725,Articulated Trucks,Three Axle Articulated Trucks,19.6 yd³,,26.5 ton (US),Cat C9.3
+79,730,Articulated Trucks,Three Axle Articulated Trucks,23 yd³,,31 ton (US),Cat® C13
+80,730 EJ,Articulated Trucks,Three Axle Articulated Trucks,22.1 yd³,,30 ton (US),Cat® C13
+81,735,Articulated Trucks,Three Axle Articulated Trucks,26.2 yd³,,35.3 ton (US),Cat® C13
+82,740 EJ,Articulated Trucks,Three Axle Articulated Trucks,30.1 yd³,,42 ton (US),Cat® C18
+83,740 GC,Articulated Trucks,Three Axle Articulated Trucks,29.7 yd³,,40 ton (US),Cat® C15
+84,745,Articulated Trucks,Three Axle Articulated Trucks,33.4 yd³,,45.2 t,Cat C18

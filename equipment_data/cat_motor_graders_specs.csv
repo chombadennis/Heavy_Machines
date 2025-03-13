@@ -1,0 +1,56 @@
+id,model_name,product_family,product_category,Blade Width,Operating Weight - Typically Equipped,Net Power - ISO 9249/SAE J1349,Net Power Range (Tier 4),Engine Model,Net Power - EEC 80/1269,Engine Power (ISO 14396),Base Power (1st Gear) - Net
+1,120 / 120  AWD,Motor Graders,Motor Graders,12 ft,35067 lb,130 hp,,,,,
+2,120 GC,Motor Graders,Motor Graders,12 ft,31958 lb,171 hp,,,,,
+3,140 / 140 AWD JOY,Motor Graders,Motor Graders,12 ft,42647 lb,,179 hp,,,,
+4,140 / 140 AWD LVR,Motor Graders,Motor Graders,12 ft,44613 lb,,,,250 hp,,
+5,140 GC,Motor Graders,Motor Graders,12 ft,38725 lb,,,,,196 hp,
+6,150 / 150 AWD JOY,Motor Graders,Motor Graders,12 ft,43950 lb,,200 hp,,,,
+7,160 / 160 AWD JOY,Motor Graders,Motor Graders,14 ft,45547 lb,,,Cat® C9.3,,,
+8,14,Motor Graders,Motor Graders,14 ft,57250 lb,,,,,,238 hp
+9,16,Motor Graders,Motor Graders,16 ft,71454 lb,,,,,,290 hp
+10,18,Motor Graders,Motor Graders,18 ft,74324 lb,,,,,,304 hp
+11,24,Motor Graders,Motor Graders,24 ft,165314 lb,,,,535 hp,,
+12,120 / 120  AWD,Motor Graders,Motor Graders,12 ft,35067 lb,130 hp,,,,,
+13,120 GC,Motor Graders,Motor Graders,12 ft,31958 lb,171 hp,,,,,
+14,140 / 140 AWD JOY,Motor Graders,Motor Graders,12 ft,42647 lb,,179 hp,,,,
+15,140 / 140 AWD LVR,Motor Graders,Motor Graders,12 ft,44613 lb,,,,250 hp,,
+16,140 GC,Motor Graders,Motor Graders,12 ft,38725 lb,,,,,196 hp,
+17,150 / 150 AWD JOY,Motor Graders,Motor Graders,12 ft,43950 lb,,200 hp,,,,
+18,160 / 160 AWD JOY,Motor Graders,Motor Graders,14 ft,45547 lb,,,Cat® C9.3,,,
+19,14,Motor Graders,Motor Graders,14 ft,57250 lb,,,,,,238 hp
+20,16,Motor Graders,Motor Graders,16 ft,71454 lb,,,,,,290 hp
+21,18,Motor Graders,Motor Graders,18 ft,74324 lb,,,,,,304 hp
+22,24,Motor Graders,Motor Graders,24 ft,165314 lb,,,,535 hp,,
+23,120 / 120  AWD,Motor Graders,Motor Graders,12 ft,35067 lb,130 hp,,,,,
+24,120 GC,Motor Graders,Motor Graders,12 ft,31958 lb,171 hp,,,,,
+25,140 / 140 AWD JOY,Motor Graders,Motor Graders,12 ft,42647 lb,,179 hp,,,,
+26,140 / 140 AWD LVR,Motor Graders,Motor Graders,12 ft,44613 lb,,,,250 hp,,
+27,140 GC,Motor Graders,Motor Graders,12 ft,38725 lb,,,,,196 hp,
+28,150 / 150 AWD JOY,Motor Graders,Motor Graders,12 ft,43950 lb,,200 hp,,,,
+29,160 / 160 AWD JOY,Motor Graders,Motor Graders,14 ft,45547 lb,,,Cat® C9.3,,,
+30,14,Motor Graders,Motor Graders,14 ft,57250 lb,,,,,,238 hp
+31,16,Motor Graders,Motor Graders,16 ft,71454 lb,,,,,,290 hp
+32,18,Motor Graders,Motor Graders,18 ft,74324 lb,,,,,,304 hp
+33,24,Motor Graders,Motor Graders,24 ft,165314 lb,,,,535 hp,,
+34,120 / 120  AWD,Motor Graders,Motor Graders,12 ft,35067 lb,130 hp,,,,,
+35,120 GC,Motor Graders,Motor Graders,12 ft,31958 lb,171 hp,,,,,
+36,140 / 140 AWD JOY,Motor Graders,Motor Graders,12 ft,42647 lb,,179 hp,,,,
+37,140 / 140 AWD LVR,Motor Graders,Motor Graders,12 ft,44613 lb,,,,250 hp,,
+38,140 GC,Motor Graders,Motor Graders,12 ft,38725 lb,,,,,196 hp,
+39,150 / 150 AWD JOY,Motor Graders,Motor Graders,12 ft,43950 lb,,200 hp,,,,
+40,160 / 160 AWD JOY,Motor Graders,Motor Graders,14 ft,45547 lb,,,Cat® C9.3,,,
+41,14,Motor Graders,Motor Graders,14 ft,57250 lb,,,,,,238 hp
+42,16,Motor Graders,Motor Graders,16 ft,71454 lb,,,,,,290 hp
+43,18,Motor Graders,Motor Graders,18 ft,74324 lb,,,,,,304 hp
+44,24,Motor Graders,Motor Graders,24 ft,165314 lb,,,,535 hp,,
+45,120 / 120  AWD,Motor Graders,Motor Graders,12 ft,35067 lb,130 hp,,,,,
+46,120 GC,Motor Graders,Motor Graders,12 ft,31958 lb,171 hp,,,,,
+47,140 / 140 AWD JOY,Motor Graders,Motor Graders,12 ft,42647 lb,,179 hp,,,,
+48,140 / 140 AWD LVR,Motor Graders,Motor Graders,12 ft,44613 lb,,,,250 hp,,
+49,140 GC,Motor Graders,Motor Graders,12 ft,38725 lb,,,,,196 hp,
+50,150 / 150 AWD JOY,Motor Graders,Motor Graders,12 ft,43950 lb,,200 hp,,,,
+51,160 / 160 AWD JOY,Motor Graders,Motor Graders,14 ft,45547 lb,,,Cat® C9.3,,,
+52,14,Motor Graders,Motor Graders,14 ft,57250 lb,,,,,,238 hp
+53,16,Motor Graders,Motor Graders,16 ft,71454 lb,,,,,,290 hp
+54,18,Motor Graders,Motor Graders,18 ft,74324 lb,,,,,,304 hp
+55,24,Motor Graders,Motor Graders,24 ft,165314 lb,,,,535 hp,,
