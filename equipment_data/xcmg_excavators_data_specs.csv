@@ -1,0 +1,142 @@
+id,equipment_name,model,spec_name,spec_value
+1,Wheel Excavator XE60WA,XE60WA,Operating weight(Kg),5900
+2,Wheel Excavator XE60WA,XE60WA,Bucket capacity(m³),0.23
+3,Wheel Excavator XE60WA,XE60WA,Engine Model,Yanmar 4TNV98
+4,Wheel Excavator XE150WB,XE150WB,Operating weight(Kg),14000
+5,Wheel Excavator XE150WB,XE150WB,Bucket capacity(m³),0.58
+6,Wheel Excavator XE150WB,XE150WB,Engine Model,Cummins QSB4.5
+7,Wheel Excavator XE210WLL,XE210WLL,Operating weight(Kg),20600
+8,Wheel Excavator XE210WLL,XE210WLL,Bucket capacity(m³),0.5
+9,Wheel Excavator XE210WLL,XE210WLL,Engine Model,Cummins 6B5.9
+10,Wheel Excavator XE160W,XE160W,Operating weight(Kg),15500
+11,Wheel Excavator XE160W,XE160W,Bucket capacity(m³),0.58
+12,Wheel Excavator XE160W,XE160W,Engine Model,Cummins QSB4.5
+13,Wheel Excavator XE210WB,XE210WB,Operating weight(Kg),15500
+14,Wheel Excavator XE210WB,XE210WB,Bucket capacity(m³),0.58
+15,Wheel Excavator XE210WB,XE210WB,Engine Model,Cummins QSB4.5
+16,Crawler Excavator XE205D,XE205D,Operating weight(Kg),21700
+17,Crawler Excavator XE205D,XE205D,Bucket capacity(m³),0.93-1.1
+18,Crawler Excavator XE205D,XE205D,Engine Model,SC7H180
+19,Crawler Excavator XE490U,XE490U,Operating weight(Kg),50400
+20,Crawler Excavator XE490U,XE490U,Bucket capacity(m³),2.41
+21,Crawler Excavator XE490U,XE490U,Engine Model,Cummins X12
+22,Crawler Excavator XE155U,XE155U,Operating weight(Kg),15890
+23,Crawler Excavator XE155U,XE155U,Bucket capacity(m³),0.65
+24,Crawler Excavator XE155U,XE155U,Engine Model,Cummins B4.5
+25,Crawler Excavator XE80U,XE80U,Operating weight(Kg),9500
+26,Crawler Excavator XE80U,XE80U,Bucket capacity(m³),0.35
+27,Crawler Excavator XE80U,XE80U,Engine Model,Kubota V3307CRTE
+28,Crawler Excavator XE15U,XE15U,Operating weight(Kg),1795
+29,Crawler Excavator XE15U,XE15U,Bucket capacity(m³),0.04
+30,Crawler Excavator XE15U,XE15U,Engine Model,Kubota D782
+31,Crawler Excavator XE18U,XE18U,Operating weight(Kg),1795
+32,Crawler Excavator XE18U,XE18U,Bucket capacity(m³),0.04
+33,Crawler Excavator XE18U,XE18U,Engine Model,Kubota-D902
+34,Crawler Excavator XE27U,XE27U,Operating weight(Kg),2680
+35,Crawler Excavator XE27U,XE27U,Bucket capacity(m³),0.06
+36,Crawler Excavator XE27U,XE27U,Engine Model,Kubota-D1105
+37,Crawler Excavator XE35U,XE35U,Operating weight(Kg),4200
+38,Crawler Excavator XE35U,XE35U,Bucket capacity(m³),0.12
+39,Crawler Excavator XE35U,XE35U,Engine Model,YANMAR 3TNV88F
+40,Crawler Excavator XE55U,XE55U,Operating weight(Kg),5700
+41,Crawler Excavator XE55U,XE55U,Bucket capacity(m³),0.16
+42,Crawler Excavator XE55U,XE55U,Engine Model,Kubota-V2403-CR-E5B
+43,Crawler Excavator XE75U,XE75U,Operating weight(Kg),7460
+44,Crawler Excavator XE75U,XE75U,Bucket capacity(m³),0.18～0.3
+45,Crawler Excavator XE75U,XE75U,Engine Model,Kubota-V2607-CR-TIE4B
+46,Crawler Excavator XE150U,XE150U,Operating weight(Kg),14800
+47,Crawler Excavator XE150U,XE150U,Bucket capacity(m³),0.32-0.72
+48,Crawler Excavator XE150U,XE150U,Engine Model,Cummins QSB4.5
+49,Crawler Excavator XE210U,XE210U,Operating weight(Kg),21000-23000
+50,Crawler Excavator XE210U,XE210U,Bucket capacity(m³),0.9-1.2
+51,Crawler Excavator XE210U,XE210U,Engine Model,Cummins QSB6.7
+52,Crawler Excavator XE250U,XE250U,Operating weight(Kg),27300
+53,Crawler Excavator XE250U,XE250U,Bucket capacity(m³),1.2
+54,Crawler Excavator XE250U,XE250U,Engine Model,Cummins -B6.7
+55,Crawler Excavator XE300U,XE300U,Operating weight(Kg),32700
+56,Crawler Excavator XE300U,XE300U,Bucket capacity(m³),1.4-1.6
+57,Crawler Excavator XE300U,XE300U,Engine Model,Cummins QSB6.7
+58,Crawler Excavator XE300UF,XE300UF,Operating weight(Kg),38500
+59,Crawler Excavator XE300UF,XE300UF,Engine Model,Cummins -QSB6.7
+60,Crawler Excavator XE300UF,XE300UF,Rated power/speed(kw/rpm),180/1900
+61,Crawler Excavator XE360U,XE360U,Operating weight(Kg),36800
+62,Crawler Excavator XE360U,XE360U,Bucket capacity(m³),1.4-1.8
+63,Crawler Excavator XE360U,XE360U,Engine Model,Cummins QSL9
+64,Crawler Excavator XE215SLL,XE215SLL,Operating weight(Kg),34900
+65,Crawler Excavator XE215SLL,XE215SLL,Bucket capacity(m³),0.4
+66,Crawler Excavator XE215SLL,XE215SLL,Engine Model,ISUZU
+67,Crawler Excavator XE135F,XE135F,Operating weight(Kg),17500
+68,Crawler Excavator XE135F,XE135F,Bucket capacity(m³),/
+69,Crawler Excavator XE135F,XE135F,Engine Model,Isuzu
+70,Crawler Excavator XE18E,XE18E,Operating weight(Kg),1795
+71,Crawler Excavator XE18E,XE18E,Bucket capacity(m³),0.04
+72,Crawler Excavator XE18E,XE18E,Engine Model,Kubota
+73,Crawler Excavator XE20E,XE20E,Operating weight(Kg),1950
+74,Crawler Excavator XE20E,XE20E,Bucket capacity(m³),0.04
+75,Crawler Excavator XE20E,XE20E,Engine Model,Kubota
+76,Crawler Excavator XE27E,XE27E,Operating weight(Kg),2780
+77,Crawler Excavator XE27E,XE27E,Bucket capacity(m³),0.06
+78,Crawler Excavator XE27E,XE27E,Engine Model,Kubota
+79,Crawler Excavator XE35E,XE35E,Operating weight(Kg),4200
+80,Crawler Excavator XE35E,XE35E,Bucket capacity(m³),0.12
+81,Crawler Excavator XE35E,XE35E,Engine Model,Yanmar
+82,Crawler Excavator XE55E,XE55E,Operating weight(Kg),5700
+83,Crawler Excavator XE55E,XE55E,Bucket capacity(m³),0.16
+84,Crawler Excavator XE55E,XE55E,Engine Model,Cummins
+85,Crawler Excavator XE150E,XE150E,Operating weight(Kg),14800
+86,Crawler Excavator XE150E,XE150E,Bucket capacity(m³),0.32-0.72
+87,Crawler Excavator XE150E,XE150E,Engine Model,Cummins QSB4.5
+88,Crawler Excavator XE155ECR,XE155ECR,Operating weight(Kg),16600
+89,Crawler Excavator XE155ECR,XE155ECR,Bucket capacity(m³),0.65
+90,Crawler Excavator XE155ECR,XE155ECR,Engine Model,Cummins
+91,Crawler Excavator XE210E,XE210E,Operating weight(Kg),21000-23000
+92,Crawler Excavator XE210E,XE210E,Bucket capacity(m³),0.9-1.2
+93,Crawler Excavator XE210E,XE210E,Engine Model,Cummins QSB6.7
+94,Crawler Excavator XE220E,XE220E,Operating weight(Kg),23500
+95,Crawler Excavator XE220E,XE220E,Bucket capacity(m³),1.05
+96,Crawler Excavator XE220E,XE220E,Engine Model,Cummins
+97,Crawler Excavator XE250E,XE250E,Operating weight(Kg),25870
+98,Crawler Excavator XE250E,XE250E,Bucket capacity(m³),1.2
+99,Crawler Excavator XE250E,XE250E,Engine Model,Cummins QSB6.7
+100,Crawler Excavator XE55DA,XE55DA,Operating weight(Kg),5750
+101,Crawler Excavator XE55DA,XE55DA,Bucket capacity(m³),0.21
+102,Crawler Excavator XE55DA,XE55DA,Engine Model,Kubota
+103,Crawler Excavator XE60DA,XE60DA,Operating weight(Kg),6010
+104,Crawler Excavator XE60DA,XE60DA,Bucket capacity(m³),0.23
+105,Crawler Excavator XE60DA,XE60DA,Engine Model,Yanmar
+106,Crawler Excavator XE75DA,XE75DA,Operating weight(Kg),7460
+107,Crawler Excavator XE75DA,XE75DA,Bucket capacity(m³),0.18-0.3
+108,Crawler Excavator XE75DA,XE75DA,Engine Model,Kubota
+109,Crawler Excavator XE215DA,XE215DA,Operating weight(Kg),21900
+110,Crawler Excavator XE215DA,XE215DA,Bucket capacity(m³),1.05
+111,Crawler Excavator XE215DA,XE215DA,Engine Model,Cummins
+112,Crawler Excavator XE310DA,XE310DA,Operating weight(Kg),31500
+113,Crawler Excavator XE310DA,XE310DA,Bucket capacity(m³),1.4-1.6
+114,Crawler Excavator XE310DA,XE310DA,Engine Model,Cummins
+115,Crawler Excavator XE370D,XE370D,Operating weight(Kg),36800
+116,Crawler Excavator XE370D,XE370D,Bucket capacity(m³),1.7-1.9
+117,Crawler Excavator XE370D,XE370D,Engine Model,Isuzu
+118,Crawler Excavator XE380DK,XE380DK,Operating weight(Kg),38200
+119,Crawler Excavator XE380DK,XE380DK,Bucket capacity(m³),1.9-2.1
+120,Crawler Excavator XE380DK,XE380DK,Engine Model,Cummins
+121,Crawler Excavator XE490DK,XE490DK,Operating weight(Kg),48100
+122,Crawler Excavator XE490DK,XE490DK,Bucket capacity(m³),2.6-3.1
+123,Crawler Excavator XE490DK,XE490DK,Engine Model,Cummins
+124,Crawler Excavator XE600DK,XE600DK,Operating weight(Kg),57000
+125,Crawler Excavator XE600DK,XE600DK,Engine Model,Perkins
+126,Crawler Excavator XE600DK,XE600DK,Rated power/speed(kw/rpm),309.5/2100
+127,Crawler Excavator XE690DK,XE690DK,Operating weight(Kg),65800
+128,Crawler Excavator XE690DK,XE690DK,Bucket capacity(m³),3.8-4.5
+129,Crawler Excavator XE690DK,XE690DK,Engine Model,WEICHAI
+130,Crawler Excavator XE215C,XE215C,Operating weight(Kg),21500
+131,Crawler Excavator XE215C,XE215C,Bucket capacity(m³),1
+132,Crawler Excavator XE215C,XE215C,Engine Model,Isuzu
+133,Crawler Excavator XE235C,XE235C,Operating weight(Kg),23500
+134,Crawler Excavator XE235C,XE235C,Bucket capacity(m³),1.0-1.1
+135,Crawler Excavator XE235C,XE235C,Engine Model,Isuzu CC-6BG1TRP-08
+136,Crawler Excavator XE265C,XE265C,Operating weight(Kg),25500
+137,Crawler Excavator XE265C,XE265C,Bucket capacity(m³),1.05-1.25
+138,Crawler Excavator XE265C,XE265C,Engine Model,Isuzu CC-6BG1TRP-05
+139,Crawler Excavator XE370CA,XE370CA,Operating weight(Kg),36600
+140,Crawler Excavator XE370CA,XE370CA,Bucket capacity(m³),1.6
+141,Crawler Excavator XE370CA,XE370CA,Engine Model,Isuzu

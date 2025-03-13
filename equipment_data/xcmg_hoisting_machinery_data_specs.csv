@@ -1,0 +1,196 @@
+id,equipment_name,model,spec_name,spec_value
+1,Truck Crane XCT30_S,XCT30_S,Maximum rated lifting capacity(t),30
+2,Truck Crane XCT30_S,XCT30_S,Fully-extended boom(m),40.7
+3,Truck Crane XCT30_S,XCT30_S,Engine rated power(KW/rpm),251/1900
+4,Truck Crane XCT25L5_SR,XCT25L5_SR,Maximum rated lifting capacity(t),25
+5,Truck Crane XCT25L5_SR,XCT25L5_SR,Fully-extended boom(m),41
+6,Truck Crane XCT25L5_SR,XCT25L5_SR,Engine rated power(KW/rpm),192/2300
+7,Truck Crane XCT25L5_S,XCT25L5_S,Maximum rated lifting capacity(t),25
+8,Truck Crane XCT25L5_S,XCT25L5_S,Fully-extended boom(m),41
+9,Truck Crane XCT25L5_S,XCT25L5_S,Engine rated power(KW/rpm),251/1900
+10,Truck Crane XCT25L4_SR,XCT25L4_SR,Maximum rated lifting capacity(t),25
+11,Truck Crane XCT25L4_SR,XCT25L4_SR,Fully-extended boom(m),34.1
+12,Truck Crane XCT25L4_SR,XCT25L4_SR,Engine rated power(KW/rpm),192/2300
+13,Truck Crane XCT25L4_S,XCT25L4_S,Maximum rated lifting capacity(t),25
+14,Truck Crane XCT25L4_S,XCT25L4_S,Fully-extended boom(m),34
+15,Truck Crane XCT25L4_S,XCT25L4_S,Engine rated power(KW/rpm),192/2300
+16,Truck Crane XCT80_S,XCT80_S,Maximum rated lifting capacity(t),80
+17,Truck Crane XCT80_S,XCT80_S,Fully-extended boom(m),48
+18,Truck Crane XCT80_S,XCT80_S,Engine rated power(KW/rpm),276/2000
+19,Truck Crane XCT30_S,XCT30_S,Maximum rated lifting capacity(t),30
+20,Truck Crane XCT30_S,XCT30_S,Fully-extended boom(m),40.7
+21,Truck Crane XCT30_S,XCT30_S,Engine rated power(KW/rpm),251/1900
+22,Truck Crane XCT25L5_SR,XCT25L5_SR,Maximum rated lifting capacity(t),25
+23,Truck Crane XCT25L5_SR,XCT25L5_SR,Fully-extended boom(m),41
+24,Truck Crane XCT25L5_SR,XCT25L5_SR,Engine rated power(KW/rpm),192/2300
+25,Truck Crane XCT25L5_S,XCT25L5_S,Maximum rated lifting capacity(t),25
+26,Truck Crane XCT25L5_S,XCT25L5_S,Fully-extended boom(m),41
+27,Truck Crane XCT25L5_S,XCT25L5_S,Engine rated power(KW/rpm),251/1900
+28,Truck Crane XCT25L4_SR,XCT25L4_SR,Maximum rated lifting capacity(t),25
+29,Truck Crane XCT25L4_SR,XCT25L4_SR,Fully-extended boom(m),34.1
+30,Truck Crane XCT25L4_SR,XCT25L4_SR,Engine rated power(KW/rpm),192/2300
+31,Truck Crane XCT25L4_S,XCT25L4_S,Maximum rated lifting capacity(t),25
+32,Truck Crane XCT25L4_S,XCT25L4_S,Fully-extended boom(m),34
+33,Truck Crane XCT25L4_S,XCT25L4_S,Engine rated power(KW/rpm),192/2300
+34,Truck Crane XCT55_S,XCT55_S,Maximum rated lifting capacity(t),55
+35,Truck Crane XCT55_S,XCT55_S,Fully-extended boom(m),44
+36,Truck Crane XCT55_S,XCT55_S,Engine rated power(KW/rpm),276/2200
+37,Truck Crane XCT70_S,XCT70_S,Maximum rated lifting capacity(t),70
+38,Truck Crane XCT70_S,XCT70_S,Fully-extended boom(m),44.5
+39,Truck Crane XCT70_S,XCT70_S,Engine rated power(KW/rpm),268/1900
+40,Truck Crane XCT75_S,XCT75_S,Maximum rated lifting capacity(t),75
+41,Truck Crane XCT75_S,XCT75_S,Fully-extended boom(m),48
+42,Truck Crane XCT75_S,XCT75_S,Engine rated power(KW/rpm),268/1900
+43,Truck Crane XCT80_S,XCT80_S,Maximum rated lifting capacity(t),80
+44,Truck Crane XCT80_S,XCT80_S,Fully-extended boom(m),48
+45,Truck Crane XCT80_S,XCT80_S,Engine rated power(KW/rpm),276/2000
+46,Truck Crane QY45KH,QY45KH,Maximum rated lifting capacity(t),45
+47,Truck Crane QY45KH,QY45KH,Fully-extended boom(m),44.5
+48,Truck Crane QY45KH,QY45KH,Engine rated power(KW/rpm),251/1900
+49,Truck Crane XCT80_Y,XCT80_Y,Maximum rated lifting capacity(t),80
+50,Truck Crane XCT80_Y,XCT80_Y,Fully-extended boom(m),46
+51,Truck Crane XCT80_Y,XCT80_Y,Engine rated power(KW/rpm),264
+52,Truck Crane XCT60_Y,XCT60_Y,Maximum rated lifting capacity(t),60
+53,Truck Crane XCT60_Y,XCT60_Y,Fully-extended boom(m),43.6
+54,Truck Crane XCT60_Y,XCT60_Y,Engine rated power(KW/rpm),247
+55,Truck Crane XCT25_M,XCT25_M,Maximum rated lifting capacity(t),25
+56,Truck Crane XCT25_M,XCT25_M,Fully-extended boom(m),34
+57,Truck Crane XCT25_M,XCT25_M,Engine rated power(KW/rpm),192
+58,Truck Crane XCT30_M,XCT30_M,Maximum rated lifting capacity(t),30
+59,Truck Crane XCT30_M,XCT30_M,Fully-extended boom(m),40.5
+60,Truck Crane XCT30_M,XCT30_M,Engine rated power(KW/rpm),192
+61,Truck Crane XCT50_M,XCT50_M,Maximum rated lifting capacity(t),50
+62,Truck Crane XCT50_M,XCT50_M,Fully-extended boom(m),43.5
+63,Truck Crane XCT50_M,XCT50_M,Engine rated power(KW/rpm),247
+64,Truck Crane XCT60_M,XCT60_M,Maximum rated lifting capacity(t),60
+65,Truck Crane XCT60_M,XCT60_M,Fully-extended boom(m),44
+66,Truck Crane XCT60_M,XCT60_M,Engine rated power(KW/rpm),247
+67,Truck Crane XCT100_M,XCT100_M,Maximum rated lifting capacity(t),100
+68,Truck Crane XCT100_M,XCT100_M,Fully-extended boom(m),58
+69,Truck Crane XCT100_M,XCT100_M,Engine rated power(KW/rpm),290
+70,All Terrain Crane XCA220_Y,XCA220_Y,Maximum rated lifting capacity(t),220
+71,All Terrain Crane XCA220_Y,XCA220_Y,Fully-extended boom(m),112
+72,All Terrain Crane XCA220_Y,XCA220_Y,Engine rated power(KW/rpm),361.1
+73,All Terrain Crane XCA350_U,XCA350_U,Maximum rated lifting capacity(t),350ust
+74,All Terrain Crane XCA350_U,XCA350_U,Fully-extended boom(m),262.5ft
+75,All Terrain Crane XCA350_U,XCA350_U,Engine rated power(KW/rpm),576.6/1700bhp/(r/min)
+76,All Terrain Crane XCA275_U,XCA275_U,Maximum rated lifting capacity(t),275ust
+77,All Terrain Crane XCA275_U,XCA275_U,Fully-extended boom(m),239.5ft
+78,All Terrain Crane XCA275_U,XCA275_U,Engine rated power(KW/rpm),523.0/1700bhp/(r/min)
+79,All Terrain Crane XCA110_U,XCA110_U,Maximum rated lifting capacity(t),110us
+80,All Terrain Crane XCA110_U,XCA110_U,Fully-extended boom(m),196.9ft
+81,All Terrain Crane XCA110_U,XCA110_U,Engine rated power(KW/rpm),456/1700bhp/(r/min)
+82,All Terrain Crane XCA130_E,XCA130_E,Maximum rated lifting capacity(t),130
+83,All Terrain Crane XCA130_E,XCA130_E,Fully-extended boom(m),62
+84,All Terrain Crane XCA130_E,XCA130_E,Engine rated power(KW/rpm),360/1700kW/(r/min)
+85,All Terrain Crane XCA100_E,XCA100_E,Maximum rated lifting capacity(t),100
+86,All Terrain Crane XCA100_E,XCA100_E,Fully-extended boom(m),60
+87,All Terrain Crane XCA100_E,XCA100_E,Engine rated power(KW/rpm),340/1700kW/(r/min)
+88,All Terrain Crane XCA220_S,XCA220_S,Maximum rated lifting capacity(t),220
+89,All Terrain Crane XCA220_S,XCA220_S,Fully-extended boom(m),73
+90,All Terrain Crane XCA220_S,XCA220_S,Engine rated power(KW/rpm),361/1800
+91,All Terrain Crane XCA100_S,XCA100_S,Maximum rated lifting capacity(t),100
+92,All Terrain Crane XCA100_S,XCA100_S,Fully-extended boom(m),60
+93,All Terrain Crane XCA100_S,XCA100_S,Engine rated power(KW/rpm),324/1900
+94,All Terrain Crane XCA180_M,XCA180_M,Maximum rated lifting capacity(t),180
+95,All Terrain Crane XCA180_M,XCA180_M,Fully-extended boom(m),64
+96,All Terrain Crane XCA180_M,XCA180_M,Engine rated power(KW/rpm),356
+97,All Terrain Crane XCA100_M,XCA100_M,Maximum rated lifting capacity(t),100
+98,All Terrain Crane XCA100_M,XCA100_M,Fully-extended boom(m),60
+99,All Terrain Crane XCA100_M,XCA100_M,Engine rated power(KW/rpm),Chassis: 319Superstructure: 145
+100,All Terrain Crane XCA60_M,XCA60_M,Maximum rated lifting capacity(t),60
+101,All Terrain Crane XCA60_M,XCA60_M,Fully-extended boom(m),48
+102,All Terrain Crane XCA60_M,XCA60_M,Engine rated power(KW/rpm),260
+103,All Terrain Crane XCA60_E,XCA60_E,Maximum rated lifting capacity(t),60
+104,All Terrain Crane XCA60_E,XCA60_E,Fully-extended boom(m),48
+105,All Terrain Crane XCA60_E,XCA60_E,Engine rated power(KW/rpm),280/1700kW/(r/min)
+106,Rough Terrain Crane XCR55L4_M,XCR55L4_M,Maximum rated lifting capacity(t),55
+107,Rough Terrain Crane XCR55L4_M,XCR55L4_M,Fully-extended boom(m),36.5
+108,Rough Terrain Crane XCR55L4_M,XCR55L4_M,Engine rated power(KW/r/min),162/2200
+109,Rough Terrain Crane XCR55L5_M,XCR55L5_M,Maximum rated lifting capacity(t),55
+110,Rough Terrain Crane XCR55L5_M,XCR55L5_M,Fully-extended boom(m),43.6
+111,Rough Terrain Crane XCR55L5_M,XCR55L5_M,Engine rated power(KW/r/min),162/2200
+112,Rough Terrain Crane XCR70_M,XCR70_M,Maximum rated lifting capacity(t),70
+113,Rough Terrain Crane XCR70_M,XCR70_M,Fully-extended boom(m),45
+114,Rough Terrain Crane XCR70_M,XCR70_M,Engine rated power(KW/r/min),192/2000
+115,Rough Terrain Crane XCR90_M,XCR90_M,Maximum rated lifting capacity(t),90
+116,Rough Terrain Crane XCR90_M,XCR90_M,Fully-extended boom(m),48
+117,Rough Terrain Crane XCR90_M,XCR90_M,Engine rated power(KW/r/min),192/2000
+118,Rough Terrain Crane XCR55L5_E,XCR55L5_E,Maximum rated lifting capacity(t),55
+119,Rough Terrain Crane XCR55L5_E,XCR55L5_E,Fully-extended boom(m),43.6
+120,Rough Terrain Crane XCR55L5_E,XCR55L5_E,Engine rated power(KW/r/min),194/2200
+121,Rough Terrain Crane XCR70_E,XCR70_E,Maximum rated lifting capacity(t),70
+122,Rough Terrain Crane XCR70_E,XCR70_E,Fully-extended boom(m),45
+123,Rough Terrain Crane XCR70_E,XCR70_E,Engine rated power(KW/r/min),194/2200
+124,Rough Terrain Crane XCR60L5_U,XCR60L5_U,Maximum rated lifting capacity(t),60USt
+125,Rough Terrain Crane XCR60L5_U,XCR60L5_U,Fully-extended boom(m),143.0ft
+126,Rough Terrain Crane XCR60L5_U,XCR60L5_U,Engine rated power(KW/r/min),260/2200（bhp/（r/min））
+127,Rough Terrain Crane XCR75_U,XCR75_U,Maximum rated lifting capacity(t),75USt
+128,Rough Terrain Crane XCR75_U,XCR75_U,Fully-extended boom(m),147.6ft
+129,Rough Terrain Crane XCR75_U,XCR75_U,Engine rated power(KW/r/min),260/2200（bhp/（r/min））
+130,Rough Terrain Crane XCR100_U,XCR100_U,Maximum rated lifting capacity(t),100USt
+131,Rough Terrain Crane XCR100_U,XCR100_U,Fully-extended boom(m),157.5ft
+132,Rough Terrain Crane XCR100_U,XCR100_U,Engine rated power(KW/r/min),280/2200（bhp/（r/min））
+133,Rough Terrain Crane XCR40,XCR40,Maximum rated lifting capacity(t),40
+134,Rough Terrain Crane XCR40,XCR40,Fully-extended boom(m),35
+135,Rough Terrain Crane XCR40,XCR40,Engine rated power(KW/r/min),162/2000
+136,Rough Terrain Crane RT35,RT35,Maximum rated lifting capacity(t),35
+137,Rough Terrain Crane RT35,RT35,Fully-extended boom(m),32
+138,Rough Terrain Crane RT35,RT35,Engine rated power(KW/r/min),142/2200
+139,Rough Terrain Crane XCR55L5_Y,XCR55L5_Y,Maximum rated lifting capacity(t),55
+140,Rough Terrain Crane XCR55L5_Y,XCR55L5_Y,Fully-extended boom(m),43.6
+141,Rough Terrain Crane XCR55L5_Y,XCR55L5_Y,Engine rated power(KW/r/min),162/2200
+142,Rough Terrain Crane XCR30,XCR30,Maximum rated lifting capacity(t),30
+143,Rough Terrain Crane XCR30,XCR30,Fully-extended boom(m),35
+144,Rough Terrain Crane XCR30,XCR30,Engine rated power(KW/rpm),162/2000
+145,Rough Terrain Crane XCR35,XCR35,Maximum rated lifting capacity(t),35
+146,Rough Terrain Crane XCR35,XCR35,Fully-extended boom(m),35
+147,Rough Terrain Crane XCR35,XCR35,Engine rated power(KW/r/min),162/2000
+148,Rough Terrain Crane XCR55L4,XCR55L4,Maximum rated lifting capacity(t),55
+149,Rough Terrain Crane XCR55L4,XCR55L4,Fully-extended boom(m),36.5
+150,Rough Terrain Crane XCR55L4,XCR55L4,Engine rated power(KW/r/min),162/2200
+151,Rough Terrain Crane XCR55L5,XCR55L5,Maximum rated lifting capacity(t),55
+152,Rough Terrain Crane XCR55L5,XCR55L5,Fully-extended boom(m),43.6
+153,Rough Terrain Crane XCR55L5,XCR55L5,Engine rated power(KW/r/min),162/2200
+154,Rough Terrain Crane XCR70,XCR70,Maximum rated lifting capacity(t),70
+155,Rough Terrain Crane XCR70,XCR70,Fully-extended boom(m),45
+156,Rough Terrain Crane XCR70,XCR70,Engine rated power(KW/r/min),192/2000
+157,Rough Terrain Crane XCR90,XCR90,Maximum rated lifting capacity(t),90
+158,Rough Terrain Crane XCR90,XCR90,Fully-extended boom(m),48
+159,Rough Terrain Crane XCR90,XCR90,Engine rated power(KW/r/min),192/2000
+160,Rough Terrain Crane XCR120,XCR120,Maximum rated lifting capacity(t),120
+161,Rough Terrain Crane XCR120,XCR120,Fully-extended boom(m),50
+162,Rough Terrain Crane XCR120,XCR120,Engine rated power(KW/r/min),221/2200
+163,Rough Terrain Crane XCR30_Y,XCR30_Y,Maximum rated lifting capacity(t),30
+164,Rough Terrain Crane XCR30_Y,XCR30_Y,Fully-extended boom(m),35
+165,Rough Terrain Crane XCR30_Y,XCR30_Y,Engine rated power(KW/r/min),162/2000
+166,Rough Terrain Crane XCR35_Y,XCR35_Y,Maximum rated lifting capacity(t),35
+167,Rough Terrain Crane XCR35_Y,XCR35_Y,Fully-extended boom(m),35
+168,Rough Terrain Crane XCR35_Y,XCR35_Y,Engine rated power(KW/r/min),162/2000
+169,Rough Terrain Crane XCR70_Y,XCR70_Y,Maximum rated lifting capacity(t),70
+170,Rough Terrain Crane XCR70_Y,XCR70_Y,Fully-extended boom(m),45
+171,Rough Terrain Crane XCR70_Y,XCR70_Y,Engine rated power(KW/r/min),192/2000
+172,Loader Crane GSQS175-4,GSQS175-4,Max.Lifting Capacity (kg.m),17500
+173,Loader Crane GSQS175-4,GSQS175-4,Max. Working Height (m),15.3
+174,Loader Crane GSQS175-4,GSQS175-4,Max. Working Radius (m),13.5
+175,Loader Crane GSQS200-4,GSQS200-4,Max.Lifting Capacity (kg.m),20000
+176,Loader Crane GSQS200-4,GSQS200-4,Max. Working Height (m),16.7
+177,Loader Crane GSQS200-4,GSQS200-4,Max. Working Radius (m),14.5
+178,Loader Crane GSQS250-4,GSQS250-4,Max.Lifting Capacity (kg.m),26000
+179,Loader Crane GSQS250-4,GSQS250-4,Max. Working Height (m),17.5
+180,Loader Crane GSQS250-4,GSQS250-4,Max. Working Radius (m),16
+181,Loader Crane GSQS300-4,GSQS300-4,Max.Lifting Capacity (kg.m),33000
+182,Loader Crane GSQS300-4,GSQS300-4,Max. Working Height (m),17.2
+183,Loader Crane GSQS300-4,GSQS300-4,Max. Working Radius (m),15
+184,Loader Crane GSQS350-5,GSQS350-5,Max.Lifting Capacity (kg.m),36000
+185,Loader Crane GSQS350-5,GSQS350-5,Max. Working Height (m),21
+186,Loader Crane GSQS350-5,GSQS350-5,Max. Working Radius (m),19.1
+187,Loader Crane GSQS400-5,GSQS400-5,Max.Lifting Capacity (kg.m),42000
+188,Loader Crane GSQS400-5,GSQS400-5,Max. Working Height (m),23.1
+189,Loader Crane GSQS400-5,GSQS400-5,Max. Working Radius (m),21.2
+190,Tower crane XGT7026E-12S1,XGT7026E-12S1,Max lifting capacity(t),12
+191,Tower crane XGT7026E-12S1,XGT7026E-12S1,Max working range & tip-load (m/t),70/2.6
+192,Tower crane XGT7026E-12S1,XGT7026E-12S1,Max free-standing height(m),65
+193,Tower crane XGT7020E-10S1,XGT7020E-10S1,Max lifting capacity(t),10
+194,Tower crane XGT7020E-10S1,XGT7020E-10S1,Max working range & tip-load (m/t),70/2.0
+195,Tower crane XGT7020E-10S1,XGT7020E-10S1,Max free-standing height(m),65

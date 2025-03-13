@@ -1,0 +1,229 @@
+id,equipment_name,model,spec_name,spec_value
+1,XR Series Rotary Drilling Rig XR800E,XR800E,Model,QSK23
+2,XR Series Rotary Drilling Rig XR800E,XR800E,Rated Power(kW),641
+3,XR Series Rotary Drilling Rig XR800E,XR800E,Max.output torque(kN﹒m),793
+4,XR Series Rotary Drilling Rig XR180D CFA,XR180D CFA,Model,QSB6.7
+5,XR Series Rotary Drilling Rig XR180D CFA,XR180D CFA,Rated Power(kW),194
+6,XR Series Rotary Drilling Rig XR180D CFA,XR180D CFA,Max.output torque(kN﹒m),180
+7,XR Series Rotary Drilling Rig XR150D CFA,XR150D CFA,Model,QSB7-C202
+8,XR Series Rotary Drilling Rig XR150D CFA,XR150D CFA,Rated Power(kW),150
+9,XR Series Rotary Drilling Rig XR150D CFA,XR150D CFA,Max.output torque(kN﹒m),150
+10,XR Series Rotary Drilling Rig XR130E CFA,XR130E CFA,Model,QSB7-C227
+11,XR Series Rotary Drilling Rig XR130E CFA,XR130E CFA,Rated Power(kW),169
+12,XR Series Rotary Drilling Rig XR130E CFA,XR130E CFA,Max.output torque(kN﹒m),130
+13,XR Series Rotary Drilling Rig XR180DⅡ CFA,XR180DⅡ CFA,Model,QSB6.7
+14,XR Series Rotary Drilling Rig XR180DⅡ CFA,XR180DⅡ CFA,Rated Power(kW),194
+15,XR Series Rotary Drilling Rig XR180DⅡ CFA,XR180DⅡ CFA,Max.output torque(kN﹒m),180
+16,XR Series Rotary Drilling Rig XRS1050,XRS1050,Model,QSM11-C400
+17,XR Series Rotary Drilling Rig XRS1050,XRS1050,Rated Power(kW),298
+18,XR Series Rotary Drilling Rig XRS1050,XRS1050,Max.output torque(kN﹒m),390
+19,XR Series Rotary Drilling Rig XR180D CFA,XR180D CFA,Model,QSB6.7
+20,XR Series Rotary Drilling Rig XR180D CFA,XR180D CFA,Rated Power(kW),194
+21,XR Series Rotary Drilling Rig XR180D CFA,XR180D CFA,Max.output torque(kN﹒m),180
+22,XR Series Rotary Drilling Rig XR150L,XR150L,Model,QSB6.7-C260
+23,XR Series Rotary Drilling Rig XR150L,XR150L,Rated Power(kW),194
+24,XR Series Rotary Drilling Rig XR150L,XR150L,Max.output torque(kN﹒m),150
+25,XR Series Rotary Drilling Rig XR200L,XR200L,Model,QSB6.7-C260
+26,XR Series Rotary Drilling Rig XR200L,XR200L,Rated Power(kW),194
+27,XR Series Rotary Drilling Rig XR200L,XR200L,Max.output torque(kN﹒m),200
+28,XR Series Rotary Drilling Rig XR180L,XR180L,Model,QSB6.7-C260
+29,XR Series Rotary Drilling Rig XR180L,XR180L,Rated Power(kW),194
+30,XR Series Rotary Drilling Rig XR180L,XR180L,Max.output torque(kN﹒m),180
+31,XR Series Rotary Drilling Rig XR150DⅢ,XR150DⅢ,Model,QSB7-C202
+32,XR Series Rotary Drilling Rig XR150DⅢ,XR150DⅢ,Rated Power(kW),150
+33,XR Series Rotary Drilling Rig XR150DⅢ,XR150DⅢ,Max.output torque(kN﹒m),150
+34,XR Series Rotary Drilling Rig XR220DⅡ CFA,XR220DⅡ CFA,Model,QSL9
+35,XR Series Rotary Drilling Rig XR220DⅡ CFA,XR220DⅡ CFA,Rated Power(kW),242
+36,XR Series Rotary Drilling Rig XR220DⅡ CFA,XR220DⅡ CFA,Max.output torque(kN﹒m),220
+37,XR Series Rotary Drilling Rig XR180DⅡ CFA,XR180DⅡ CFA,Model,QSB6.7
+38,XR Series Rotary Drilling Rig XR180DⅡ CFA,XR180DⅡ CFA,Rated Power(kW),194
+39,XR Series Rotary Drilling Rig XR180DⅡ CFA,XR180DⅡ CFA,Max.output torque(kN﹒m),180
+40,XR Series Rotary Drilling Rig XR220D CFA,XR220D CFA,Model,QSL9
+41,XR Series Rotary Drilling Rig XR220D CFA,XR220D CFA,Rated Power(kW),242
+42,XR Series Rotary Drilling Rig XR220D CFA,XR220D CFA,Max.output torque(kN﹒m),220
+43,XR Series Rotary Drilling Rig XR220DⅡ CFA,XR220DⅡ CFA,Model,QSL9
+44,XR Series Rotary Drilling Rig XR220DⅡ CFA,XR220DⅡ CFA,Rated Power(kW),242
+45,XR Series Rotary Drilling Rig XR220DⅡ CFA,XR220DⅡ CFA,Max.output torque(kN﹒m),220
+46,XR Series Rotary Drilling Rig XR150L,XR150L,Model,QSB6.7-C260
+47,XR Series Rotary Drilling Rig XR150L,XR150L,Rated Power(kW),194
+48,XR Series Rotary Drilling Rig XR150L,XR150L,Max.output torque(kN﹒m),150
+49,XR Series Rotary Drilling Rig XR180L,XR180L,Model,QSB6.7-C260
+50,XR Series Rotary Drilling Rig XR180L,XR180L,Rated Power(kW),194
+51,XR Series Rotary Drilling Rig XR180L,XR180L,Max.output torque(kN﹒m),180
+52,XR Series Rotary Drilling Rig XR200L,XR200L,Model,QSB6.7-C260
+53,XR Series Rotary Drilling Rig XR200L,XR200L,Rated Power(kW),194
+54,XR Series Rotary Drilling Rig XR200L,XR200L,Max.output torque(kN﹒m),200
+55,XR Series Rotary Drilling Rig XR200E,XR200E,Model,6HK1X
+56,XR Series Rotary Drilling Rig XR200E,XR200E,Rated Power(kW),212
+57,XR Series Rotary Drilling Rig XR200E,XR200E,Max.output torque(kN﹒m),210
+58,XR Series Rotary Drilling Rig XR240E,XR240E,Model,6UZ1X-270
+59,XR Series Rotary Drilling Rig XR240E,XR240E,Rated Power(kW),270
+60,XR Series Rotary Drilling Rig XR240E,XR240E,Max.output torque(kN﹒m),240
+61,XR Series Rotary Drilling Rig XR320D,XR320D,Model,QSM11-C400
+62,XR Series Rotary Drilling Rig XR320D,XR320D,Rated Power(kW),298
+63,XR Series Rotary Drilling Rig XR320D,XR320D,Max.output torque(kN﹒m),320
+64,XR Series Rotary Drilling Rig XR360,XR360,Model,QSM11-C400
+65,XR Series Rotary Drilling Rig XR360,XR360,Rated Power(kW),298
+66,XR Series Rotary Drilling Rig XR360,XR360,Max.output torque(kN﹒m),360
+67,XR Series Rotary Drilling Rig XR360E,XR360E,Model,TAD1353VE
+68,XR Series Rotary Drilling Rig XR360E,XR360E,Rated Power(kW),345
+69,XR Series Rotary Drilling Rig XR360E,XR360E,Max.output torque(kN﹒m),360
+70,XR Series Rotary Drilling Rig XR400E,XR400E,Model,QSX15-C500
+71,XR Series Rotary Drilling Rig XR400E,XR400E,Rated Power(kW),373
+72,XR Series Rotary Drilling Rig XR400E,XR400E,Max.output torque(kN﹒m),400
+73,XR Series Rotary Drilling Rig XR460D,XR460D,Model,QSX15-C600
+74,XR Series Rotary Drilling Rig XR460D,XR460D,Rated Power(kW),447
+75,XR Series Rotary Drilling Rig XR460D,XR460D,Max.output torque(kN﹒m),460
+76,XR Series Rotary Drilling Rig XR280DⅡ,XR280DⅡ,Model,QSM11-C400
+77,XR Series Rotary Drilling Rig XR280DⅡ,XR280DⅡ,Rated Power(kW),298
+78,XR Series Rotary Drilling Rig XR280DⅡ,XR280DⅡ,Max.output torque(kN﹒m),280
+79,XG Series Underground Diaphragm Wall Hydraulic Grab XG500E,XG500E,Wall depth(m),75
+80,XG Series Underground Diaphragm Wall Hydraulic Grab XG500E,XG500E,Wall thickness(mm),300-1500
+81,XG Series Underground Diaphragm Wall Hydraulic Grab XG500E,XG500E,Max.pull-down piston pull(kN),500
+82,XG Series Underground Diaphragm Wall Hydraulic Grab XG600E,XG600E,Wall depth(m),80/105
+83,XG Series Underground Diaphragm Wall Hydraulic Grab XG600E,XG600E,Wall thickness(mm),600-1500
+84,XG Series Underground Diaphragm Wall Hydraulic Grab XG600E,XG600E,Max.pull-down piston pull(kN),600
+85,XG Series Underground Diaphragm Wall Hydraulic Grab XG700E,XG700E,Wall depth(m),80/105
+86,XG Series Underground Diaphragm Wall Hydraulic Grab XG700E,XG700E,Wall thickness(mm),800-1500
+87,XG Series Underground Diaphragm Wall Hydraulic Grab XG700E,XG700E,Max.pull-down piston pull(kN),700
+88,XTC Series Trench Cutter XTC80/55,XTC80/55,Trench width(mm),800-1200
+89,XTC Series Trench Cutter XTC80/55,XTC80/55,Max.Wall depth(m),55
+90,XTC Series Trench Cutter XTC80/55,XTC80/55,Trench length(mm),2800
+91,XTC Series Trench Cutter XTC100/105,XTC100/105,Trench width(mm),800-1500
+92,XTC Series Trench Cutter XTC100/105,XTC100/105,Max.Wall depth(m),105
+93,XTC Series Trench Cutter XTC100/105,XTC100/105,Trench length(mm),2800
+94,XTC Series Trench Cutter XTC80/85,XTC80/85,Trench width(mm),800-1500
+95,XTC Series Trench Cutter XTC80/85,XTC80/85,Max.Wall depth(m),85
+96,XTC Series Trench Cutter XTC80/85,XTC80/85,Trench length(mm),2800
+97,XTC Series Trench Cutter XTC80/60,XTC80/60,Trench width(mm),800-1500
+98,XTC Series Trench Cutter XTC80/60,XTC80/60,Max.Wall depth(m),60
+99,XTC Series Trench Cutter XTC80/60,XTC80/60,Trench length(mm),2800
+100,XTC Series Trench Cutter XTC80/60M,XTC80/60M,Trench width(mm),800-1500
+101,XTC Series Trench Cutter XTC80/60M,XTC80/60M,Max.Wall depth(m),60
+102,XTC Series Trench Cutter XTC80/60M,XTC80/60M,Trench length(mm),2800
+103,XMZ Series Multi-Function Drilling Rig XMZ90,XMZ90,Model,QSF3.8t3TC125
+104,XMZ Series Multi-Function Drilling Rig XMZ90,XMZ90,Power(kW/rpm),93kW/2200rpm
+105,XMZ Series Multi-Function Drilling Rig XMZ90,XMZ90,Power(kW),/
+106,XMZ Series Multi-Function Drilling Rig XMZ120A,XMZ120A,Model,QSB4.5-C160-30
+107,XMZ Series Multi-Function Drilling Rig XMZ120A,XMZ120A,Power(kW/rpm),119kW/2200rpm
+108,XMZ Series Multi-Function Drilling Rig XMZ120A,XMZ120A,Power(kW),/
+109,XMZ Series Multi-Function Drilling Rig XMZ130T,XMZ130T,Model,QSF2.8t3TC71
+110,XMZ Series Multi-Function Drilling Rig XMZ130T,XMZ130T,Power(kW/rpm),53kW/2200rpm
+111,XMZ Series Multi-Function Drilling Rig XMZ130T,XMZ130T,Power(kW),75
+112,XMZ Series Multi-Function Drilling Rig XMZ150T,XMZ150T,Model,QSF2.8t3TC71
+113,XMZ Series Multi-Function Drilling Rig XMZ150T,XMZ150T,Power(kW/rpm),53kW/2200rpm
+114,XMZ Series Multi-Function Drilling Rig XMZ150T,XMZ150T,Power(kW),90
+115,XR Series Rotary Drilling Rig XR800E,XR800E,Model,QSK23
+116,XR Series Rotary Drilling Rig XR800E,XR800E,Rated Power(kW),641
+117,XR Series Rotary Drilling Rig XR800E,XR800E,Max.output torque(kN﹒m),793
+118,XR Series Rotary Drilling Rig XR180D CFA,XR180D CFA,Model,QSB6.7
+119,XR Series Rotary Drilling Rig XR180D CFA,XR180D CFA,Rated Power(kW),194
+120,XR Series Rotary Drilling Rig XR180D CFA,XR180D CFA,Max.output torque(kN﹒m),180
+121,XR Series Rotary Drilling Rig XR150D CFA,XR150D CFA,Model,QSB7-C202
+122,XR Series Rotary Drilling Rig XR150D CFA,XR150D CFA,Rated Power(kW),150
+123,XR Series Rotary Drilling Rig XR150D CFA,XR150D CFA,Max.output torque(kN﹒m),150
+124,XR Series Rotary Drilling Rig XR130E CFA,XR130E CFA,Model,QSB7-C227
+125,XR Series Rotary Drilling Rig XR130E CFA,XR130E CFA,Rated Power(kW),169
+126,XR Series Rotary Drilling Rig XR130E CFA,XR130E CFA,Max.output torque(kN﹒m),130
+127,XR Series Rotary Drilling Rig XR180DⅡ CFA,XR180DⅡ CFA,Model,QSB6.7
+128,XR Series Rotary Drilling Rig XR180DⅡ CFA,XR180DⅡ CFA,Rated Power(kW),194
+129,XR Series Rotary Drilling Rig XR180DⅡ CFA,XR180DⅡ CFA,Max.output torque(kN﹒m),180
+130,XR Series Rotary Drilling Rig XRS1050,XRS1050,Model,QSM11-C400
+131,XR Series Rotary Drilling Rig XRS1050,XRS1050,Rated Power(kW),298
+132,XR Series Rotary Drilling Rig XRS1050,XRS1050,Max.output torque(kN﹒m),390
+133,XR Series Rotary Drilling Rig XR180D CFA,XR180D CFA,Model,QSB6.7
+134,XR Series Rotary Drilling Rig XR180D CFA,XR180D CFA,Rated Power(kW),194
+135,XR Series Rotary Drilling Rig XR180D CFA,XR180D CFA,Max.output torque(kN﹒m),180
+136,XR Series Rotary Drilling Rig XR150L,XR150L,Model,QSB6.7-C260
+137,XR Series Rotary Drilling Rig XR150L,XR150L,Rated Power(kW),194
+138,XR Series Rotary Drilling Rig XR150L,XR150L,Max.output torque(kN﹒m),150
+139,XR Series Rotary Drilling Rig XR200L,XR200L,Model,QSB6.7-C260
+140,XR Series Rotary Drilling Rig XR200L,XR200L,Rated Power(kW),194
+141,XR Series Rotary Drilling Rig XR200L,XR200L,Max.output torque(kN﹒m),200
+142,XR Series Rotary Drilling Rig XR180L,XR180L,Model,QSB6.7-C260
+143,XR Series Rotary Drilling Rig XR180L,XR180L,Rated Power(kW),194
+144,XR Series Rotary Drilling Rig XR180L,XR180L,Max.output torque(kN﹒m),180
+145,XR Series Rotary Drilling Rig XR150DⅢ,XR150DⅢ,Model,QSB7-C202
+146,XR Series Rotary Drilling Rig XR150DⅢ,XR150DⅢ,Rated Power(kW),150
+147,XR Series Rotary Drilling Rig XR150DⅢ,XR150DⅢ,Max.output torque(kN﹒m),150
+148,XR Series Rotary Drilling Rig XR220DⅡ CFA,XR220DⅡ CFA,Model,QSL9
+149,XR Series Rotary Drilling Rig XR220DⅡ CFA,XR220DⅡ CFA,Rated Power(kW),242
+150,XR Series Rotary Drilling Rig XR220DⅡ CFA,XR220DⅡ CFA,Max.output torque(kN﹒m),220
+151,XR Series Rotary Drilling Rig XR180DⅡ CFA,XR180DⅡ CFA,Model,QSB6.7
+152,XR Series Rotary Drilling Rig XR180DⅡ CFA,XR180DⅡ CFA,Rated Power(kW),194
+153,XR Series Rotary Drilling Rig XR180DⅡ CFA,XR180DⅡ CFA,Max.output torque(kN﹒m),180
+154,XR Series Rotary Drilling Rig XR220D CFA,XR220D CFA,Model,QSL9
+155,XR Series Rotary Drilling Rig XR220D CFA,XR220D CFA,Rated Power(kW),242
+156,XR Series Rotary Drilling Rig XR220D CFA,XR220D CFA,Max.output torque(kN﹒m),220
+157,XR Series Rotary Drilling Rig XR220DⅡ CFA,XR220DⅡ CFA,Model,QSL9
+158,XR Series Rotary Drilling Rig XR220DⅡ CFA,XR220DⅡ CFA,Rated Power(kW),242
+159,XR Series Rotary Drilling Rig XR220DⅡ CFA,XR220DⅡ CFA,Max.output torque(kN﹒m),220
+160,XR Series Rotary Drilling Rig XR150L,XR150L,Model,QSB6.7-C260
+161,XR Series Rotary Drilling Rig XR150L,XR150L,Rated Power(kW),194
+162,XR Series Rotary Drilling Rig XR150L,XR150L,Max.output torque(kN﹒m),150
+163,XR Series Rotary Drilling Rig XR180L,XR180L,Model,QSB6.7-C260
+164,XR Series Rotary Drilling Rig XR180L,XR180L,Rated Power(kW),194
+165,XR Series Rotary Drilling Rig XR180L,XR180L,Max.output torque(kN﹒m),180
+166,XR Series Rotary Drilling Rig XR200L,XR200L,Model,QSB6.7-C260
+167,XR Series Rotary Drilling Rig XR200L,XR200L,Rated Power(kW),194
+168,XR Series Rotary Drilling Rig XR200L,XR200L,Max.output torque(kN﹒m),200
+169,XR Series Rotary Drilling Rig XR200E,XR200E,Model,6HK1X
+170,XR Series Rotary Drilling Rig XR200E,XR200E,Rated Power(kW),212
+171,XR Series Rotary Drilling Rig XR200E,XR200E,Max.output torque(kN﹒m),210
+172,XR Series Rotary Drilling Rig XR240E,XR240E,Model,6UZ1X-270
+173,XR Series Rotary Drilling Rig XR240E,XR240E,Rated Power(kW),270
+174,XR Series Rotary Drilling Rig XR240E,XR240E,Max.output torque(kN﹒m),240
+175,XR Series Rotary Drilling Rig XR320D,XR320D,Model,QSM11-C400
+176,XR Series Rotary Drilling Rig XR320D,XR320D,Rated Power(kW),298
+177,XR Series Rotary Drilling Rig XR320D,XR320D,Max.output torque(kN﹒m),320
+178,XR Series Rotary Drilling Rig XR360,XR360,Model,QSM11-C400
+179,XR Series Rotary Drilling Rig XR360,XR360,Rated Power(kW),298
+180,XR Series Rotary Drilling Rig XR360,XR360,Max.output torque(kN﹒m),360
+181,XR Series Rotary Drilling Rig XR360E,XR360E,Model,TAD1353VE
+182,XR Series Rotary Drilling Rig XR360E,XR360E,Rated Power(kW),345
+183,XR Series Rotary Drilling Rig XR360E,XR360E,Max.output torque(kN﹒m),360
+184,XR Series Rotary Drilling Rig XR400E,XR400E,Model,QSX15-C500
+185,XR Series Rotary Drilling Rig XR400E,XR400E,Rated Power(kW),373
+186,XR Series Rotary Drilling Rig XR400E,XR400E,Max.output torque(kN﹒m),400
+187,XR Series Rotary Drilling Rig XR460D,XR460D,Model,QSX15-C600
+188,XR Series Rotary Drilling Rig XR460D,XR460D,Rated Power(kW),447
+189,XR Series Rotary Drilling Rig XR460D,XR460D,Max.output torque(kN﹒m),460
+190,XR Series Rotary Drilling Rig XR280DⅡ,XR280DⅡ,Model,QSM11-C400
+191,XR Series Rotary Drilling Rig XR280DⅡ,XR280DⅡ,Rated Power(kW),298
+192,XR Series Rotary Drilling Rig XR280DⅡ,XR280DⅡ,Max.output torque(kN﹒m),280
+193,XG Series Underground Diaphragm Wall Hydraulic Grab XG500E,XG500E,Wall depth(m),75
+194,XG Series Underground Diaphragm Wall Hydraulic Grab XG500E,XG500E,Wall thickness(mm),300-1500
+195,XG Series Underground Diaphragm Wall Hydraulic Grab XG500E,XG500E,Max.pull-down piston pull(kN),500
+196,XG Series Underground Diaphragm Wall Hydraulic Grab XG600E,XG600E,Wall depth(m),80/105
+197,XG Series Underground Diaphragm Wall Hydraulic Grab XG600E,XG600E,Wall thickness(mm),600-1500
+198,XG Series Underground Diaphragm Wall Hydraulic Grab XG600E,XG600E,Max.pull-down piston pull(kN),600
+199,XG Series Underground Diaphragm Wall Hydraulic Grab XG700E,XG700E,Wall depth(m),80/105
+200,XG Series Underground Diaphragm Wall Hydraulic Grab XG700E,XG700E,Wall thickness(mm),800-1500
+201,XG Series Underground Diaphragm Wall Hydraulic Grab XG700E,XG700E,Max.pull-down piston pull(kN),700
+202,XTC Series Trench Cutter XTC80/55,XTC80/55,Trench width(mm),800-1200
+203,XTC Series Trench Cutter XTC80/55,XTC80/55,Max.Wall depth(m),55
+204,XTC Series Trench Cutter XTC80/55,XTC80/55,Trench length(mm),2800
+205,XTC Series Trench Cutter XTC100/105,XTC100/105,Trench width(mm),800-1500
+206,XTC Series Trench Cutter XTC100/105,XTC100/105,Max.Wall depth(m),105
+207,XTC Series Trench Cutter XTC100/105,XTC100/105,Trench length(mm),2800
+208,XTC Series Trench Cutter XTC80/85,XTC80/85,Trench width(mm),800-1500
+209,XTC Series Trench Cutter XTC80/85,XTC80/85,Max.Wall depth(m),85
+210,XTC Series Trench Cutter XTC80/85,XTC80/85,Trench length(mm),2800
+211,XTC Series Trench Cutter XTC80/60,XTC80/60,Trench width(mm),800-1500
+212,XTC Series Trench Cutter XTC80/60,XTC80/60,Max.Wall depth(m),60
+213,XTC Series Trench Cutter XTC80/60,XTC80/60,Trench length(mm),2800
+214,XTC Series Trench Cutter XTC80/60M,XTC80/60M,Trench width(mm),800-1500
+215,XTC Series Trench Cutter XTC80/60M,XTC80/60M,Max.Wall depth(m),60
+216,XTC Series Trench Cutter XTC80/60M,XTC80/60M,Trench length(mm),2800
+217,XMZ Series Multi-Function Drilling Rig XMZ90,XMZ90,Model,QSF3.8t3TC125
+218,XMZ Series Multi-Function Drilling Rig XMZ90,XMZ90,Power(kW/rpm),93kW/2200rpm
+219,XMZ Series Multi-Function Drilling Rig XMZ90,XMZ90,Power(kW),/
+220,XMZ Series Multi-Function Drilling Rig XMZ120A,XMZ120A,Model,QSB4.5-C160-30
+221,XMZ Series Multi-Function Drilling Rig XMZ120A,XMZ120A,Power(kW/rpm),119kW/2200rpm
+222,XMZ Series Multi-Function Drilling Rig XMZ120A,XMZ120A,Power(kW),/
+223,XMZ Series Multi-Function Drilling Rig XMZ130T,XMZ130T,Model,QSF2.8t3TC71
+224,XMZ Series Multi-Function Drilling Rig XMZ130T,XMZ130T,Power(kW/rpm),53kW/2200rpm
+225,XMZ Series Multi-Function Drilling Rig XMZ130T,XMZ130T,Power(kW),75
+226,XMZ Series Multi-Function Drilling Rig XMZ150T,XMZ150T,Model,QSF2.8t3TC71
+227,XMZ Series Multi-Function Drilling Rig XMZ150T,XMZ150T,Power(kW/rpm),53kW/2200rpm
+228,XMZ Series Multi-Function Drilling Rig XMZ150T,XMZ150T,Power(kW),90

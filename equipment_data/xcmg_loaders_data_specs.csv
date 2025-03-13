@@ -1,0 +1,217 @@
+id,equipment_name,model,spec_name,spec_value
+1,Wheel loader LW800KN,LW800KN,Bucket Load(m³),4.5
+2,Wheel loader LW800KN,LW800KN,Rated Load(kg),8000
+3,Wheel loader LW800KN,LW800KN,Rated Power(kw),261
+4,Wheel loader LW1400KN,LW1400KN,Bucket Load(m³),7
+5,Wheel loader LW1400KN,LW1400KN,Rated Load(kg),14000
+6,Wheel loader LW1400KN,LW1400KN,Rated Power(kw),418
+7,Wheel loader LW1200KN,LW1200KN,Bucket Load(m³),6.5
+8,Wheel loader LW1200KN,LW1200KN,Rated Load(kg),12000
+9,Wheel loader LW1200KN,LW1200KN,Rated Power(kw),418
+10,Wheel loader LW900KN,LW900KN,Bucket Load(m³),5.5
+11,Wheel loader LW900KN,LW900KN,Rated Load(kg),9000
+12,Wheel loader LW900KN,LW900KN,Rated Power(kw),261
+13,Wheel loader LW700KN,LW700KN,Bucket Load(m³),4.2
+14,Wheel loader LW700KN,LW700KN,Rated Load(kg),7000
+15,Wheel loader LW700KN,LW700KN,Rated Power(kw),226
+16,Wheel loader LW700HV,LW700HV,Bucket Load(m³),4.2
+17,Wheel loader LW700HV,LW700HV,Rated Load(kg),7000
+18,Wheel loader LW700HV,LW700HV,Rated Power(kw),210
+19,Wheel loader LW1200KN,LW1200KN,Bucket Load(m³),6.5
+20,Wheel loader LW1200KN,LW1200KN,Rated Load(kg),12000
+21,Wheel loader LW1200KN,LW1200KN,Rated Power(kw),418
+22,Wheel loader LW1400KN,LW1400KN,Bucket Load(m³),7
+23,Wheel loader LW1400KN,LW1400KN,Rated Load(kg),14000
+24,Wheel loader LW1400KN,LW1400KN,Rated Power(kw),418
+25,Wheel loader XC998,XC998,Bucket Load(m³),5.4
+26,Wheel loader XC998,XC998,Rated Load(kg),9000
+27,Wheel loader XC998,XC998,Rated Power(kw),261
+28,Wheel loader XC978,XC978,Bucket Load(m³),4.2
+29,Wheel loader XC978,XC978,Rated Load(kg),7000
+30,Wheel loader XC978,XC978,Rated Power(kw),226
+31,Wheel loader XC968,XC968,Bucket Load(m³),3.5
+32,Wheel loader XC968,XC968,Rated Load(kg),6000
+33,Wheel loader XC968,XC968,Rated Power(kw),179
+34,Wheel loader LW156FV,LW156FV,Bucket Load(m³),0.7
+35,Wheel loader LW156FV,LW156FV,Rated Load(kg),1100
+36,Wheel loader LW156FV,LW156FV,Rated Power(kw),55
+37,Wheel loader XC948,XC948,Bucket Load(m³),2.4
+38,Wheel loader XC948,XC948,Rated Load(kg),4000
+39,Wheel loader XC948,XC948,Rated Power(kw),149
+40,Wheel loader XC958,XC958,Bucket Load(m³),3
+41,Wheel loader XC958,XC958,Rated Load(kg),5000
+42,Wheel loader XC958,XC958,Rated Power(kw),168
+43,Wheel loader XC968,XC968,Bucket Load(m³),3.5
+44,Wheel loader XC968,XC968,Rated Load(kg),6000
+45,Wheel loader XC968,XC968,Rated Power(kw),179
+46,Wheel loader XC978,XC978,Bucket Load(m³),4.2
+47,Wheel loader XC978,XC978,Rated Load(kg),7000
+48,Wheel loader XC978,XC978,Rated Power(kw),226
+49,Wheel loader XC998,XC998,Bucket Load(m³),5.4
+50,Wheel loader XC998,XC998,Rated Load(kg),9000
+51,Wheel loader XC998,XC998,Rated Power(kw),261
+52,Wheel loader LW156FV,LW156FV,Bucket Load(m³),0.7
+53,Wheel loader LW156FV,LW156FV,Rated Load(kg),1100
+54,Wheel loader LW156FV,LW156FV,Rated Power(kw),55
+55,Wheel loader XC948,XC948,Bucket Load(m³),2.4
+56,Wheel loader XC948,XC948,Rated Load(kg),4000
+57,Wheel loader XC948,XC948,Rated Power(kw),149
+58,Wheel loader XC958,XC958,Bucket Load(m³),3
+59,Wheel loader XC958,XC958,Rated Load(kg),5000
+60,Wheel loader XC958,XC958,Rated Power(kw),168
+61,Wheel loader XC968,XC968,Bucket Load(m³),3.5
+62,Wheel loader XC968,XC968,Rated Load(kg),6000
+63,Wheel loader XC968,XC968,Rated Power(kw),179
+64,Wheel loader XC978,XC978,Bucket Load(m³),4.2
+65,Wheel loader XC978,XC978,Rated Load(kg),7000
+66,Wheel loader XC978,XC978,Rated Power(kw),226
+67,Wheel loader XC998,XC998,Bucket Load(m³),5.4
+68,Wheel loader XC998,XC998,Rated Load(kg),9000
+69,Wheel loader XC998,XC998,Rated Power(kw),261
+70,Wheel loader LW156FV,LW156FV,Bucket Load(m³),0.7
+71,Wheel loader LW156FV,LW156FV,Rated Load(kg),1100
+72,Wheel loader LW156FV,LW156FV,Rated Power(kw),55
+73,Wheel loader XC958,XC958,Bucket Load(m³),3
+74,Wheel loader XC958,XC958,Rated Load(kg),5000
+75,Wheel loader XC958,XC958,Rated Power(kw),168
+76,Wheel loader XC968,XC968,Bucket Load(m³),3.5
+77,Wheel loader XC968,XC968,Rated Load(kg),6000
+78,Wheel loader XC968,XC968,Rated Power(kw),179
+79,Wheel loader XC978,XC978,Bucket Load(m³),4.2
+80,Wheel loader XC978,XC978,Rated Load(kg),7000
+81,Wheel loader XC978,XC978,Rated Power(kw),226
+82,Wheel loader XC998,XC998,Bucket Load(m³),5.4
+83,Wheel loader XC998,XC998,Rated Load(kg),9000
+84,Wheel loader XC998,XC998,Rated Power(kw),261
+85,Wheel loader LW1100KN,LW1100KN,Bucket Load(m³),6.5
+86,Wheel loader LW1100KN,LW1100KN,Rated Load(kg),11000
+87,Wheel loader LW1100KN,LW1100KN,Rated Power(kw),291
+88,Clamp Loader ZL50GNJ,ZL50GNJ,Clamping Diameter(mm),1000
+89,Clamp Loader ZL50GNJ,ZL50GNJ,Rated Load(kg),5000
+90,Clamp Loader ZL50GNJ,ZL50GNJ,Rated Power(kw),162
+91,Clamp Loader LW1100KNJ,LW1100KNJ,Clamping Diameter(mm),1000
+92,Clamp Loader LW1100KNJ,LW1100KNJ,Rated Load(kg),11000
+93,Clamp Loader LW1100KNJ,LW1100KNJ,Rated Power(kw),291
+94,Clamp Loader LW800KNJ,LW800KNJ,Clamping Diameter(mm),1000
+95,Clamp Loader LW800KNJ,LW800KNJ,Rated Load(kg),8000
+96,Clamp Loader LW800KNJ,LW800KNJ,Rated Power(kw),261
+97,Clamp Loader LW700KNJ,LW700KNJ,Clamping Diameter(mm),1000
+98,Clamp Loader LW700KNJ,LW700KNJ,Rated Load(kg),7000
+99,Clamp Loader LW700KNJ,LW700KNJ,Rated Power(kw),226
+100,Clamp Loader LW550FNJ,LW550FNJ,Clamping Diameter(mm),1000
+101,Clamp Loader LW550FNJ,LW550FNJ,Rated Load(kg),5000
+102,Clamp Loader LW550FNJ,LW550FNJ,Rated Power(kw),162
+103,Clamp Loader LW800KNJ,LW800KNJ,Clamping Diameter(mm),1000
+104,Clamp Loader LW800KNJ,LW800KNJ,Rated Load(kg),8000
+105,Clamp Loader LW800KNJ,LW800KNJ,Rated Power(kw),261
+106,Clamp Loader LW1100KNJ,LW1100KNJ,Clamping Diameter(mm),1000
+107,Clamp Loader LW1100KNJ,LW1100KNJ,Rated Load(kg),11000
+108,Clamp Loader LW1100KNJ,LW1100KNJ,Rated Power(kw),291
+109,Underground Loader ZL30E,ZL30E,Bucket Load(m³),1.8
+110,Underground Loader ZL30E,ZL30E,Rated Load(kg),3000
+111,Underground Loader ZL30E,ZL30E,Rated Power(kw),92
+112,Underground Loader ZL50E,ZL50E,Bucket Load(m³),2.5
+113,Underground Loader ZL50E,ZL50E,Rated Load(kg),5000
+114,Underground Loader ZL50E,ZL50E,Rated Power(kw),162
+115,Underground Loader ZL20E,ZL20E,Bucket Load(m³),1
+116,Underground Loader ZL20E,ZL20E,Rated Load(kg),2000
+117,Underground Loader ZL20E,ZL20E,Rated Power(kw),66.2
+118,Fork Loader LW500KV-T18,LW500KV-T18,Bukcet Loade(kg),18000（at 1400mm height）
+119,Fork Loader LW500KV-T18,LW500KV-T18,Rated Power(kw),162
+120,Fork Loader LW500KV-T18,LW500KV-T18,Operating Weight(kg),21000
+121,Fork Loader LW600KV-T25,LW600KV-T25,Bukcet Loade(kg),25000（at 1500mm height）
+122,Fork Loader LW600KV-T25,LW600KV-T25,Rated Power(kw),178
+123,Fork Loader LW600KV-T25,LW600KV-T25,Operating Weight(kg),28500
+124,Wheel Dozer DL210,DL210,Shovedl Capacity(m³),3.9
+125,Wheel Dozer DL210,DL210,Rated Power(kw),162
+126,Wheel Dozer DL210,DL210,Operating Weight(kg),16300
+127,Wheel Dozer DL350,DL350,Shovedl Capacity(m³),6.88
+128,Wheel Dozer DL350,DL350,Rated Power(kw),261
+129,Wheel Dozer DL350,DL350,Operating Weight(kg),29500
+130,Wheel Dozer DL560,DL560,Shovedl Capacity(m³),10.0
+131,Wheel Dozer DL560,DL560,Rated Power(kw),418
+132,Wheel Dozer DL560,DL560,Operating Weight(kg),47000
+133,Backhoe Loader WZ30-25,WZ30-25,Bucket Load(m³),1
+134,Backhoe Loader WZ30-25,WZ30-25,Rated Load(kg),2500
+135,Backhoe Loader WZ30-25,WZ30-25,Rated Power(kw),60 / 73.5
+136,Backhoe Loader XC870K,XC870K,Bucket Load(m³),1
+137,Backhoe Loader XC870K,XC870K,Rated Load(kg),2500
+138,Backhoe Loader XC870K,XC870K,Rated Power(kw),70/74/74.9/82
+139,Backhoe Loader XC870HK,XC870HK,Bucket Load(m³),1
+140,Backhoe Loader XC870HK,XC870HK,Rated Load(kg),2500
+141,Backhoe Loader XC870HK,XC870HK,Rated Power(kw),70/74/74.9/82
+142,Skid-Steer Loader XC750K,XC750K,Bucket Load(m³),0.45
+143,Skid-Steer Loader XC750K,XC750K,Rated Load(kg),900
+144,Skid-Steer Loader XC750K,XC750K,Rated Power(kw),50/50.2
+145,Skid-Steer Loader XC770K,XC770K,Bucket Load(m³),0.6
+146,Skid-Steer Loader XC770K,XC770K,Rated Load(kg),1250
+147,Skid-Steer Loader XC770K,XC770K,Rated Power(kw),74.9
+148,Skid-Steer Loader XC760K,XC760K,Bucket Load(m³),0.6
+149,Skid-Steer Loader XC760K,XC760K,Rated Load(kg),1080
+150,Skid-Steer Loader XC760K,XC760K,Rated Power(kw),61.3
+151,Skid-Steer Loader XC740K,XC740K,Bucket Load(m³),0.45
+152,Skid-Steer Loader XC740K,XC740K,Rated Load(kg),750
+153,Skid-Steer Loader XC740K,XC740K,Rated Power(kw),36.8/35.5
+154,Telescopic Handler XC6-3007K,XC6-3007K,Max.lift capacity(kg),3000
+155,Telescopic Handler XC6-3007K,XC6-3007K,Lifting height(mm),6950
+156,Telescopic Handler XC6-3007K,XC6-3007K,Rated Power(kw),90
+157,Telescopic Handler XC6-3514K,XC6-3514K,Max.lift capacity(kg),3500
+158,Telescopic Handler XC6-3514K,XC6-3514K,Lifting height(mm),13700
+159,Telescopic Handler XC6-3514K,XC6-3514K,Rated Power(kw),70 / 74.9
+160,Telescopic Handler XC6-4517K,XC6-4517K,Max.lift capacity(kg),4500
+161,Telescopic Handler XC6-4517K,XC6-4517K,Lifting height(mm),16700
+162,Telescopic Handler XC6-4517K,XC6-4517K,Rated Power(kw),82 / 74.9
+163,Balance Forklift XCB-P20/XCB-L20,XCB-P20/XCB-L20,Type of battery,Plumbic acid battery/Lithium battery
+164,Balance Forklift XCB-P20/XCB-L20,XCB-P20/XCB-L20,Load Capacity(kg),2000
+165,Balance Forklift XCB-P20/XCB-L20,XCB-P20/XCB-L20,Lifting Height(mm),3000
+166,Balance Forklift XCB-P35/XCB-L35,XCB-P35/XCB-L35,Type of battery,Plumbic acid battery/Lithium battery
+167,Balance Forklift XCB-P35/XCB-L35,XCB-P35/XCB-L35,Load Capacity(kg),3500
+168,Balance Forklift XCB-P35/XCB-L35,XCB-P35/XCB-L35,Lifting Height(mm),3000
+169,Balance Forklift XCB-P30/XCB-L30,XCB-P30/XCB-L30,Type of battery,Plumbic acid battery/Lithium battery
+170,Balance Forklift XCB-P30/XCB-L30,XCB-P30/XCB-L30,Load Capacity(kg),3000
+171,Balance Forklift XCB-P30/XCB-L30,XCB-P30/XCB-L30,Lifting Height(mm),3000
+172,Balance Forklift XCB-P18/XCB-L18,XCB-P18/XCB-L18,Type of battery,Plumbic acid battery/Lithium battery
+173,Balance Forklift XCB-P18/XCB-L18,XCB-P18/XCB-L18,Load Capacity(kg),1800
+174,Balance Forklift XCB-P18/XCB-L18,XCB-P18/XCB-L18,Lifting Height(mm),3000
+175,Balance Forklift XCB-P15/XCB-L15,XCB-P15/XCB-L15,Type of battery,Plumbic acid battery/Lithium battery
+176,Balance Forklift XCB-P15/XCB-L15,XCB-P15/XCB-L15,Load Capacity(kg),1500
+177,Balance Forklift XCB-P15/XCB-L15,XCB-P15/XCB-L15,Lifting Height(mm),1500
+178,Balance Forklift XCB-P25/XCB-L25,XCB-P25/XCB-L25,Type of battery,Plumbic acid battery/Lithium battery
+179,Balance Forklift XCB-P25/XCB-L25,XCB-P25/XCB-L25,Load Capacity(kg),2500
+180,Balance Forklift XCB-P25/XCB-L25,XCB-P25/XCB-L25,Lifting Height(mm),3000
+181,Pallet forklift XCC-LW15/XCC-LW20,XCC-LW15/XCC-LW20,Type of battery,Lithium battery
+182,Pallet forklift XCC-LW15/XCC-LW20,XCC-LW15/XCC-LW20,Load Capacity(kg),1500/2000
+183,Pallet forklift XCC-LW15/XCC-LW20,XCC-LW15/XCC-LW20,Lifting Height(mm),115
+184,Pallet forklift XCC-P20,XCC-P20,Type of battery,Plumbic acid battery
+185,Pallet forklift XCC-P20,XCC-P20,Load Capacity(kg),2000
+186,Pallet forklift XCC-P20,XCC-P20,Lifting Height(mm),120
+187,Pallet forklift XCC-PW20,XCC-PW20,Type of battery,Plumbic acid battery
+188,Pallet forklift XCC-PW20,XCC-PW20,Load Capacity(kg),2000
+189,Pallet forklift XCC-PW20,XCC-PW20,Lifting Height(mm),125
+190,Reach Forklift XCS-P20,XCS-P20,Type of battery,Lithium battery
+191,Reach Forklift XCS-P20,XCS-P20,Load Capacity(kg),2000
+192,Reach Forklift XCS-P20,XCS-P20,Free Lift height(mm),1520
+193,Reach Forklift XCS-P16,XCS-P16,Type of battery,Lithium battery
+194,Reach Forklift XCS-P16,XCS-P16,Load Capacity(kg),1600
+195,Reach Forklift XCS-P16,XCS-P16,Free Lift height(mm),1820
+196,Reach Forklift XCS-P12,XCS-P12,Type of battery,Lithium battery
+197,Reach Forklift XCS-P12,XCS-P12,Load Capacity(kg),1200
+198,Reach Forklift XCS-P12,XCS-P12,Free Lift height(mm),120/1484/1634
+199,Reach Forklift XCF-PSG20,XCF-PSG20,Type of battery,Lithium battery
+200,Reach Forklift XCF-PSG20,XCF-PSG20,Load Capacity(kg),2000
+201,Reach Forklift XCF-PSG20,XCF-PSG20,Free Lift height(mm),1420
+202,Reach Forklift XCF-PSG16,XCF-PSG16,Type of battery,Lithium battery
+203,Reach Forklift XCF-PSG16,XCF-PSG16,Load Capacity(kg),1600
+204,Reach Forklift XCF-PSG16,XCF-PSG16,Free Lift height(mm),1420
+205,Reach Forklift XCF-PG25,XCF-PG25,Type of battery,Lithium battery
+206,Reach Forklift XCF-PG25,XCF-PG25,Load Capacity(kg),2500
+207,Reach Forklift XCF-PG25,XCF-PG25,Free Lift height(mm),1420
+208,Reach Forklift XCF-PG20,XCF-PG20,Type of battery,Lithium battery
+209,Reach Forklift XCF-PG20,XCF-PG20,Load Capacity(kg),2000
+210,Reach Forklift XCF-PG20,XCF-PG20,Free Lift height(mm),1420
+211,Reach Forklift XCF-PG15,XCF-PG15,Type of battery,Lithium battery
+212,Reach Forklift XCF-PG15,XCF-PG15,Load Capacity(kg),1500
+213,Reach Forklift XCF-PG15,XCF-PG15,Free Lift height(mm),1420
+214,Stacker Forklift XCS-P15,XCS-P15,Type of battery,Lithium battery
+215,Stacker Forklift XCS-P15,XCS-P15,Load Capacity(kg),1500
+216,Stacker Forklift XCS-P15,XCS-P15,Free Lift height(mm),120/1484/1231

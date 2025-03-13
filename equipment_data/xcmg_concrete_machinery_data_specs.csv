@@ -1,0 +1,73 @@
+id,equipment_name,model,spec_name,spec_value
+1,Truck-Mounted Concrete Boom Pump HB43V Right Hand,HB43V Right Hand,Outline dimension(mm),11160×2500×3990
+2,Truck-Mounted Concrete Boom Pump HB43V Right Hand,HB43V Right Hand,Driving type,6×4
+3,Truck-Mounted Concrete Boom Pump HB43V Right Hand,HB43V Right Hand,Chassis,SITRAK
+4,Truck-Mounted Concrete Boom Pump HB67V,HB67V,Outline dimension(mm),15815×2550×4000
+5,Truck-Mounted Concrete Boom Pump HB67V,HB67V,Driving type,10×4
+6,Truck-Mounted Concrete Boom Pump HB67V,HB67V,Chassis,SITRAK
+7,Truck-Mounted Concrete Boom Pump HB37V Right Hand,HB37V Right Hand,Outline dimension(mm),9900×2525×3750
+8,Truck-Mounted Concrete Boom Pump HB37V Right Hand,HB37V Right Hand,Driving type,4×2
+9,Truck-Mounted Concrete Boom Pump HB37V Right Hand,HB37V Right Hand,Chassis,SITRAK
+10,Truck-Mounted Concrete Boom Pump HB39V Right Hand,HB39V Right Hand,Outline dimension(mm),12600×2500×3980
+11,Truck-Mounted Concrete Boom Pump HB39V Right Hand,HB39V Right Hand,Driving type,6×4
+12,Truck-Mounted Concrete Boom Pump HB39V Right Hand,HB39V Right Hand,Chassis,Sinotruk HOWO
+13,Truck-Mounted Concrete Boom Pump XZS5280THBQ,XZS5280THBQ,Outline dimension(mm),11100×2500×3800
+14,Truck-Mounted Concrete Boom Pump XZS5280THBQ,XZS5280THBQ,Driving type,6×4
+15,Truck-Mounted Concrete Boom Pump XZS5280THBQ,XZS5280THBQ,Chassis,ISUZU
+16,Truck-Mounted Concrete Boom Pump HB30V,HB30V,Outline dimension(mm),10190×2500×3700
+17,Truck-Mounted Concrete Boom Pump HB30V,HB30V,Driving type,4×2
+18,Truck-Mounted Concrete Boom Pump HB30V,HB30V,Chassis,Sinotruk HOWO
+19,Truck-Mounted Concrete Boom Pump HB37V Right Hand,HB37V Right Hand,Outline dimension(mm),9900×2525×3750
+20,Truck-Mounted Concrete Boom Pump HB37V Right Hand,HB37V Right Hand,Driving type,4×2
+21,Truck-Mounted Concrete Boom Pump HB37V Right Hand,HB37V Right Hand,Chassis,SITRAK
+22,Truck-Mounted Concrete Boom Pump HB67V,HB67V,Outline dimension(mm),15815×2550×4000
+23,Truck-Mounted Concrete Boom Pump HB67V,HB67V,Driving type,10×4
+24,Truck-Mounted Concrete Boom Pump HB67V,HB67V,Chassis,SITRAK
+25,Truck-Mounted Concrete Boom Pump HB39V,HB39V,Outline dimension(mm),12600×2500×3980
+26,Truck-Mounted Concrete Boom Pump HB39V,HB39V,Driving type,6×4
+27,Truck-Mounted Concrete Boom Pump HB39V,HB39V,Chassis,Sinotruk HOWO
+28,Truck-Mounted Concrete Boom Pump HB43V,HB43V,Outline dimension(mm),11160×2500×3990
+29,Truck-Mounted Concrete Boom Pump HB43V,HB43V,Driving type,6×4
+30,Truck-Mounted Concrete Boom Pump HB43V,HB43V,Chassis,Sinotruk HOWO
+31,Truck-Mounted Concrete Boom Pump HB62V,HB62V,Outline dimension(mm),15318×2530×4000
+32,Truck-Mounted Concrete Boom Pump HB62V,HB62V,Driving type,8×4
+33,Truck-Mounted Concrete Boom Pump HB62V,HB62V,Chassis,Sinotruk HOWO
+34,Truck-Mounted Concrete Boom Pump HB37V-2,HB37V-2,Outline dimension(mm),12000×2500×3810
+35,Truck-Mounted Concrete Boom Pump HB37V-2,HB37V-2,Driving type,6×4
+36,Truck-Mounted Concrete Boom Pump HB37V-2,HB37V-2,Chassis,Sinotruk HOWO
+37,Truck-Mounted Concrete Boom Pump HB50V Right Hand,HB50V Right Hand,Outline dimension(mm),12740×2530×4000
+38,Truck-Mounted Concrete Boom Pump HB50V Right Hand,HB50V Right Hand,Driving type,6×4
+39,Truck-Mounted Concrete Boom Pump HB50V Right Hand,HB50V Right Hand,Chassis,SITRAK
+40,Truck-Mounted Concrete Boom Pump XZS5280THBQ,XZS5280THBQ,Outline dimension(mm),11100×2500×3800
+41,Truck-Mounted Concrete Boom Pump XZS5280THBQ,XZS5280THBQ,Driving type,6×4
+42,Truck-Mounted Concrete Boom Pump XZS5280THBQ,XZS5280THBQ,Chassis,ISUZU
+43,Truck-Mounted Concrete Boom Pump HB37V,HB37V,Outline dimension(mm),9900×2525×3750
+44,Truck-Mounted Concrete Boom Pump HB37V,HB37V,Driving type,4×2
+45,Truck-Mounted Concrete Boom Pump HB37V,HB37V,Chassis,Sinotruk Styer
+46,Concrete Truck Mixer G12V-4,G12V-4,Agitating volume(m³),12
+47,Concrete Truck Mixer G12V-4,G12V-4,Curb weight(kg),16160
+48,Concrete Truck Mixer G12V-4,G12V-4,Max.total weight(kg),31000
+49,Concrete Truck Mixer G06V Right Hand,G06V Right Hand,Agitating volume(m³),6
+50,Concrete Truck Mixer G06V Right Hand,G06V Right Hand,Curb weight(kg),12250
+51,Concrete Truck Mixer G06V Right Hand,G06V Right Hand,Max.total weight(kg),25000
+52,Concrete Truck Mixer G12V-3,G12V-3,Agitating volume(m³),12
+53,Concrete Truck Mixer G12V-3,G12V-3,Curb weight(kg),16160
+54,Concrete Truck Mixer G12V-3,G12V-3,Max.total weight(kg),31000
+55,Concrete Truck Mixer G06V Right Hand,G06V Right Hand,Agitating volume(m³),6
+56,Concrete Truck Mixer G06V Right Hand,G06V Right Hand,Curb weight(kg),12250
+57,Concrete Truck Mixer G06V Right Hand,G06V Right Hand,Max.total weight(kg),25000
+58,Concrete Truck Mixer G12V-4,G12V-4,Agitating volume(m³),12
+59,Concrete Truck Mixer G12V-4,G12V-4,Curb weight(kg),16160
+60,Concrete Truck Mixer G12V-4,G12V-4,Max.total weight(kg),31000
+61,Concrete Truck Mixer G12V-3,G12V-3,Agitating volume(m³),12
+62,Concrete Truck Mixer G12V-3,G12V-3,Curb weight(kg),16160
+63,Concrete Truck Mixer G12V-3,G12V-3,Max.total weight(kg),31000
+64,Concrete Truck Mixer G12V,G12V,Agitating volume(m³),12
+65,Concrete Truck Mixer G12V,G12V,Curb weight(kg),15870
+66,Concrete Truck Mixer G12V,G12V,Max.total weight(kg),25000
+67,Concrete Truck Mixer G10V-2,G10V-2,Agitating volume(m³),10
+68,Concrete Truck Mixer G10V-2,G10V-2,Curb weight(kg),13400
+69,Concrete Truck Mixer G10V-2,G10V-2,Max.total weight(kg),25000
+70,Concrete Truck Mixer G10V,G10V,Agitating volume(m³),10
+71,Concrete Truck Mixer G10V,G10V,Curb weight(kg),14600
+72,Concrete Truck Mixer G10V,G10V,Max.total weight(kg),25000

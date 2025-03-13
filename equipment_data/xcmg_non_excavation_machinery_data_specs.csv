@@ -1,0 +1,89 @@
+id,equipment_name,model,spec_name,spec_value
+1,XZ Series Horizontal Directional Drilling Rig XZ2860,XZ2860,Model,"Cummins 
+QSL8.9-C360"
+2,XZ Series Horizontal Directional Drilling Rig XZ2860,XZ2860,Power rating(kW/r/min),2×264/2100
+3,XZ Series Horizontal Directional Drilling Rig XZ2860,XZ2860,Max pull/thrust force(kN),2860
+4,XZ Series Horizontal Directional Drilling Rig XZ5000,XZ5000,Model,"Cummins 
+QSZ13-C550"
+5,XZ Series Horizontal Directional Drilling Rig XZ5000,XZ5000,Power rating(kW/r/min),2×410/1900
+6,XZ Series Horizontal Directional Drilling Rig XZ5000,XZ5000,Max pull/thrust force(kN),5000
+7,XZ Series Horizontal Directional Drilling Rig XZ3600,XZ3600,Model,"Cummins 
+QSL8.9-C360"
+8,XZ Series Horizontal Directional Drilling Rig XZ3600,XZ3600,Power rating(kW/r/min),2×264/2100
+9,XZ Series Horizontal Directional Drilling Rig XZ3600,XZ3600,Max pull/thrust force(kN),3600
+10,XZ Series Horizontal Directional Drilling Rig XZ6600,XZ6600,Model,"Cummins 
+QSZ13-C550"
+11,XZ Series Horizontal Directional Drilling Rig XZ6600,XZ6600,Power rating(kW/r/min),2×410/1900
+12,XZ Series Horizontal Directional Drilling Rig XZ6600,XZ6600,Max pull/thrust force(kN),6600
+13,XZ Series Horizontal Directional Drilling Rig XZ2200,XZ2200,Model,"Cummins 
+QSL8.9-C325"
+14,XZ Series Horizontal Directional Drilling Rig XZ2200,XZ2200,Power rating(kW/r/min),2×242/2100
+15,XZ Series Horizontal Directional Drilling Rig XZ2200,XZ2200,Max pull/thrust force(kN),2200
+16,XZ Series Horizontal Directional Drilling Rig XZ1600,XZ1600,Model,"Cummins 
+QSL8.9-C325"
+17,XZ Series Horizontal Directional Drilling Rig XZ1600,XZ1600,Power rating(kW/r/min),2×242/2100
+18,XZ Series Horizontal Directional Drilling Rig XZ1600,XZ1600,Max pull/thrust force(kN),1650
+19,XZ Series Horizontal Directional Drilling Rig XZ12000,XZ12000,Model,"Cummins 
+QSZ13-C550"
+20,XZ Series Horizontal Directional Drilling Rig XZ12000,XZ12000,Power rating(kW/r/min),4×410/1900
+21,XZ Series Horizontal Directional Drilling Rig XZ12000,XZ12000,Max pull/thrust force(kN),12000
+22,XZ Series Horizontal Directional Drilling Rig XZ450/XZ450Plus,XZ450/XZ450Plus,Model,"Cummins 
+QSC8.3-C260"
+23,XZ Series Horizontal Directional Drilling Rig XZ450/XZ450Plus,XZ450/XZ450Plus,Power rating(kW/r/min),194/2200
+24,XZ Series Horizontal Directional Drilling Rig XZ450/XZ450Plus,XZ450/XZ450Plus,Max pull/thrust force(kN),480
+25,XZ Series Horizontal Directional Drilling Rig XZ13600,XZ13600,Model,"Cummins 
+QSZ13-C550"
+26,XZ Series Horizontal Directional Drilling Rig XZ13600,XZ13600,Power rating(kW/r/min),4×410/1900
+27,XZ Series Horizontal Directional Drilling Rig XZ13600,XZ13600,Max pull/thrust force(kN),13600
+28,XZ Series Horizontal Directional Drilling Rig XZ200,XZ200,Model,"Cummins 
+QSB5.9-C150"
+29,XZ Series Horizontal Directional Drilling Rig XZ200,XZ200,Power rating(kW/r/min),113/2200
+30,XZ Series Horizontal Directional Drilling Rig XZ200,XZ200,Max pull/thrust force(kN),225
+31,XZ Series Horizontal Directional Drilling Rig XZ10000,XZ10000,Model,"Cummins 
+QSZ13-C550"
+32,XZ Series Horizontal Directional Drilling Rig XZ10000,XZ10000,Power rating(kW/r/min),3×410/1900
+33,XZ Series Horizontal Directional Drilling Rig XZ10000,XZ10000,Max pull/thrust force(kN),10000
+34,XZ Series Horizontal Directional Drilling Rig XZ8000,XZ8000,Model,"Cummins 
+QSZ13-C550"
+35,XZ Series Horizontal Directional Drilling Rig XZ8000,XZ8000,Power rating(kW/r/min),3×410/1900
+36,XZ Series Horizontal Directional Drilling Rig XZ8000,XZ8000,Max pull/thrust force(kN),8600
+37,XZ Series Horizontal Directional Drilling Rig XZ1350,XZ1350,Model,"Cummins 
+QSL8.9-C360"
+38,XZ Series Horizontal Directional Drilling Rig XZ1350,XZ1350,Power rating(kW/r/min),264/2100
+39,XZ Series Horizontal Directional Drilling Rig XZ1350,XZ1350,Max pull/thrust force(kN),1795
+40,XZ Series Horizontal Directional Drilling Rig XZ1000A,XZ1000A,Model,"Cummins 
+QSL8.9-C360"
+41,XZ Series Horizontal Directional Drilling Rig XZ1000A,XZ1000A,Power rating(kW/r/min),264/2100
+42,XZ Series Horizontal Directional Drilling Rig XZ1000A,XZ1000A,Max pull/thrust force(kN),1075
+43,XZ Series Horizontal Directional Drilling Rig XZ900,XZ900,Model,"Cummins 
+QSL8.9-C360"
+44,XZ Series Horizontal Directional Drilling Rig XZ900,XZ900,Power rating(kW/r/min),264/2100
+45,XZ Series Horizontal Directional Drilling Rig XZ900,XZ900,Max pull/thrust force(kN),1195
+46,XZ Series Horizontal Directional Drilling Rig XZ680A,XZ680A,Model,"Cummins 
+QSL8.9-C325"
+47,XZ Series Horizontal Directional Drilling Rig XZ680A,XZ680A,Power rating(kW/r/min),242/2100
+48,XZ Series Horizontal Directional Drilling Rig XZ680A,XZ680A,Max pull/thrust force(kN),725
+49,XZ Series Horizontal Directional Drilling Rig XZ420E,XZ420E,Model,"Cummins 
+QSC8.3-C240"
+50,XZ Series Horizontal Directional Drilling Rig XZ420E,XZ420E,Power rating(kW/r/min),179/2200
+51,XZ Series Horizontal Directional Drilling Rig XZ420E,XZ420E,Max pull/thrust force(kN),420/500
+52,XZ Series Horizontal Directional Drilling Rig XZ400,XZ400,Model,"Cummins 
+QSC8.3-C240"
+53,XZ Series Horizontal Directional Drilling Rig XZ400,XZ400,Power rating(kW/r/min),179/2200
+54,XZ Series Horizontal Directional Drilling Rig XZ400,XZ400,Max pull/thrust force(kN),400
+55,XZ Series Horizontal Directional Drilling Rig XZ360E,XZ360E,Model,"Cummins 
+QSB5.9-C210"
+56,XZ Series Horizontal Directional Drilling Rig XZ360E,XZ360E,Power rating(kW/r/min),154/2200
+57,XZ Series Horizontal Directional Drilling Rig XZ360E,XZ360E,Max pull/thrust force(kN),370
+58,XZ Series Horizontal Directional Drilling Rig XZ320E,XZ320E,Model,"Cummins 
+QSB5.9-C210"
+59,XZ Series Horizontal Directional Drilling Rig XZ320E,XZ320E,Power rating(kW/r/min),154/2200
+60,XZ Series Horizontal Directional Drilling Rig XZ320E,XZ320E,Max pull/thrust force(kN),345
+61,XZ Series Horizontal Directional Drilling Rig XZ320D,XZ320D,Model,"ummins
+QSB5.9-C210"
+62,XZ Series Horizontal Directional Drilling Rig XZ320D,XZ320D,Power rating(kW/r/min),154/2200
+63,XZ Series Horizontal Directional Drilling Rig XZ320D,XZ320D,Max pull/thrust force(kN),320
+64,XZ Series Horizontal Directional Drilling Rig XZ120E,XZ120E,Model,"Cummins 
+4BTA3.9-C100"
+65,XZ Series Horizontal Directional Drilling Rig XZ120E,XZ120E,Power rating(kW/r/min),74/2200
+66,XZ Series Horizontal Directional Drilling Rig XZ120E,XZ120E,Max pull/thrust force(kN),133
