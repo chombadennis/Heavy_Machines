@@ -1,0 +1,28 @@
+Category,Specification,Bseries_CX700B,Bseries_CX800B
+,,,
+ENGINE,Engine power ISO 9249 (hp/kW),462/345,467/349
+ENGINE,Manufacturer,Isuzu,Isuzu
+ENGINE,Capacity (l),"15,70","15,7"
+ENGINE,Number of cylinders,6,6
+ENGINE,Fuel capacity (l),900,900
+HYDRAULIC SYSTEM,Flow rate (l/min),2 x 448,2 x 500
+HYDRAULIC SYSTEM,System pressure (bar),314,314
+HYDRAULIC SYSTEM,Boost pressure (bar),343,350
+PERFORMANCE,Swing speed (rpm),"6,5","6,4"
+PERFORMANCE,Swing Torque (kN),-,266
+PERFORMANCE,Travel speed (km/h),0 - 3.0/ 0 - 4.1,0 - 3.0/ 0 - 4.3
+PERFORMANCE,Drawbar pull (kN),462,565
+PERFORMANCE,Gradeability (%),70,70
+PERFORMANCE,Type,STD,STD
+PERFORMANCE,Bucket Capacity (m³),"3,3","4,5"
+PERFORMANCE,Arm length (m),"3,02","2,98"
+PERFORMANCE,Max digging height (m),"11,13","11,76"
+PERFORMANCE,Max dump height (m),"7,04","7,89"
+PERFORMANCE,Max reach (m),"11,75","12,31"
+PERFORMANCE,Max digging depth (m),"7,18","7,03"
+PERFORMANCE,Arm digging force (kN),307,347
+PERFORMANCE,Bucket digging force (kN),365,470
+TRANSPORT DIMENSIONS,Weight (kg),69300,80300
+TRANSPORT DIMENSIONS,Length (m),"12,11","13,23"
+TRANSPORT DIMENSIONS,Width (m),"3,90","4,36"
+TRANSPORT DIMENSIONS,Height (m),"4,76","5,00"
