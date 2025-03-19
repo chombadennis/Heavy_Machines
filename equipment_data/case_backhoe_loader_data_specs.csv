@@ -1,0 +1,116 @@
+Category,Specification,570V,570SV,580V,580SV,590SV
+,,,,,,
+TRANSMISSION,Type,Power-shuttle,,,,
+TRANSMISSION,Travel speed - Forward/reverse,4 fwd/4 rev - 4 reverse,,,,
+TRANSMISSION,Travel speed - Maximum travel speed (km/h),39 km/h,,,,
+HYDRAULICS,Type,Open Centre,,,,
+HYDRAULICS,Pump type,Gear,,,,
+HYDRAULICS,System pressure,205,,,,
+HYDRAULICS,Flow rate,123,,,,
+LOADER BUCKETS OPTIONS,General purpose (m³),1,,,,
+LOADER BUCKETS OPTIONS,Multi-purpose (m³),1,,,,
+LOADER BUCKETS OPTIONS,Munti-purpose with forks (m³),1,,,,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum lift height (m),"4,19",,,,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum hinge pin height (m),"3,58",,,,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum dump height (m),"2,72",,,,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum reach (mm),760,,,,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum lift capacity full height (kg),3425,,,,
+BACKHOE PERFORMANCE - INLINE BOOM,Backhoe Type,STD/ EXT,,,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum digging depth (m),"4,39/ 5,58",,,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum reach (m),"5,62/ 6,71",,,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum height (m),"5,48/ 6,22",,,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum dump height (m),"3,64/ 4,38",,,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum bucket breakout force (kN),45,,,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum arm breakout force (kN),43/ 29,,,,
+,,,,,,
+TRANSMISSION,Type,,Power-shuttle,,,
+TRANSMISSION,Travel speed - Forward/reverse,,4 fwd/4 rev - 4 reverse,,,
+TRANSMISSION,Travel speed - Maximum travel speed (km/h),,39 km/h,,,
+HYDRAULICS,Type,,Closed Centre,,,
+HYDRAULICS,Pump type,,Gear,,,
+HYDRAULICS,System pressure,,205,,,
+HYDRAULICS,Flow rate,,145,,,
+LOADER BUCKETS OPTIONS,General purpose (m³),,1,,,
+LOADER BUCKETS OPTIONS,Multi-purpose (m³),,1,,,
+LOADER BUCKETS OPTIONS,Munti-purpose with forks (m³),,1,,,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum lift height (m),,"4,19",,,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum hinge pin height (m),,"3,58",,,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum dump height (m),,"2,72",,,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum reach (mm),,760,,,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum lift capacity full height (kg),,3425,,,
+BACKHOE PERFORMANCE - INLINE BOOM,Backhoe Type,,STD/ EXT,,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum digging depth (m),,"4,39/ 5,58",,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum reach (m),,"5,62/ 6,71",,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum height (m),,"5,48/ 6,22",,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum dump height (m),,"3,64/ 4,38",,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum bucket breakout force (kN),,45,,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum arm breakout force (kN),,43/ 29,,,
+,,,,,,
+TRANSMISSION,Type,,,Power-shuttle,,
+TRANSMISSION,Travel speed - Forward/reverse,,,4 fwd/4 rev - 4 reverse,,
+TRANSMISSION,Travel speed - Maximum travel speed (km/h),,,40 km/h,,
+HYDRAULICS,Type,,,Closed Centre,,
+HYDRAULICS,Pump type,,,Gear,,
+HYDRAULICS,System pressure,,,205,,
+HYDRAULICS,Flow rate,,,156,,
+LOADER BUCKETS OPTIONS,General purpose (m³),,,1,,
+LOADER BUCKETS OPTIONS,Multi-purpose (m³),,,"1,15",,
+LOADER BUCKETS OPTIONS,Munti-purpose with forks (m³),,,"1,15",,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum lift height (m),,,"4,47",,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum hinge pin height (m),,,"3,49",,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum dump height (m),,,"2,73",,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum reach (mm),,,757,,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum lift capacity full height (kg),,,3553,,
+BACKHOE PERFORMANCE - INLINE BOOM,Backhoe Type,,,STD/ EXT,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum digging depth (m),,,"4,38/ 5,62",,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum reach (m),,,"5,61/ 6,28",,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum height (m),,,"5,42/ 6,17",,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum dump height (m),,,"3,65/ 4,42",,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum bucket breakout force (kN),,,59,,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum arm breakout force (kN),,,37/ 26,,
+,,,,,,
+TRANSMISSION,Type,,,,Power-shuttle/ Powershift (optional),
+TRANSMISSION,Travel speed - Forward/reverse,,,,4 fwd/4 rev - 4 reverse,
+TRANSMISSION,Travel speed - Maximum travel speed (km/h),,,,40 km/h,
+HYDRAULICS,Type,,,,Closed Centre,
+HYDRAULICS,Pump type,,,,Gear/ Piston (optional),
+HYDRAULICS,System pressure,,,,205,
+HYDRAULICS,Flow rate,,,,156/165,
+LOADER BUCKETS OPTIONS,General purpose (m³),,,,1,
+LOADER BUCKETS OPTIONS,Multi-purpose (m³),,,,"1,15",
+LOADER BUCKETS OPTIONS,Munti-purpose with forks (m³),,,,"1,15",
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum lift height (m),,,,"4,47",
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum hinge pin height (m),,,,"3,49",
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum dump height (m),,,,"2,73",
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum reach (mm),,,,757,
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum lift capacity full height (kg),,,,3553,
+BACKHOE PERFORMANCE - INLINE BOOM,Backhoe Type,,,,STD/ EXT,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum digging depth (m),,,,"4,38/ 5,62",
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum reach (m),,,,"5,61/ 6,28",
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum height (m),,,,"5,42/ 6,17",
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum dump height (m),,,,"3,65/ 4,42",
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum bucket breakout force (kN),,,,59,
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum arm breakout force (kN),,,,37/ 26,
+,,,,,,
+TRANSMISSION,Type,,,,,Power-shuttle/ Powershift (optional)
+TRANSMISSION,Travel speed - Forward/reverse,,,,,4 fwd/4 rev - 4 reverse
+TRANSMISSION,Travel speed - Maximum travel speed (km/h),,,,,40 km/h
+HYDRAULICS,Type,,,,,Closed Centre
+HYDRAULICS,Pump type,,,,,Gear/ Piston (optional)
+HYDRAULICS,System pressure,,,,,205
+HYDRAULICS,Flow rate,,,,,156/165
+LOADER BUCKETS OPTIONS,General purpose (m³),,,,,1
+LOADER BUCKETS OPTIONS,Multi-purpose (m³),,,,,"1,15"
+LOADER BUCKETS OPTIONS,Munti-purpose with forks (m³),,,,,"1,15"
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum lift height (m),,,,,4.46*
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum hinge pin height (m),,,,,3.46*
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum dump height (m),,,,,2.66*
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum reach (mm),,,,,771*
+LOADER PERFORMACE - STRAIGHT LOADER ARM / BENT TYPE LOADER ARM*,Maximum lift capacity full height (kg),,,,,4170
+BACKHOE PERFORMANCE - INLINE BOOM,Backhoe Type,,,,,STD/ EXT
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum digging depth (m),,,,,"4,66/ 5,81"
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum reach (m),,,,,"5,86/ 6,99"
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum height (m),,,,,"5,61/ 6,34"
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum dump height (m),,,,,"3,86/ 4,60"
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum bucket breakout force (kN),,,,,59
+BACKHOE PERFORMANCE - INLINE BOOM,Maximum arm breakout force (kN),,,,,33/ 24

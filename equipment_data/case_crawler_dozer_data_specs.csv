@@ -1,0 +1,31 @@
+Category,Specification,1150L,1650L,2050M
+,,,,
+ENGINE,Power (hp),132,158,231
+ENGINE,Power (kW),97,116,173
+ENGINE,Torque (Nm),589,690,1082
+ENGINE,Manufacturer,FPT,FPT,FPT
+ENGINE,Emission regulation,Tier 3,Tier 3,Tier 3
+ENGINE,Engine arrangement: no cylinders,6,6,6
+ENGINE,Engine arrangement: air induction,Turbo,Turbo,Turbo
+ENGINE,Engine arrangement: fuel system,HPCR,HPCR,HPCR
+ENGINE,Engine arrangement: capacity (l),"6,7","6,7","6,7"
+TRANSMISSION,Type,Hydrostatic,Hydrostatic,Hydrostatic
+TRANSMISSION,Travel speeds (km/h),0 - 9.7,0 - 9.7,0 - 9.3
+TRACK,Shoe width (mm),508,559,610
+TRACK,No of shoes,42,45,45
+TRACK,No of carrier rollers,2,2,2
+TRACK,Main rollers,7,8,8
+TRACK,Ground pressure (kPa),"46,9","45,9","50,5"
+TRACK,Type,Sealed & lubricated,Sealed & lubricated,Sealed & lubricated
+TRACK,Tensioner,Hydraulic,Hydraulic,Hydraulic
+TRACK,Pull (kN),213,275,360
+BLADE,Type,"Power, angle, tilt","Power, angle, tilt",PAT / Semi-U
+BLADE,Capacity (m³),"2,9","3,5","5,4"
+RIPPER,Type,3 shank,3 shank,3 shank
+RIPPER,Depth (mm),478,478,507
+DIMENSIONS,Length (m),"5,97","5,48","6,86"
+DIMENSIONS,Width (m),"2,81","2,81","2,55"
+DIMENSIONS,Height (m),"2,83","3,05","3,1"
+DIMENSIONS,Blade width (m),"3,04","3,17","3,41"
+WEIGHT,Base machine (kg),13 625,17 960,20 592
+WEIGHT,Machine with ripper (kg),14 668,19 560,21 947

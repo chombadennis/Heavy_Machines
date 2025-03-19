@@ -1,0 +1,49 @@
+Category,Specification,Roller_Type,450 DX,752 EX,1110EX-D
+,,Double Drum Roller,,,
+ENGINE,Power (ISO 14396) kW/hp,Double Drum Roller,33/45,56/76,
+ENGINE,Torque (ISO 14396) Nm,Double Drum Roller,159,305,
+ENGINE,Manufacturer,Double Drum Roller,Mahindra,FPT,
+ENGINE,Emission regulation,Double Drum Roller,Tier 3,Tier 3,
+ENGINE,No cylinders,Double Drum Roller,4,4,
+ENGINE,Air Induction,Double Drum Roller,Natural,Turbo,
+ENGINE,Fuel system,Double Drum Roller,Mechnical,Mechnical,
+ENGINE,Capacity l,Double Drum Roller,"2,5","3,9",
+TRANSMISSION,Type,Double Drum Roller,Hydrostatic,Hydrostatic,
+TRANSMISSION,Travel speeds (km/h),Double Drum Roller,0 - 12,0 - 11.5,
+MACHINE WEIGHT,Canopy (kg),Double Drum Roller,3225,8840,
+MACHINE WEIGHT,Cabin (kg),Double Drum Roller,-,-,
+AXLE LOADS,Front (kg),Double Drum Roller,1550,4280,
+AXLE LOADS,Rear (kg),Double Drum Roller,1675,4560,
+STAGE I,Centrafugal force (kgf),Double Drum Roller,4360,7771,
+STAGE I,Amplitude (mm),Double Drum Roller,"0,6","1,0",
+STAGE I,Frequency (Hz),Double Drum Roller,55,33,
+STAGE II,Centrafugal force (kgf),Double Drum Roller,3120,3843,
+STAGE II,Amplitude (mm),Double Drum Roller,"0,6","0,2",
+STAGE II,Frequency (Hz),Double Drum Roller,65,50,
+TRANSPORT DIMENSIONS,Length (m),Double Drum Roller,"2,99","4,13",
+TRANSPORT DIMENSIONS,Width (m),Double Drum Roller,"1,35","1,90",
+TRANSPORT DIMENSIONS,Hieght (m),Double Drum Roller,"2,68","3,10",
+,,Single Drum Roller,,,
+ENGINE,Power (ISO 14396) kW/hp,Single Drum Roller,,,82/110
+ENGINE,Torque (ISO 14396) Nm,Single Drum Roller,,,430
+ENGINE,Manufacturer,Single Drum Roller,,,FPT
+ENGINE,Emission regulation,Single Drum Roller,,,Tier 3
+ENGINE,No cylinders,Single Drum Roller,,,4
+ENGINE,Air Induction,Single Drum Roller,,,Turbo
+ENGINE,Fuel system,Single Drum Roller,,,Mechnical
+ENGINE,Capacity l,Single Drum Roller,,,"3,9"
+TRANSMISSION,Type,Single Drum Roller,,,Hydrostatic
+TRANSMISSION,Travel speeds (km/h),Single Drum Roller,,,0 - 11.5
+MACHINE WEIGHT,Canopy (kg),Single Drum Roller,,,11030
+MACHINE WEIGHT,Cabin (kg),Single Drum Roller,,,11450
+AXLE LOADS,Front (kg),Single Drum Roller,,,6470
+AXLE LOADS,Rear (kg),Single Drum Roller,,,4560
+STAGE I,Centrafugal force (kgf),Single Drum Roller,,,26887
+STAGE I,Amplitude (mm),Single Drum Roller,,,"1,8"
+STAGE I,Frequency (Hz),Single Drum Roller,,,31
+STAGE II,Centrafugal force (kgf),Single Drum Roller,,,14888
+STAGE II,Amplitude (mm),Single Drum Roller,,,"0,8"
+STAGE II,Frequency (Hz),Single Drum Roller,,,34
+TRANSPORT DIMENSIONS,Length (m),Single Drum Roller,,,"5,51"
+TRANSPORT DIMENSIONS,Width (m),Single Drum Roller,,,"2,32"
+TRANSPORT DIMENSIONS,Hieght (m),Single Drum Roller,,,"3,39"

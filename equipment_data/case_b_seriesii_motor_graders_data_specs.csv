@@ -1,0 +1,30 @@
+Category,Specification,845B-II,865B-II,885B-II
+,,,,
+ENGINE,Manufacturer,FPT,FPT,FPT
+ENGINE,Emission regulation,Tier 3,Tier 3,Tier 3
+ENGINE,No cylinders,6,6,6
+ENGINE,Air Induction,Turbo,Turbo,Turbo
+ENGINE,Fuel system,HPCR,HPCR,HPCR
+ENGINE,Capacity (l),"6,7","6,7","6,7"
+ENGINE,"Engine power, 2200 rpm Gross SAE J1995 - Low Curve, kW",112,144,164
+ENGINE,"Engine power, 2200 rpm Gross SAE J1995 - Medium Curve, kW",-,153,-
+ENGINE,"Engine power, 2200 rpm Gross SAE J1995 - High Curve, kW",129,164,175
+ENGINE,"Engine power, 2200 rpm Gross SAE J1995 - Low Curve, hP",150,193,220
+ENGINE,"Engine power, 2200 rpm Gross SAE J1995 - Medium Curve, hP",-,205,-
+ENGINE,"Engine power, 2200 rpm Gross SAE J1995 - High Curve, hP",173,220,234
+ENGINE,"Engine Torque, 1500/1600 rpm Gross SAE J1995 - Low Curve, Nm",659,830,924
+ENGINE,"Engine Torque, 1500/1600 rpm Gross SAE J1995 - Medium Curve, Nm",-,880,-
+ENGINE,"Engine Torque, 1500/1600 rpm Gross SAE J1995 - High Curve, Nm",758,930,984
+TRANSMISSION,Type,Powershift,Powershift,Powershift
+TRANSMISSION,Travel speed - Forward/reverse,6/3,6/3,6/3
+TRANSMISSION,Differential,Limited slip,100% lock,100% lock
+HYDRAULIC SYSTEM,Type,Closed centre,Closed centre,Closed centre
+HYDRAULIC SYSTEM,Work equipment pressure (Bar),179,179,179
+HYDRAULIC SYSTEM,Flow rate (l/m),186,186,186
+HYDRAULIC SYSTEM,Moldboard length (m),"3,6",3.9/4.3,"4,3"
+TYRES,Tyre Size,14.00 x 24 - 17.5 x R25,Two cylinders,17.5 x R25 - 20.5 x R25
+WEIGHTS & DIMENSIOS,Machine weight - Typical (kg),15070,16050,18050
+WEIGHTS & DIMENSIOS,Machine weight - Base (kg),13890,14743,16708
+WEIGHTS & DIMENSIOS,Transport Dimensions - Length (m),"9,55","9,55","9,55"
+WEIGHTS & DIMENSIOS,Transport Dimensions - Width (m),"2,65","2,65","2,68"
+WEIGHTS & DIMENSIOS,Transport Dimensions - Height (m),"3,4","3,4","3,4"

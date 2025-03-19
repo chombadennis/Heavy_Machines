@@ -1,0 +1,25 @@
+Category,Specification,TR270,TR320,TV380
+,,,,
+ENGINE,Power SAE J1349 kW/hp,55/74,67/90,67/90
+ENGINE,Torque N.m,275,340,340
+ENGINE,Manufacturer,FPT,FPT,FPT
+ENGINE,Emission regulation,Tier 3,Tier 3,Tier 3
+ENGINE,Engine capacity (litres),"3,2","3,2","3,2"
+ENGINE,No cylinders,4,4,4
+ENGINE,Air induction,Turbo,Turbo,Turbo
+ENGINE,Fuel system type,Mechanical,Mechanical,Mechanical
+TRANSMISSION,Type,Hydrostatic,Hydrostatic,Hydrostatic
+TRANSMISSION,Travel speeds (km/h),8.9/ 12.9 (opt),8.9/ 12.9 (opt),8.9/ 12.9 (opt)
+AUXILIARY HYDRAULICS,Pressure (bar),210,210,210
+AUXILIARY HYDRAULICS,Standard flow (l/m),85,85,85
+AUXILIARY HYDRAULICS,High flow (l/m),116,131/207 (opt),131/207 (opt)
+WEIGHT,Machine weight kg,3750,4355,4625
+WEIGHT,Rated operating capacity kg,860,1018,1209
+WEIGHT,Tipping load kg,2449,2902,3447
+WEIGHT,Bucket breakout force kN,"32,3","38,7","33,4"
+WEIGHT,Loader arm breakout force kN,"32,3 27,8","34,5","26,8"
+WEIGHT,Track width mm,320,450,450
+WEIGHT,Ground pressure kpa,"40,5",29,30
+DIMENSIONS,Length (m),"3,51","3,81","3,82"
+DIMENSIONS,Width (m),"1,67","1,94","1,94"
+DIMENSIONS,Height (m),"1,98","2,04","2,04"
