@@ -365,3 +365,369 @@ id,equipment_name,model,spec_name,spec_value
 364,Powder binder spreader XKC203,XKC203,Powder Silo volume (m³),20
 365,Powder binder spreader XKC203,XKC203,Spreading width (mm),400～2400
 366,Powder binder spreader XKC203,XKC203,Spreading density (kg/m²),5～40
+367,Soil Stabilizer XL2503,XL2503,Manufacturer,Weichai
+368,Soil Stabilizer XL2503,XL2503,Engine Model,WP12.430N
+369,Soil Stabilizer XL2503,XL2503,Rated power/speed (kW/rpm),316
+370,Soil Stabilizer XL2103,XL2103,Manufacturer,Weichai
+371,Soil Stabilizer XL2103,XL2103,Engine Model,WP12.400N
+372,Soil Stabilizer XL2103,XL2103,Rated power/speed (kW/rpm),294
+373,Cold Recycler XLZ2303S,XLZ2303S,Manufacturer,Weichai
+374,Cold Recycler XLZ2303S,XLZ2303S,Engine Model,WP13G530E310
+375,Cold Recycler XLZ2303S,XLZ2303S,Rated power/speed (kW/rpm),390
+376,Cold Recycler XLZ2303K,XLZ2303K,Manufacturer,Weichai
+377,Cold Recycler XLZ2303K,XLZ2303K,Engine Model,WP17G700E302
+378,Cold Recycler XLZ2303K,XLZ2303K,Rated power/speed (kW/rpm),515/2100
+379,Stabilized soil mixing plant XC300,XC300,Rated productivity (t/h),300
+380,Stabilized soil mixing plant XC300,XC300,Aggregate(%),±1.5
+381,Stabilized soil mixing plant XC300,XC300,Powder(%),±1
+382,Stabilized soil mixing plant XC400,XC400,Rated productivity (t/h),400
+383,Stabilized soil mixing plant XC400,XC400,Aggregate(%),±1.5
+384,Stabilized soil mixing plant XC400,XC400,Powder(%),±1
+385,Stabilized soil mixing plant XC500,XC500,Rated productivity (t/h),500
+386,Stabilized soil mixing plant XC500,XC500,Aggregate(%),±1.5
+387,Stabilized soil mixing plant XC500,XC500,Powder(%),±1
+388,Stabilized soil mixing plant XC600,XC600,Rated productivity (t/h),600
+389,Stabilized soil mixing plant XC600,XC600,Aggregate(%),±1.5
+390,Stabilized soil mixing plant XC600,XC600,Powder(%),±1
+391,Stabilized soil mixing plant XC700,XC700,Rated productivity (t/h),700
+392,Stabilized soil mixing plant XC700,XC700,Aggregate(%),±1.5
+393,Stabilized soil mixing plant XC700,XC700,Powder(%),±1
+394,Stabilized soil mixing plant XC800,XC800,Rated productivity (t/h),800
+395,Stabilized soil mixing plant XC800,XC800,Aggregate(%),±1.5
+396,Stabilized soil mixing plant XC800,XC800,Powder(%),±1
+397,Stabilized soil mixing plant XC1000S,XC1000S,Rated productivity (t/h),1000
+398,Stabilized soil mixing plant XC1000S,XC1000S,Aggregate(%),±1.5
+399,Stabilized soil mixing plant XC1000S,XC1000S,Powder(%),±0.8
+400,Stabilized soil mixing plant XCL300R,XCL300R,Rated productivity (t/h),300
+401,Stabilized soil mixing plant XCL300R,XCL300R,Aggregate(%),±1.5
+402,Stabilized soil mixing plant XCL300R,XCL300R,Powder(%),±1
+403,Asphalt synchronous chip sealer XTF1403R,XTF1403R,Maximum seal width (m),4
+404,Asphalt synchronous chip sealer XTF1403R,XTF1403R,Asphalt spraying amount (Kg/m²),0.2-3.0
+405,Asphalt synchronous chip sealer XTF1403R,XTF1403R,Gravel quantity (L/m²),3-22
+406,Asphalt synchronous chip sealer XTF1203,XTF1203,Maximum seal width (m),4
+407,Asphalt synchronous chip sealer XTF1203,XTF1203,Asphalt spraying amount (Kg/m²),0.2-3.0 kg/m2
+408,Asphalt synchronous chip sealer XTF1203,XTF1203,Gravel quantity (L/m²),3-22 L/ m2
+409,Asphalt synchronous chip sealer XTF1403,XTF1403,Maximum seal width (m),4
+410,Asphalt synchronous chip sealer XTF1403,XTF1403,Asphalt spraying amount (Kg/m²),0.2-3.0
+411,Asphalt synchronous chip sealer XTF1403,XTF1403,Gravel quantity (L/m²),3-22
+412,Asphalt synchronous chip sealer XTF1003,XTF1003,Maximum seal width (m),4
+413,Asphalt synchronous chip sealer XTF1003,XTF1003,Asphalt spraying amount (Kg/m²),0.2-3.0
+414,Asphalt synchronous chip sealer XTF1003,XTF1003,Gravel quantity (L/m²),3-22
+415,XAP Series Asphalt Mixing Equipment XAP245H,XAP245H,Rated productivity (t/h),240
+416,XAP Series Asphalt Mixing Equipment XAP245H,XAP245H,Mixing capacity (kg/patch),3500
+417,XAP Series Asphalt Mixing Equipment XAP245H,XAP245H,Asphalt (%),0.2
+418,XAP Series Asphalt Mixing Equipment XAP165H,XAP165H,Rated productivity (t/h),160
+419,XAP Series Asphalt Mixing Equipment XAP165H,XAP165H,Mixing capacity (kg/patch),2250
+420,XAP Series Asphalt Mixing Equipment XAP165H,XAP165H,Asphalt (%),0.2
+421,XAP Series Asphalt Mixing Equipment XAP325H,XAP325H,Rated productivity (t/h),320
+422,XAP Series Asphalt Mixing Equipment XAP325H,XAP325H,Mixing capacity (kg/patch),4500
+423,XAP Series Asphalt Mixing Equipment XAP325H,XAP325H,Asphalt (%),0.2
+424,XAP Series Asphalt Mixing Equipment XAP405H,XAP405H,Rated productivity (t/h),400
+425,XAP Series Asphalt Mixing Equipment XAP405H,XAP405H,Mixing capacity (kg/patch),5500
+426,XAP Series Asphalt Mixing Equipment XAP405H,XAP405H,Asphalt (%),0.2
+427,XAP Series Asphalt Mixing Equipment XAP245H,XAP245H,Rated productivity (t/h),240
+428,XAP Series Asphalt Mixing Equipment XAP245H,XAP245H,Mixing capacity (kg/patch),3500
+429,XAP Series Asphalt Mixing Equipment XAP245H,XAP245H,Asphalt (%),0.2
+430,XAP Series Asphalt Mixing Equipment XAP165H,XAP165H,Rated productivity (t/h),160
+431,XAP Series Asphalt Mixing Equipment XAP165H,XAP165H,Mixing capacity (kg/patch),2250
+432,XAP Series Asphalt Mixing Equipment XAP165H,XAP165H,Asphalt (%),0.2
+433,XAP Series Asphalt Mixing Equipment XAP83,XAP83,Rated productivity (t/h),80
+434,XAP Series Asphalt Mixing Equipment XAP83,XAP83,Mixing capacity (kg/patch),1250
+435,XAP Series Asphalt Mixing Equipment XAP83,XAP83,Asphalt (%),±0.2 %
+436,XAP Series Asphalt Mixing Equipment XAP123,XAP123,Rated productivity (t/h),120
+437,XAP Series Asphalt Mixing Equipment XAP123,XAP123,Mixing capacity (kg/patch),1750
+438,XAP Series Asphalt Mixing Equipment XAP123,XAP123,Asphalt (%),0.2
+439,XAP Series Asphalt Mixing Equipment XAP165,XAP165,Rated productivity (t/h),160
+440,XAP Series Asphalt Mixing Equipment XAP165,XAP165,Mixing capacity (kg/patch),2250
+441,XAP Series Asphalt Mixing Equipment XAP165,XAP165,Asphalt (%),0.2
+442,XAP Series Asphalt Mixing Equipment XAP245,XAP245,Rated productivity (t/h),240
+443,XAP Series Asphalt Mixing Equipment XAP245,XAP245,Mixing capacity (kg/patch),3500
+444,XAP Series Asphalt Mixing Equipment XAP245,XAP245,Asphalt (%),0.2
+445,XAP Series Asphalt Mixing Equipment XAP325,XAP325,Rated productivity (t/h),320
+446,XAP Series Asphalt Mixing Equipment XAP325,XAP325,Mixing capacity (kg/patch),4500
+447,XAP Series Asphalt Mixing Equipment XAP325,XAP325,Asphalt (%),0.2
+448,XAP Series Asphalt Mixing Equipment XAP405,XAP405,Rated productivity (t/h),400
+449,XAP Series Asphalt Mixing Equipment XAP405,XAP405,Mixing capacity (kg/patch),5500
+450,XAP Series Asphalt Mixing Equipment XAP405,XAP405,Asphalt (%),0.2
+451,Pavers RP453L,RP453L,Engine manufacturer,Shangchai
+452,Pavers RP453L,RP453L,Engine Model,SC4H
+453,Pavers RP453L,RP453L,Rated Power(kW/rpm),73.5/2000
+454,Pavers RP603,RP603,Engine manufacturer,Cummins
+455,Pavers RP603,RP603,Engine Model,QSB6.7-C170
+456,Pavers RP603,RP603,Rated Power(kW/rpm),129/2200
+457,Pavers RP603L,RP603L,Engine manufacturer,SDEC
+458,Pavers RP603L,RP603L,Engine Model,SC4H140G3
+459,Pavers RP603L,RP603L,Rated Power(kW/rpm),103/2200
+460,Pavers RP903,RP903,Engine manufacturer,SDEC
+461,Pavers RP903,RP903,Engine Model,SC9DK220
+462,Pavers RP903,RP903,Rated Power(kW/rpm),162/2000
+463,Pavers RP953,RP953,Engine manufacturer,SDEC
+464,Pavers RP953,RP953,Engine Model,SC9DK220
+465,Pavers RP953,RP953,Rated Power(kW/rpm),162/2000
+466,Pavers RP1253T,RP1253T,Engine manufacturer,SDEC
+467,Pavers RP1253T,RP1253T,Engine Model,SC9DF330
+468,Pavers RP1253T,RP1253T,Rated Power(kW/rpm),243/2000
+469,Asphalt distributor XLS1203,XLS1203,Max. spraying width (m),6 m
+470,Asphalt distributor XLS1203,XLS1203,Asphalt spraying amount (kg/m²),0.2 -3.0
+471,Asphalt distributor XLS1203,XLS1203,Deviation of spraying amount (kg/m²),±0.07
+472,Asphalt distributor XLS603,XLS603,Max. spraying width (m),4.5 m
+473,Asphalt distributor XLS603,XLS603,Asphalt spraying amount (kg/m²),0.2-3.0
+474,Asphalt distributor XLS603,XLS603,Deviation of spraying amount (kg/m²),±0.07
+475,Asphalt distributor XLS403,XLS403,Max. spraying width (m),4m
+476,Asphalt distributor XLS403,XLS403,Asphalt spraying amount (kg/m²),0.2-3.0
+477,Asphalt distributor XLS403,XLS403,Deviation of spraying amount (kg/m²),±0.07
+478,Asphalt distributor XLS803,XLS803,Max. spraying width (m),6 m
+479,Asphalt distributor XLS803,XLS803,Asphalt spraying amount (kg/m²),0.2-3.0
+480,Asphalt distributor XLS803,XLS803,Deviation of spraying amount (kg/m²),±0.07
+481,Micro-surfacing/slurry sealer XF1003,XF1003,Silo volume (m³),10(maximum 12)
+482,Micro-surfacing/slurry sealer XF1003,XF1003,Asphalt tank capacity (L),4000
+483,Micro-surfacing/slurry sealer XF1003,XF1003,Water tank capacity (L),4000
+484,Cold Milling Machine XM1005H,XM1005H,Engine Model,Cummins
+485,Cold Milling Machine XM1005H,XM1005H,Manufacturer,QSB6.7
+486,Cold Milling Machine XM1005H,XM1005H,Rated power/speed(kw/rpm),164/2200
+487,Three-drum static roller  3Y263J,3Y263J,Operating weight(kg),23000
+488,Three-drum static roller  3Y263J,3Y263J,Max. weight with Counterweight(kg),26000
+489,Three-drum static roller  3Y263J,3Y263J,Static linear load(N/cm),1213
+490,Three-drum static roller  3Y153J,3Y153J,Operating weight(kg),12000
+491,Three-drum static roller  3Y153J,3Y153J,Max. weight with Counterweight(kg),15000
+492,Three-drum static roller  3Y153J,3Y153J,Static linear load(N/cm),823
+493,Three-drum static roller  3Y183J,3Y183J,Operating weight(kg),15000
+494,Three-drum static roller  3Y183J,3Y183J,Max. weight with Counterweight(kg),18000
+495,Three-drum static roller  3Y183J,3Y183J,Static linear load(N/cm),792
+496,Three-drum static roller  3Y223J,3Y223J,Operating weight(kg),19000
+497,Three-drum static roller  3Y223J,3Y223J,Max. weight with Counterweight(kg),22000
+498,Three-drum static roller  3Y223J,3Y223J,Static linear load(N/cm),1002
+499,Backfill Compactor XH233J,XH233J,Operating weight(kg),23000
+500,Backfill Compactor XH233J,XH233J,"Axle load, front(kg)",11500
+501,Backfill Compactor XH233J,XH233J,"Axle load, rear(kg)",11500
+502,Backfill Compactor XH263J,XH263J,Operating weight(kg),26000
+503,Backfill Compactor XH263J,XH263J,"Axle load, front(kg)",13000
+504,Backfill Compactor XH263J,XH263J,"Axle load, rear(kg)",13000
+505,Backfill Compactor XH283J,XH283J,Operating weight(kg),28000
+506,Backfill Compactor XH283J,XH283J,"Axle load, front(kg)",14000
+507,Backfill Compactor XH283J,XH283J,"Axle load, rear(kg)",14000
+508,Light Weight Compactor XMR603,XMR603,Operating weight(kg),6000
+509,Light Weight Compactor XMR603,XMR603,"Axle load, front(kg)",3000
+510,Light Weight Compactor XMR603,XMR603,"Axle load, rear(kg)",3000
+511,Light Weight Compactor XMR083,XMR083,Type,walk behind
+512,Light Weight Compactor XMR083,XMR083,Operating weight(kg),800
+513,Light Weight Compactor XMR083,XMR083,"Axle load, front(kg)",400
+514,Light Weight Compactor XMR153,XMR153,Operating weight(kg),1680
+515,Light Weight Compactor XMR153,XMR153,"Axle load, front(kg)",840
+516,Light Weight Compactor XMR153,XMR153,"Axle load, rear(kg)",840
+517,Light Weight Compactor XMR153S,XMR153S,Operating weight(kg),1600
+518,Light Weight Compactor XMR153S,XMR153S,"Axle load, front(kg)",800
+519,Light Weight Compactor XMR153S,XMR153S,"Axle load, rear(kg)",800
+520,Light Weight Compactor XMR203,XMR203,Operating weight(kg),2000
+521,Light Weight Compactor XMR203,XMR203,"Axle load, front(kg)",1000
+522,Light Weight Compactor XMR203,XMR203,"Axle load, rear(kg)",1000
+523,Light Weight Compactor XMR303,XMR303,Operating weight(kg),3000
+524,Light Weight Compactor XMR303,XMR303,"Axle load, front(kg)",1500
+525,Light Weight Compactor XMR303,XMR303,"Axle load, rear(kg)",1500
+526,Light Weight Compactor XMR303S,XMR303S,Operating weight(kg),3180
+527,Light Weight Compactor XMR303S,XMR303S,"Axle load, front(kg)",1550
+528,Light Weight Compactor XMR303S,XMR303S,"Axle load, rear(kg)",1550
+529,Light Weight Compactor XMR303S (North American),XMR303S (North American),Type,man drive
+530,Light Weight Compactor XMR303S (North American),XMR303S (North American),Operating weight(kg),3340
+531,Light Weight Compactor XMR303S (North American),XMR303S (North American),"Axle load, front(kg)",1480
+532,Light Weight Compactor XMR353E,XMR353E,Operating weight(kg),3500
+533,Light Weight Compactor XMR353E,XMR353E,"Axle load, front(kg)",1750
+534,Light Weight Compactor XMR353E,XMR353E,"Axle load, rear(kg)",1750
+535,Light Weight Compactor XMR403,XMR403,Operating weight(kg),4000
+536,Light Weight Compactor XMR403,XMR403,"Axle load, front(kg)",2000
+537,Light Weight Compactor XMR403,XMR403,"Axle load, rear(kg)",2000
+538,Light Weight Compactor XMR403S,XMR403S,Operating weight(kg),4100
+539,Light Weight Compactor XMR403S,XMR403S,"Axle load, front(kg)",2050
+540,Light Weight Compactor XMR403S,XMR403S,"Axle load, rear(kg)",2050
+541,Light Weight Compactor XMR403S (North American),XMR403S (North American),Operating weight(kg),4100
+542,Light Weight Compactor XMR403S (North American),XMR403S (North American),"Axle load, front(kg)",2050
+543,Light Weight Compactor XMR403S (North American),XMR403S (North American),"Axle load, rear(kg)",2050
+544,Light Weight Compactor XMR403SVT,XMR403SVT,Operating weight(kg),4000
+545,Light Weight Compactor XMR403SVT,XMR403SVT,"Axle load, front(kg)",2000
+546,Light Weight Compactor XMR403SVT,XMR403SVT,"Axle load, rear(kg)",2000
+547,Light Weight Compactor XMR403SVT(North American),XMR403SVT(North American),Operating weight(kg),3880
+548,Light Weight Compactor XMR403SVT(North American),XMR403SVT(North American),"Axle load, front(kg)",1860
+549,Light Weight Compactor XMR403SVT(North American),XMR403SVT(North American),"Axle load, rear(kg)",2020
+550,Light Weight Compactor XMR403VO,XMR403VO,Operating weight(kg),4160
+551,Light Weight Compactor XMR403VO,XMR403VO,"Axle load, front(kg)",1934
+552,Light Weight Compactor XMR403VO,XMR403VO,"Axle load, rear(kg)",2226
+553,Light Weight Compactor XMR403VT,XMR403VT,Operating weight(kg),4000
+554,Light Weight Compactor XMR403VT,XMR403VT,"Axle load, front(kg)",2000
+555,Light Weight Compactor XMR403VT,XMR403VT,"Axle load, rear(kg)",2000
+556,Single drum rollers  & soil compactors  XS395,XS395,Operating weight(kg),38340
+557,Single drum rollers  & soil compactors  XS395,XS395,"Axle load, front(kg)",25560
+558,Single drum rollers  & soil compactors  XS395,XS395,"Axle load, rear(kg)",12780
+559,Single drum rollers  & soil compactors  XS365,XS365,Operating weight(kg),36000
+560,Single drum rollers  & soil compactors  XS365,XS365,"Axle load, front(kg)",24000
+561,Single drum rollers  & soil compactors  XS365,XS365,"Axle load, rear(kg)",12000
+562,Single drum rollers  & soil compactors  XS335,XS335,Operating weight(kg),33500
+563,Single drum rollers  & soil compactors  XS335,XS335,"Axle load, front(kg)",22500
+564,Single drum rollers  & soil compactors  XS335,XS335,"Axle load, rear(kg)",11000
+565,Single drum rollers  & soil compactors  XS303S,XS303S,Operating weight(kg),30000
+566,Single drum rollers  & soil compactors  XS303S,XS303S,"Axle load, front(kg)",18000
+567,Single drum rollers  & soil compactors  XS303S,XS303S,"Axle load, rear(kg)",12000
+568,Single drum rollers  & soil compactors  XS263,XS263,Operating weight(kg),26000
+569,Single drum rollers  & soil compactors  XS263,XS263,"Axle load, front(kg)",17000
+570,Single drum rollers  & soil compactors  XS263,XS263,"Axle load, rear(kg)",9000
+571,Single drum rollers  & soil compactors  XS203,XS203,Operating weight(kg),20000
+572,Single drum rollers  & soil compactors  XS203,XS203,"Axle load, front(kg)",13500
+573,Single drum rollers  & soil compactors  XS203,XS203,"Axle load, rear(kg)",6500
+574,Single drum rollers  & soil compactors  XS183,XS183,Operating weight(kg),18000
+575,Single drum rollers  & soil compactors  XS183,XS183,"Axle load, front(kg)",11500
+576,Single drum rollers  & soil compactors  XS183,XS183,"Axle load, rear(kg)",6500
+577,Single drum rollers  & soil compactors  CV163U(Tier4F),CV163U(Tier4F),Operating weight(kg),16000
+578,Single drum rollers  & soil compactors  CV163U(Tier4F),CV163U(Tier4F),"Axle load, front(kg)",10000
+579,Single drum rollers  & soil compactors  CV163U(Tier4F),CV163U(Tier4F),"Axle load, rear(kg)",6000
+580,Single drum rollers  & soil compactors  XS163,XS163,Operating weight(kg),16000
+581,Single drum rollers  & soil compactors  XS163,XS163,"Axle load, front(kg)",9750
+582,Single drum rollers  & soil compactors  XS163,XS163,"Axle load, rear(kg)",6250
+583,Single drum rollers  & soil compactors  XS143,XS143,Operating weight(kg),14000
+584,Single drum rollers  & soil compactors  XS143,XS143,"Axle load, front(kg)",8000
+585,Single drum rollers  & soil compactors  XS143,XS143,"Axle load, rear(kg)",6000
+586,Single drum rollers  & soil compactors  XS133,XS133,Operating weight(kg),13000
+587,Single drum rollers  & soil compactors  XS133,XS133,"Axle load, front(kg)",7500
+588,Single drum rollers  & soil compactors  XS133,XS133,"Axle load, rear(kg)",5500
+589,Single drum rollers  & soil compactors  XS123,XS123,Operating weight(kg),12000
+590,Single drum rollers  & soil compactors  XS123,XS123,"Axle load, front(kg)",6700
+591,Single drum rollers  & soil compactors  XS123,XS123,"Axle load, rear(kg)",5300
+592,Single drum rollers  & soil compactors  CV123U(Tier4F),CV123U(Tier4F),Operating weight(kg),12400
+593,Single drum rollers  & soil compactors  CV123U(Tier4F),CV123U(Tier4F),"Axle load, front(kg)",6700
+594,Single drum rollers  & soil compactors  CV123U(Tier4F),CV123U(Tier4F),"Axle load, rear(kg)",5700
+595,Single drum rollers  & soil compactors  XS113E(TIRE II),XS113E(TIRE II),Operating weight(kg),10400
+596,Single drum rollers  & soil compactors  XS113E(TIRE II),XS113E(TIRE II),"Axle load, front(kg)",5400
+597,Single drum rollers  & soil compactors  XS113E(TIRE II),XS113E(TIRE II),"Axle load, rear(kg)",5000
+598,Single drum rollers  & soil compactors  XS113(tire II),XS113(tire II),Operating weight(kg),10800
+599,Single drum rollers  & soil compactors  XS113(tire II),XS113(tire II),"Axle load, front(kg)",5900
+600,Single drum rollers  & soil compactors  XS113(tire II),XS113(tire II),"Axle load, rear(kg)",4900
+601,Single drum rollers  & soil compactors  CV83U,CV83U,Operating weight(kg),8000
+602,Single drum rollers  & soil compactors  CV83U,CV83U,"Axle load, front(kg)",3800
+603,Single drum rollers  & soil compactors  CV83U,CV83U,"Axle load, rear(kg)",4200
+604,Single drum rollers  & soil compactors  XS103H,XS103H,Operating weight(kg),10600
+605,Single drum rollers  & soil compactors  XS103H,XS103H,"Axle load, front(kg)",5900
+606,Single drum rollers  & soil compactors  XS103H,XS103H,"Axle load, rear(kg)",4700
+607,Single drum rollers  & soil compactors  XS123H,XS123H,Operating weight(kg),12000
+608,Single drum rollers  & soil compactors  XS123H,XS123H,"Axle load, front(kg)",6400
+609,Single drum rollers  & soil compactors  XS123H,XS123H,"Axle load, rear(kg)",5600
+610,Single drum rollers  & soil compactors  XS143H,XS143H,Operating weight(kg),14000
+611,Single drum rollers  & soil compactors  XS143H,XS143H,"Axle load, front(kg)",7300
+612,Single drum rollers  & soil compactors  XS143H,XS143H,"Axle load, rear(kg)",6700
+613,Single drum rollers  & soil compactors  XS223J,XS223J,Operating weight(kg),22000
+614,Single drum rollers  & soil compactors  XS223J,XS223J,"Axle load, front(kg)",11000
+615,Single drum rollers  & soil compactors  XS223J,XS223J,"Axle load, rear(kg)",11000
+616,Single drum rollers  & soil compactors  XS223JE(Tier III),XS223JE(Tier III),Operating weight(kg),22000
+617,Single drum rollers  & soil compactors  XS223JE(Tier III),XS223JE(Tier III),"Axle load, front(kg)",11000
+618,Single drum rollers  & soil compactors  XS223JE(Tier III),XS223JE(Tier III),"Axle load, rear(kg)",11000
+619,Single drum rollers  & soil compactors  XS223JE(Tier II),XS223JE(Tier II),Operating weight(kg),22000
+620,Single drum rollers  & soil compactors  XS223JE(Tier II),XS223JE(Tier II),"Axle load, front(kg)",11000
+621,Single drum rollers  & soil compactors  XS223JE(Tier II),XS223JE(Tier II),"Axle load, rear(kg)",11000
+622,Single drum rollers  & soil compactors  XS203J(Tier III),XS203J(Tier III),Operating weight(kg),20000
+623,Single drum rollers  & soil compactors  XS203J(Tier III),XS203J(Tier III),"Axle load, front(kg)",10000
+624,Single drum rollers  & soil compactors  XS203J(Tier III),XS203J(Tier III),"Axle load, rear(kg)",10000
+625,Single drum rollers  & soil compactors  XS203J(Tier II),XS203J(Tier II),Operating weight(kg),20000
+626,Single drum rollers  & soil compactors  XS203J(Tier II),XS203J(Tier II),"Axle load, front(kg)",10000
+627,Single drum rollers  & soil compactors  XS203J(Tier II),XS203J(Tier II),"Axle load, rear(kg)",10000
+628,Single drum rollers  & soil compactors  XS183J,XS183J,Operating weight(kg),18000
+629,Single drum rollers  & soil compactors  XS183J,XS183J,"Axle load, front(kg)",9000
+630,Single drum rollers  & soil compactors  XS183J,XS183J,"Axle load, rear(kg)",9000
+631,Single drum rollers  & soil compactors  XS163J,XS163J,Operating weight(kg),16000
+632,Single drum rollers  & soil compactors  XS163J,XS163J,"Axle load, front(kg)",8000
+633,Single drum rollers  & soil compactors  XS163J,XS163J,"Axle load, rear(kg)",8000
+634,Single drum rollers  & soil compactors  XS143J,XS143J,Operating weight(kg),14000
+635,Single drum rollers  & soil compactors  XS143J,XS143J,"Axle load, front(kg)",7300
+636,Single drum rollers  & soil compactors  XS143J,XS143J,"Axle load, rear(kg)",6700
+637,Tandem Roller XD143S,XD143S,Operating weight(kg),14000
+638,Tandem Roller XD143S,XD143S,"Axle load, front(kg)",7000
+639,Tandem Roller XD143S,XD143S,"Axle load, rear(kg)",7000
+640,Tandem Roller XD143,XD143,Operating weight(kg),14000
+641,Tandem Roller XD143,XD143,"Axle load, front(kg)",7000
+642,Tandem Roller XD143,XD143,"Axle load, rear(kg)",7000
+643,Tandem Roller XD133S,XD133S,Operating weight(kg),13200
+644,Tandem Roller XD133S,XD133S,"Axle load, front(kg)",6600
+645,Tandem Roller XD133S,XD133S,"Axle load, rear(kg)",6600
+646,Tandem Roller XD133,XD133,Operating weight(kg),13000
+647,Tandem Roller XD133,XD133,"Axle load, front(kg)",6500
+648,Tandem Roller XD133,XD133,"Axle load, rear(kg)",6500
+649,Tandem Roller XD123S,XD123S,Operating weight(kg),12300
+650,Tandem Roller XD123S,XD123S,"Axle load, front(kg)",6150
+651,Tandem Roller XD123S,XD123S,"Axle load, rear(kg)",6150
+652,Tandem Roller XD123,XD123,Operating weight(kg),12300
+653,Tandem Roller XD123,XD123,"Axle load, front(kg)",6150
+654,Tandem Roller XD123,XD123,"Axle load, rear(kg)",6150
+655,Tandem Roller XD103,XD103,Operating weight(kg),10000
+656,Tandem Roller XD103,XD103,"Axle load, front(kg)",5000
+657,Tandem Roller XD103,XD103,"Axle load, rear(kg)",5000
+658,Tandem Roller XD83,XD83,Operating weight(kg),8500
+659,Tandem Roller XD83,XD83,"Axle load, front(kg)",4250
+660,Tandem Roller XD83,XD83,"Axle load, rear(kg)",4250
+661,Pneumatic  Roller XP103,XP103,Maximum operating weight(kg),10000
+662,Pneumatic  Roller XP103,XP103,Water tank capacity(L),650 L
+663,Pneumatic  Roller XP103,XP103,Counterweight total(kg),650
+664,Pneumatic  Roller XP163S,XP163S,Maximum operating weight(kg),16000
+665,Pneumatic  Roller XP163S,XP163S,Water tank capacity(L),650 L
+666,Pneumatic  Roller XP163S,XP163S,Counterweight total(kg),3600
+667,Pneumatic  Roller XP203,XP203,Maximum operating weight(kg),20000
+668,Pneumatic  Roller XP203,XP203,Water tank capacity(L),650 L
+669,Pneumatic  Roller XP203,XP203,Counterweight total(kg),7600
+670,Pneumatic  Roller XP203S,XP203S,Maximum operating weight(kg),20000
+671,Pneumatic  Roller XP203S,XP203S,Water tank capacity(L),650 L
+672,Pneumatic  Roller XP203S,XP203S,Counterweight total(kg),7600
+673,Pneumatic  Roller XP305S,XP305S,Maximum operating weight(kg),30300
+674,Pneumatic  Roller XP305S,XP305S,Water tank capacity(L),570L
+675,Pneumatic  Roller XP305S,XP305S,Counterweight total(kg),7815
+676,Pneumatic  Roller XP265S,XP265S,Maximum operating weight(kg),26300
+677,Pneumatic  Roller XP265S,XP265S,Water tank capacity(L),570L
+678,Pneumatic  Roller XP265S,XP265S,Counterweight total(kg),3815
+679,Pneumatic  Roller XP303S,XP303S,Maximum operating weight(kg),XP303S
+680,Pneumatic  Roller XP303S,XP303S,Counterweight total(kg),30300
+681,Pneumatic  Roller XP303S,XP303S,Engine manufacturer,20
+682,Pneumatic  Roller XP303K,XP303K,Maximum operating weight(kg),30300
+683,Pneumatic  Roller XP303K,XP303K,Water tank capacity(L),650L
+684,Pneumatic  Roller XP303K,XP303K,Counterweight total(kg),14550
+685,Pneumatic  Roller XP303,XP303,Maximum operating weight(kg),30300
+686,Pneumatic  Roller XP303,XP303,Water tank capacity(L),650L
+687,Pneumatic  Roller XP303,XP303,Counterweight total(kg),14550
+688,Pneumatic  Roller XP263S,XP263S,Maximum operating weight(kg),26300
+689,Pneumatic  Roller XP263S,XP263S,Water tank capacity(L),650L
+690,Pneumatic  Roller XP263S,XP263S,Counterweight total(kg),10550
+691,Pneumatic  Roller XP263K,XP263K,Maximum operating weight(kg),26300
+692,Pneumatic  Roller XP263K,XP263K,Water tank capacity(L),650 L
+693,Pneumatic  Roller XP263K,XP263K,Counterweight total(kg),10550
+694,Pneumatic  Roller XP263,XP263,Maximum operating weight(kg),26300
+695,Pneumatic  Roller XP263,XP263,Water tank capacity(L),650 L
+696,Pneumatic  Roller XP263,XP263,Counterweight total(kg),10550
+697,Pneumatic  Roller XP163,XP163,Maximum operating weight(kg),16000
+698,Pneumatic  Roller XP163,XP163,Water tank capacity(L),650 L
+699,Pneumatic  Roller XP163,XP163,Counterweight total(kg),3600
+700,Motor Grader GR1003,GR1003,Manufacturer,Weichai
+701,Motor Grader GR1003,GR1003,Engine Model,WP4.1
+702,Motor Grader GR1003,GR1003,Rated power/speed (kW/rpm),75/2200
+703,Motor Grader GR1803,GR1803,Manufacturer,Shangchai
+704,Motor Grader GR1803,GR1803,Engine Model,SC7H190.1G3
+705,Motor Grader GR1803,GR1803,Rated power/speed (kW/rpm),140/2000
+706,Motor Grader GR2153,GR2153,Manufacturer,Cummins
+707,Motor Grader GR2153,GR2153,Engine Model,QSB6.7
+708,Motor Grader GR2153,GR2153,Rated power/speed (kW/rpm),164/2000
+709,Motor Grader GR2403,GR2403,Manufacturer,Cummins
+710,Motor Grader GR2403,GR2403,Engine Model,QSB6.7
+711,Motor Grader GR2403,GR2403,Rated power/speed (kW/rpm),178/2000
+712,Motor Grader GR135,GR135,Manufacturer,Cummins
+713,Motor Grader GR135,GR135,Engine Model,6BT5.9
+714,Motor Grader GR135,GR135,Rated power/speed (kW/rpm),97/2200
+715,Motor Grader GR165,GR165,Manufacturer,Cummins
+716,Motor Grader GR165,GR165,Engine Model,6BTA5.9
+717,Motor Grader GR165,GR165,Rated power/speed (kW/rpm),132//2200
+718,Motor Grader GR180,GR180,Manufacturer,Cummins
+719,Motor Grader GR180,GR180,Engine Model,6CTA8.3
+720,Motor Grader GR180,GR180,Rated power/speed (kW/rpm),142/2200
+721,Motor Grader GR215,GR215,Manufacturer,Cummins
+722,Motor Grader GR215,GR215,Engine Model,6CTA8.3
+723,Motor Grader GR215,GR215,Rated power/speed (kW/rpm),160/2200
+724,Motor Grader GR215A,GR215A,Manufacturer,Cummins
+725,Motor Grader GR215A,GR215A,Engine Model,6CTA8.3
+726,Motor Grader GR215A,GR215A,Rated power/speed (kW/rpm),160/2200
+727,Powder binder spreader XKC163,XKC163,Powder Silo volume (m³),16
+728,Powder binder spreader XKC163,XKC163,Spreading width (mm),400～2400
+729,Powder binder spreader XKC163,XKC163,Spreading density (kg/m²),5～40
+730,Powder binder spreader XKC203,XKC203,Powder Silo volume (m³),20
+731,Powder binder spreader XKC203,XKC203,Spreading width (mm),400～2400
+732,Powder binder spreader XKC203,XKC203,Spreading density (kg/m²),5～40
