@@ -2,7 +2,7 @@ import sqlite3
 
 # Database and table details
 DB_NAME = "equipment_data.db"
-TABLE_NAME = "xcmg_road_machinery_data_specs"
+TABLE_NAME = "doosan_compact_excavators_specs"
 
 def view_table_contents():
     conn = sqlite3.connect(DB_NAME)

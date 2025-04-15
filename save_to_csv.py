@@ -23,7 +23,7 @@ for table in tables:
     csv_filename = os.path.join(OUTPUT_FOLDER, f"{table}.csv")
     df.to_csv(csv_filename, index=False)
     print(f"Saved {table} to {csv_filename}")
-
+    
 # Close connection
 conn.close()
 

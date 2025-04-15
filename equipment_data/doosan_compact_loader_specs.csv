@@ -1,0 +1,24 @@
+id,loader_type,equipment_name,model,tipping_load,engine_power,operating_weight
+1,Skid Steer Loader,S100 Skid-Steer Loader,B4KH,915 kg,18.2 kW,1860 kg
+2,Skid Steer Loader,S450 Skid-Steer Loader,B4J7,1308 kg,36.5 kW,2436 kg
+3,Skid Steer Loader,S510 Skid-Steer Loader,B4JB,1703 kg,41 kW,2816 kg
+4,Skid Steer Loader,S530 Skid-Steer Loader,B4KA,1823 kg,41 kW,2952 kg
+5,Skid Steer Loader,S550 Skid-Steer Loader,B4ZD,1852 kg,50.7 kW,2995 kg
+6,Skid Steer Loader,S590 Skid-Steer Loader,B4ZE,1958 kg,50.7 kW,3127 kg
+7,Skid Steer Loader,S630 Skid-Steer Loader,B695,2023 kg,55.3 kW,3553 kg
+8,Skid Steer Loader,S650 Skid-Steer Loader,B66F,2455 kg,55.3 kW,3778 kg
+9,Skid Steer Loader,S66 Skid-Steer Loader,B51U,2359 kg,54.5 kW,3271 kg
+10,Skid Steer Loader,S70 Skid-Steer Loader,B4UC,724 kg,17.5 kW,1312 kg
+11,Skid Steer Loader,S76 Skid-Steer Loader,B4ZY,2722 kg,55.2 kW,3744 kg
+12,Skid Steer Loader,S86 Skid-Steer Loader,B56R,3175 kg,78.5 kW,4497 kg
+13,Small Articulated Loader,L23 Small Articulated Loader,B4LC,1051 kg,18.2 kW,1719 kg
+14,Small Articulated Loader,L28 Small Articulated Loader,B4LD,1109 kg,18.2 kW,1903 kg
+15,Compact Wheel loader,L75 Compact Wheel Loader,B53B,2564 kg,41 kW,4635 kg
+16,Compact Wheel loader,L85 Compact Wheel Loader,B53A,3151 kg,50.7 kW,5091 kg
+17,Compact Wheel loader,L95 Compact Wheel Loader,B5Y3,3339 kg,55.2 kW,5316 kg
+18,Compact Track Loader,MT100 Mini Track Loader,B52P,1290 kg,17.5 kW,1538 kg
+19,Compact Track Loader,T450 Compact Track Loader,B4J6,2049 kg,41 kW,2961 kg
+20,Compact Track Loader,T590 Compact Track Loader,B4KV,2773 kg,50.8 kW,3664 kg
+21,Compact Track Loader,T66 Compact Track Loader,B51V,3175 kg,55.2 kW,4296 kg
+22,Compact Track Loader,T76 Compact Track Loader,B4ZZ,4050 kg,55.2 kW,4898 kg
+23,Compact Track Loader,T86 Compact Track Loader,B56S,5087 kg,78.5 kW,5643 kg

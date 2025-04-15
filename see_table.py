@@ -6,7 +6,7 @@ conn = sqlite3.connect(db_path)
 cursor = conn.cursor()
 
 # Query the table
-cursor.execute("SELECT * FROM xcmg_road_machinery_data_specs LIMIT 100;")
+cursor.execute("SELECT * FROM doosan_compact_loader_specs LIMIT 100;")
 
 # Fetch and display results
 rows = cursor.fetchall()
