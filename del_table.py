@@ -6,7 +6,7 @@ conn = sqlite3.connect(db_path)
 cursor = conn.cursor()
 
 # Drop the table if it exists
-table_name = "doosan_compact_excavators_specs"
+table_name = "volvo_equipment_specs"
 cursor.execute(f"DROP TABLE IF EXISTS `{table_name}`")
 
 # Commit changes and close connection
